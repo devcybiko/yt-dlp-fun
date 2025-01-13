@@ -1,0 +1,1 @@
+cp -R $PROJECT_HOME/podcasts/drfrancintosh/videos /Volumes/RAID-AB/Plex/YouTube
