@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Dr Francintosh Personal Podcast</title>
+  <description>A collection of my favorite audio recordings.</description>
+  <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C</link>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 12 Jan 2025 18:48:50 -0500</lastBuildDate>
+  <author>Dr Francintosh</author>
+  <itunes:category text="Education"/>
+  <itunes:image href="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/artwork.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <item>
+    <title>Branchus Creations: How to remove rust using electrolysis LIVE </title>
+    <itunes:subtitle>Branchus Creations</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/How_to_remove_rust_using_electrolysis_LIVE_.mp3</link>
+    <guid isPermaLink="false">4187dc1c50a95e043f8ed1e054886c158ac4e050d95049e227ba264916d4b628</guid>
+    <pubDate>Sun, 12 Jan 2025 18:14:37 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/How_to_remove_rust_using_electrolysis_LIVE_.mp3" type="audio/mpeg" length="184578429"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Simple Ideas: I Regret Not Learning These 18 Plastic Bottle Lifehacks At Age 40</title>
+    <itunes:subtitle>Simple Ideas</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/I_Regret_Not_Learning_These_18_Plastic_Bottle_Lifehacks_At_Age_40.mp3</link>
+    <guid isPermaLink="false">5471a75a70a202ff9e31f24b54ed49d2da368328a41a5ed82be3e52b5f21cc32</guid>
+    <pubDate>Sun, 12 Jan 2025 18:14:43 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/I_Regret_Not_Learning_These_18_Plastic_Bottle_Lifehacks_At_Age_40.mp3" type="audio/mpeg" length="19853948"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Usagi Electric: Trying to Build a PDP 11 Supercomputer Part 1</title>
+    <itunes:subtitle>Usagi Electric</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Trying_to_Build_a_PDP_11_Supercomputer_Part_1.mp3</link>
+    <guid isPermaLink="false">83843c981e9b624a505d8bdc33cb3372c50cea1bdad643aa103934036446fdf9</guid>
+    <pubDate>Sun, 12 Jan 2025 18:14:57 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Trying_to_Build_a_PDP_11_Supercomputer_Part_1.mp3" type="audio/mpeg" length="41717849"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Action Retro: Inside a 50 000 Unix Workstation from 1996</title>
+    <itunes:subtitle>Action Retro</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Inside_a_50_000_Unix_Workstation_from_1996.mp3</link>
+    <guid isPermaLink="false">bebbd940863907ff76584d33b6d18dea0075e851ee232fd61055e47fb1b63968</guid>
+    <pubDate>Sun, 12 Jan 2025 18:15:02 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Inside_a_50_000_Unix_Workstation_from_1996.mp3" type="audio/mpeg" length="14189709"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Dave's Garage: How Passwords Work and How to Hack Them From DES to ZIP</title>
+    <itunes:subtitle>Dave's Garage</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/How_Passwords_Work_and_How_to_Hack_Them_From_DES_to_ZIP.mp3</link>
+    <guid isPermaLink="false">b8cd981a2609a67a87e127e7b017e155d7d9d46397c958e4f21e3510d8944bfa</guid>
+    <pubDate>Sun, 12 Jan 2025 18:15:09 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/How_Passwords_Work_and_How_to_Hack_Them_From_DES_to_ZIP.mp3" type="audio/mpeg" length="23459228"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Volos Projects: Will an ESP32 board with an external antenna have a stronger Wi Fi signal </title>
+    <itunes:subtitle>Volos Projects</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Will_an_ESP32_board_with_an_external_antenna_have_a_stronger_Wi_Fi_signal_.mp3</link>
+    <guid isPermaLink="false">efab92d59a5983c9df7f25ad4cdc91ab58a0e464cbb64762ee927a6cbb13096f</guid>
+    <pubDate>Sun, 12 Jan 2025 18:15:13 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Will_an_ESP32_board_with_an_external_antenna_have_a_stronger_Wi_Fi_signal_.mp3" type="audio/mpeg" length="13440213"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Electronoobs: I Built a 500 Microphone for Only 20 and It WORKS </title>
+    <itunes:subtitle>Electronoobs</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/I_Built_a_500_Microphone_for_Only_20_and_It_WORKS_.mp3</link>
+    <guid isPermaLink="false">0545734ff531769d22006e99ad3b45d21dbf228bc1075e16461d31d920be4e09</guid>
+    <pubDate>Sun, 12 Jan 2025 18:15:22 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/I_Built_a_500_Microphone_for_Only_20_and_It_WORKS_.mp3" type="audio/mpeg" length="27919337"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>3D Printer Academy: CAD and 3D printing will never be the same </title>
+    <itunes:subtitle>3D Printer Academy</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CAD_and_3D_printing_will_never_be_the_same_.mp3</link>
+    <guid isPermaLink="false">fbfd8bdc7e428e453752cb070333412fa36a37dc519dec7a0e8f1d835967634e</guid>
+    <pubDate>Sun, 12 Jan 2025 18:15:24 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CAD_and_3D_printing_will_never_be_the_same_.mp3" type="audio/mpeg" length="6436937"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>TWiT Tech Podcast Network: Untitled Linux Show 185</title>
+    <itunes:subtitle>TWiT Tech Podcast Network</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Untitled_Linux_Show_185.mp3</link>
+    <guid isPermaLink="false">8cc60640841d26278fd40d90055e7dd83050b929cca68e304ef4e7e35fb0df22</guid>
+    <pubDate>Sun, 12 Jan 2025 18:16:16 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Untitled_Linux_Show_185.mp3" type="audio/mpeg" length="160358685"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Platima Tinkers: SBC Tier List Waveshare RP2350 Plus Development Board Ranked</title>
+    <itunes:subtitle>Platima Tinkers</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/SBC_Tier_List_Waveshare_RP2350_Plus_Development_Board_Ranked.mp3</link>
+    <guid isPermaLink="false">567e91516e6de9d15a2bd8300a391b4ffad12524c8ce8394ca66df9a9bbda68e</guid>
+    <pubDate>Sun, 12 Jan 2025 18:16:28 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/SBC_Tier_List_Waveshare_RP2350_Plus_Development_Board_Ranked.mp3" type="audio/mpeg" length="39846524"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Adrian's Digital Basement: CRT Archeology Mystery Toshiba display GBC MV 10A </title>
+    <itunes:subtitle>Adrian's Digital Basement</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CRT_Archeology_Mystery_Toshiba_display_GBC_MV_10A_.mp3</link>
+    <guid isPermaLink="false">69ce5442ce5c1203081ec88e6bd9b3c67e3a904f20fe65ac93b2569c420ad9c4</guid>
+    <pubDate>Sun, 12 Jan 2025 18:17:00 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CRT_Archeology_Mystery_Toshiba_display_GBC_MV_10A_.mp3" type="audio/mpeg" length="98793812"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Uni-Byte: Uni Byte 0245 Mailbag 33 Another AliExpress shopping SPREE </title>
+    <itunes:subtitle>Uni-Byte</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Uni_Byte_0245_Mailbag_33_Another_AliExpress_shopping_SPREE_.mp3</link>
+    <guid isPermaLink="false">1fddd8b6d3ffd47af7af7496d116947fcfc68806da90eaaa7cb5b80c527ba001</guid>
+    <pubDate>Sun, 12 Jan 2025 18:17:05 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Uni_Byte_0245_Mailbag_33_Another_AliExpress_shopping_SPREE_.mp3" type="audio/mpeg" length="17956940"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>StarTalk: The Science of Hypnosis with David Spiegel</title>
+    <itunes:subtitle>StarTalk</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Science_of_Hypnosis_with_David_Spiegel.mp3</link>
+    <guid isPermaLink="false">9ea1394937ff62947f6fc7b4609586fa4cd14379af1f8bd418d312b75d2eb003</guid>
+    <pubDate>Sun, 12 Jan 2025 18:17:25 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Science_of_Hypnosis_with_David_Spiegel.mp3" type="audio/mpeg" length="64218020"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Michael Tunnell: COSMIC Alpha 5 KDE Plasma 6 3 beta SteamOS beyond Steam Deck more Linux news</title>
+    <itunes:subtitle>Michael Tunnell</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/COSMIC_Alpha_5_KDE_Plasma_6_3_beta_SteamOS_beyond_Steam_Deck_more_Linux_news.mp3</link>
+    <guid isPermaLink="false">507cf434e6ec8d5e895d559e30127604ca4f9b1f551afabd61e670477605a84f</guid>
+    <pubDate>Sun, 12 Jan 2025 18:17:38 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/COSMIC_Alpha_5_KDE_Plasma_6_3_beta_SteamOS_beyond_Steam_Deck_more_Linux_news.mp3" type="audio/mpeg" length="46648316"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>EDISON SCIENCE CORNER: Miniware TS80P Review Compact Tool Awesome performance</title>
+    <itunes:subtitle>EDISON SCIENCE CORNER</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Miniware_TS80P_Review_Compact_Tool_Awesome_performance.mp3</link>
+    <guid isPermaLink="false">2f8dda5d56e9cca604187fe0fea00437c11739b8ed1ee0087928ef0e41667930</guid>
+    <pubDate>Sun, 12 Jan 2025 18:17:40 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Miniware_TS80P_Review_Compact_Tool_Awesome_performance.mp3" type="audio/mpeg" length="4711892"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>ExplainingComputers: Raspberry Pi 500 Best Linux Keyboard PC </title>
+    <itunes:subtitle>ExplainingComputers</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Raspberry_Pi_500_Best_Linux_Keyboard_PC_.mp3</link>
+    <guid isPermaLink="false">e5856a6d3f25f6f828b4e636bba02f28275c79ce192387e0f17ab4940757a9d0</guid>
+    <pubDate>Sun, 12 Jan 2025 18:17:50 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Raspberry_Pi_500_Best_Linux_Keyboard_PC_.mp3" type="audio/mpeg" length="31734065"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>spidermaf: Building A 3D Printed Bambu Mouse without the instructions Chill ASMR</title>
+    <itunes:subtitle>spidermaf</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Building_A_3D_Printed_Bambu_Mouse_without_the_instructions_Chill_ASMR.mp3</link>
+    <guid isPermaLink="false">455a1f9e2e48d7f5ecf2de8194f6e5a80f9962c1cdfafbc3ef4a175b2e6bbd48</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:03 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Building_A_3D_Printed_Bambu_Mouse_without_the_instructions_Chill_ASMR.mp3" type="audio/mpeg" length="36600284"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Retro Recipes 🕹️ vintage tech + tv: Can I Fix My First Ever Computer 2UP</title>
+    <itunes:subtitle>Retro Recipes 🕹️ vintage tech + tv</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Can_I_Fix_My_First_Ever_Computer_2UP.mp3</link>
+    <guid isPermaLink="false">2d2ce8c20d550a667027cf5573b227ee784ff30b77593db94c124a9fa591509a</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:11 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Can_I_Fix_My_First_Ever_Computer_2UP.mp3" type="audio/mpeg" length="29321804"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Rixtronix LAB: OpAmp OP3XAppC koding KM406</title>
+    <itunes:subtitle>Rixtronix LAB</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/OpAmp_OP3XAppC_koding_KM406.mp3</link>
+    <guid isPermaLink="false">1a1bce438130ec8518464522465b331b8c81e86f3e70558d8a988a99d6182a67</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:11 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/OpAmp_OP3XAppC_koding_KM406.mp3" type="audio/mpeg" length="483861"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Andreas Spiess: Why Microcontrollers are a good AI companion</title>
+    <itunes:subtitle>Andreas Spiess</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Why_Microcontrollers_are_a_good_AI_companion.mp3</link>
+    <guid isPermaLink="false">23b5fda1662e63b9a247102d3877ad33265cd51ccf78be809a3a94788457e91e</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:20 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Why_Microcontrollers_are_a_good_AI_companion.mp3" type="audio/mpeg" length="27574097"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>ServeTheHome: Dell s Compact Workstation Answer</title>
+    <itunes:subtitle>ServeTheHome</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Dell_s_Compact_Workstation_Answer.mp3</link>
+    <guid isPermaLink="false">de8ae93e29c85576b54b43b0b56c73732d98039e8d65d7f8b4b5c0fcf7e8e968</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:28 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Dell_s_Compact_Workstation_Answer.mp3" type="audio/mpeg" length="27315692"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>RETRO is the new black (Wolfgang Kierdorf): This is NOT a Commodore 1084 what is this pcbway commodore amiga c64 HIGHSCREEN ST88</title>
+    <itunes:subtitle>RETRO is the new black (Wolfgang Kierdorf)</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/This_is_NOT_a_Commodore_1084_what_is_this_pcbway_commodore_amiga_c64_HIGHSCREEN_ST88.mp3</link>
+    <guid isPermaLink="false">eb9b37e9e6346c9ef969b5036681cbe292adcac1070443ebe87fdfc5ed03c029</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:35 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/This_is_NOT_a_Commodore_1084_what_is_this_pcbway_commodore_amiga_c64_HIGHSCREEN_ST88.mp3" type="audio/mpeg" length="24641324"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>LRN2DIY: Every Drill Has THIS SECRET Safety Feature Built In</title>
+    <itunes:subtitle>LRN2DIY</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Every_Drill_Has_THIS_SECRET_Safety_Feature_Built_In.mp3</link>
+    <guid isPermaLink="false">2254e82d953adc25147afaf8ebe2123e4437aa52aec17e4fe102bc68d3d8ab36</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:40 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Every_Drill_Has_THIS_SECRET_Safety_Feature_Built_In.mp3" type="audio/mpeg" length="14015709"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Skylabs Audio: Did Collectors Ruin Our Vintage Stereo Hobby </title>
+    <itunes:subtitle>Skylabs Audio</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Did_Collectors_Ruin_Our_Vintage_Stereo_Hobby_.mp3</link>
+    <guid isPermaLink="false">fd6d62efbf9e7c91dba2675edde6d44e86e3d5439d7721e2a56a4d7ddf166a54</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:46 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Did_Collectors_Ruin_Our_Vintage_Stereo_Hobby_.mp3" type="audio/mpeg" length="22435121"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>David Malawey: we must pause our goals if we wish to learn </title>
+    <itunes:subtitle>David Malawey</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/we_must_pause_our_goals_if_we_wish_to_learn_.mp3</link>
+    <guid isPermaLink="false">c1fb0d9c801b3bf7da7e01cafbd6ea0f422b0bfc67de6bd7b28e944b21cbf707</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:48 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/we_must_pause_our_goals_if_we_wish_to_learn_.mp3" type="audio/mpeg" length="3499628"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>GreatScott!: The Coolest Speakers are TOO PRICEY Let s Change that DIY or Buy </title>
+    <itunes:subtitle>GreatScott!</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Coolest_Speakers_are_TOO_PRICEY_Let_s_Change_that_DIY_or_Buy_.mp3</link>
+    <guid isPermaLink="false">88ad19f30733e263f4c46cadf9a34ba79813c7a08998bea6e5dbcd0e8033e888</guid>
+    <pubDate>Sun, 12 Jan 2025 18:18:54 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Coolest_Speakers_are_TOO_PRICEY_Let_s_Change_that_DIY_or_Buy_.mp3" type="audio/mpeg" length="20795228"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+</channel>
+</rss>

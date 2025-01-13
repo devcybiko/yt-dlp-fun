@@ -1,0 +1,982 @@
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Branchus Creations/How to remove rust using electrolysis [LIVE].mkv':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6avc1mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 02:31:55.61, start: 0.000000, bitrate: 2312 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 02:31:55.566000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 02:31:55.608000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Branchus Creations/How_to_remove_rust_using_electrolysis_LIVE_.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6avc1mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 02:31:55.608000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:05.86 bitrate= 191.0kbits/s speed= 130x    size=    3072KiB time=00:02:25.47 bitrate= 173.0kbits/s speed= 144x    size=    4864KiB time=00:03:47.02 bitrate= 175.5kbits/s speed= 150x    size=    6400KiB time=00:05:07.97 bitrate= 170.2kbits/s speed= 152x    size=    7936KiB time=00:06:29.04 bitrate= 167.1kbits/s speed= 154x    size=    9472KiB time=00:07:50.07 bitrate= 165.1kbits/s speed= 155x    size=   11264KiB time=00:09:10.97 bitrate= 167.5kbits/s speed= 156x    size=   12800KiB time=00:10:31.80 bitrate= 166.0kbits/s speed= 156x    size=   14336KiB time=00:11:51.53 bitrate= 165.1kbits/s speed= 157x    size=   15872KiB time=00:13:12.15 bitrate= 164.1kbits/s speed= 157x    size=   17664KiB time=00:14:32.23 bitrate= 165.9kbits/s speed= 157x    size=   19200KiB time=00:15:53.21 bitrate= 165.0kbits/s speed= 157x    size=   20736KiB time=00:17:13.73 bitrate= 164.3kbits/s speed= 157x    size=   22272KiB time=00:18:33.91 bitrate= 163.8kbits/s speed= 158x    size=   24064KiB time=00:19:54.82 bitrate= 165.0kbits/s speed= 158x    size=   25600KiB time=00:21:14.43 bitrate= 164.6kbits/s speed= 158x    size=   27136KiB time=00:22:34.35 bitrate= 164.1kbits/s speed= 158x    size=   28672KiB time=00:23:53.64 bitrate= 163.8kbits/s speed= 158x    size=   30208KiB time=00:25:12.51 bitrate= 163.6kbits/s speed= 158x    size=   31744KiB time=00:26:31.83 bitrate= 163.4kbits/s speed= 158x    size=   33280KiB time=00:27:51.43 bitrate= 163.1kbits/s speed= 158x    size=   34816KiB time=00:29:11.86 bitrate= 162.8kbits/s speed= 158x    size=   36352KiB time=00:30:31.90 bitrate= 162.6kbits/s speed= 158x    size=   37888KiB time=00:31:52.15 bitrate= 162.3kbits/s speed= 158x    size=   39424KiB time=00:33:12.03 bitrate= 162.1kbits/s speed= 158x    size=   40960KiB time=00:34:31.59 bitrate= 162.0kbits/s speed= 158x    size=   42496KiB time=00:35:50.59 bitrate= 161.9kbits/s speed= 158x    size=   44288KiB time=00:37:09.36 bitrate= 162.7kbits/s speed= 158x    size=   45824KiB time=00:38:28.37 bitrate= 162.6kbits/s speed= 158x    size=   47360KiB time=00:39:47.67 bitrate= 162.5kbits/s speed= 158x    size=   48896KiB time=00:41:06.96 bitrate= 162.4kbits/s speed= 158x    size=   50432KiB time=00:42:26.45 bitrate= 162.2kbits/s speed= 158x    size=   51968KiB time=00:43:46.87 bitrate= 162.1kbits/s speed= 158x    size=   53504KiB time=00:44:59.33 bitrate= 162.4kbits/s speed= 157x    size=   55296KiB time=00:46:05.57 bitrate= 163.8kbits/s speed= 156x    size=   56832KiB time=00:47:23.07 bitrate= 163.8kbits/s speed= 156x    size=   58368KiB time=00:48:40.27 bitrate= 163.7kbits/s speed= 156x    size=   59904KiB time=00:49:57.53 bitrate= 163.7kbits/s speed= 156x    size=   61440KiB time=00:51:13.68 bitrate= 163.8kbits/s speed= 156x    size=   62976KiB time=00:52:30.72 bitrate= 163.7kbits/s speed= 156x    size=   64512KiB time=00:53:48.43 bitrate= 163.7kbits/s speed= 156x    size=   66048KiB time=00:55:05.79 bitrate= 163.7kbits/s speed= 156x    size=   67328KiB time=00:56:21.70 bitrate= 163.1kbits/s speed= 156x    size=   68864KiB time=00:57:36.67 bitrate= 163.2kbits/s speed= 156x    size=   70400KiB time=00:58:47.88 bitrate= 163.5kbits/s speed= 155x    size=   71680KiB time=01:00:03.29 bitrate= 163.0kbits/s speed= 155x    size=   73216KiB time=01:01:17.93 bitrate= 163.1kbits/s speed= 155x    size=   74752KiB time=01:02:33.51 bitrate= 163.1kbits/s speed= 155x    size=   76032KiB time=01:03:49.56 bitrate= 162.6kbits/s speed= 155x    size=   77568KiB time=01:05:05.28 bitrate= 162.7kbits/s speed= 155x    size=   79104KiB time=01:06:21.96 bitrate= 162.7kbits/s speed= 155x    size=   80640KiB time=01:07:39.55 bitrate= 162.7kbits/s speed= 155x    size=   82176KiB time=01:08:55.61 bitrate= 162.8kbits/s speed= 155x    size=   83712KiB time=01:10:11.76 bitrate= 162.8kbits/s speed= 154x    size=   84992KiB time=01:11:28.25 bitrate= 162.4kbits/s speed= 154x    size=   86528KiB time=01:12:45.51 bitrate= 162.4kbits/s speed= 154x    size=   88064KiB time=01:14:02.62 bitrate= 162.4kbits/s speed= 154x    size=   89600KiB time=01:15:19.08 bitrate= 162.4kbits/s speed= 154x    size=   91136KiB time=01:16:34.99 bitrate= 162.5kbits/s speed= 154x    size=   92672KiB time=01:17:51.60 bitrate= 162.5kbits/s speed= 154x    size=   94208KiB time=01:19:07.39 bitrate= 162.6kbits/s speed= 154x    size=   95744KiB time=01:20:24.60 bitrate= 162.6kbits/s speed= 154x    size=   97024KiB time=01:21:40.35 bitrate= 162.2kbits/s speed= 154x    size=   98560KiB time=01:22:56.07 bitrate= 162.3kbits/s speed= 154x    size=  100096KiB time=01:24:12.22 bitrate= 162.3kbits/s speed= 154x    size=  101376KiB time=01:25:23.35 bitrate= 162.1kbits/s speed= 154x    size=  102912KiB time=01:26:40.13 bitrate= 162.1kbits/s speed= 154x    size=  104192KiB time=01:27:41.33 bitrate= 162.2kbits/s speed= 153x    size=  105728KiB time=01:28:56.93 bitrate= 162.3kbits/s speed= 153x    size=  107008KiB time=01:30:11.88 bitrate= 162.0kbits/s speed= 153x    size=  108544KiB time=01:31:27.79 bitrate= 162.0kbits/s speed= 153x    size=  110080KiB time=01:32:44.50 bitrate= 162.1kbits/s speed= 153x    size=  111616KiB time=01:34:01.03 bitrate= 162.1kbits/s speed= 153x    size=  113152KiB time=01:35:17.64 bitrate= 162.1kbits/s speed= 153x    size=  114432KiB time=01:36:34.11 bitrate= 161.8kbits/s speed= 153x    size=  115968KiB time=01:37:49.49 bitrate= 161.9kbits/s speed= 153x    size=  117504KiB time=01:39:06.24 bitrate= 161.9kbits/s speed= 153x    size=  118784KiB time=01:40:22.90 bitrate= 161.6kbits/s speed= 153x    size=  120320KiB time=01:41:38.88 bitrate= 161.6kbits/s speed= 153x    size=  121856KiB time=01:42:54.29 bitrate= 161.7kbits/s speed= 153x    size=  123392KiB time=01:44:10.44 bitrate= 161.7kbits/s speed= 153x    size=  124672KiB time=01:45:26.07 bitrate= 161.4kbits/s speed= 153x    size=  126208KiB time=01:46:42.43 bitrate= 161.5kbits/s speed= 153x    size=  127744KiB time=01:47:58.37 bitrate= 161.5kbits/s speed= 153x    size=  129280KiB time=01:49:14.95 bitrate= 161.6kbits/s speed= 153x    size=  130816KiB time=01:50:31.99 bitrate= 161.6kbits/s speed= 153x    size=  132352KiB time=01:51:48.65 bitrate= 161.6kbits/s speed= 153x    size=  133888KiB time=01:53:06.67 bitrate= 161.6kbits/s speed= 153x    size=  135168KiB time=01:54:20.23 bitrate= 161.4kbits/s speed= 153x    size=  136704KiB time=01:55:36.27 bitrate= 161.5kbits/s speed= 153x    size=  138240KiB time=01:56:51.89 bitrate= 161.5kbits/s speed= 153x    size=  139520KiB time=01:58:05.38 bitrate= 161.3kbits/s speed= 153x    size=  141056KiB time=01:59:20.59 bitrate= 161.4kbits/s speed= 153x    size=  142336KiB time=02:00:35.62 bitrate= 161.1kbits/s speed= 152x    size=  143872KiB time=02:01:53.11 bitrate= 161.2kbits/s speed= 152x    size=  145408KiB time=02:03:09.63 bitrate= 161.2kbits/s speed= 152x    size=  146944KiB time=02:04:23.86 bitrate= 161.3kbits/s speed= 152x    size=  148224KiB time=02:05:38.76 bitrate= 161.1kbits/s speed= 152x    size=  149760KiB time=02:06:54.39 bitrate= 161.1kbits/s speed= 152x    size=  151296KiB time=02:08:10.87 bitrate= 161.2kbits/s speed= 152x    size=  152576KiB time=02:09:25.83 bitrate= 160.9kbits/s speed= 152x    size=  154112KiB time=02:10:40.11 bitrate= 161.0kbits/s speed= 152x    size=  155648KiB time=02:11:57.12 bitrate= 161.1kbits/s speed= 152x    size=  157184KiB time=02:13:13.35 bitrate= 161.1kbits/s speed= 152x    size=  158464KiB time=02:14:22.42 bitrate= 161.0kbits/s speed= 152x    size=  160000KiB time=02:15:39.39 bitrate= 161.0kbits/s speed= 152x    size=  161536KiB time=02:16:40.11 bitrate= 161.4kbits/s speed= 152x    size=  163072KiB time=02:17:52.85 bitrate= 161.5kbits/s speed= 152x    size=  164608KiB time=02:19:08.86 bitrate= 161.5kbits/s speed= 152x    size=  166144KiB time=02:20:25.23 bitrate= 161.5kbits/s speed= 152x    size=  167680KiB time=02:21:42.29 bitrate= 161.6kbits/s speed= 152x    size=  169216KiB time=02:22:58.01 bitrate= 161.6kbits/s speed= 152x    size=  170752KiB time=02:24:14.47 bitrate= 161.6kbits/s speed= 152x    size=  172288KiB time=02:25:31.49 bitrate= 161.6kbits/s speed= 152x    size=  173824KiB time=02:26:47.91 bitrate= 161.7kbits/s speed= 152x    size=  175360KiB time=02:27:59.57 bitrate= 161.8kbits/s speed= 152x    size=  176640KiB time=02:29:14.26 bitrate= 161.6kbits/s speed= 152x    size=  178176KiB time=02:30:26.21 bitrate= 161.7kbits/s speed= 152x    size=  179712KiB time=02:31:39.27 bitrate= 161.8kbits/s speed= 151x    [out#0/mp3 @ 0x141f3a870] video:0KiB audio:180252KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000180%
+size=  180252KiB time=02:31:55.58 bitrate= 162.0kbits/s speed= 151x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Simple Ideas/I Regret Not Learning These 18 Plastic Bottle Lifehacks At Age 40.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:11:31.43, start: 0.000000, bitrate: 2252 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:11:31.307000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:11:31.428000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Simple Ideas/I_Regret_Not_Learning_These_18_Plastic_Bottle_Lifehacks_At_Age_40.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:11:31.428000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:00:59.40 bitrate= 211.8kbits/s speed= 118x    size=    3328KiB time=00:01:59.43 bitrate= 228.3kbits/s speed= 118x    size=    4864KiB time=00:02:59.47 bitrate= 222.0kbits/s speed= 119x    size=    6400KiB time=00:04:00.60 bitrate= 217.9kbits/s speed= 119x    size=    8192KiB time=00:04:59.76 bitrate= 223.9kbits/s speed= 119x    size=    9984KiB time=00:05:59.81 bitrate= 227.3kbits/s speed= 119x    size=   11520KiB time=00:07:01.32 bitrate= 224.0kbits/s speed= 119x    size=   13312KiB time=00:08:01.35 bitrate= 226.6kbits/s speed= 119x    size=   14848KiB time=00:09:01.71 bitrate= 224.5kbits/s speed= 119x    size=   16640KiB time=00:10:01.37 bitrate= 226.7kbits/s speed= 119x    size=   18432KiB time=00:11:00.07 bitrate= 228.8kbits/s speed= 119x    [out#0/mp3 @ 0x156f309e0] video:0KiB audio:19388KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001189%
+size=   19389KiB time=00:11:31.41 bitrate= 229.7kbits/s speed= 119x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Usagi Electric/Trying to Build a PDP-11 Supercomputer – Part 1.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:32:21.91, start: 0.000000, bitrate: 2586 kb/s
+  Stream #0:0: Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:32:21.873000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:32:21.908000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Usagi Electric/Trying_to_Build_a_PDP_11_Supercomputer_Part_1.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:32:21.908000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1280KiB time=00:01:09.96 bitrate= 149.9kbits/s speed= 139x    size=    2816KiB time=00:02:18.10 bitrate= 167.0kbits/s speed= 137x    size=    4352KiB time=00:03:27.77 bitrate= 171.6kbits/s speed= 137x    size=    5888KiB time=00:04:37.66 bitrate= 173.7kbits/s speed= 138x    size=    7424KiB time=00:05:48.03 bitrate= 174.7kbits/s speed= 138x    size=    8960KiB time=00:06:57.96 bitrate= 175.6kbits/s speed= 138x    size=   10496KiB time=00:08:07.90 bitrate= 176.2kbits/s speed= 138x    size=   12032KiB time=00:09:18.75 bitrate= 176.4kbits/s speed= 139x    size=   13568KiB time=00:10:27.24 bitrate= 177.2kbits/s speed= 138x    size=   14848KiB time=00:11:36.60 bitrate= 174.6kbits/s speed= 138x    size=   16384KiB time=00:12:46.68 bitrate= 175.1kbits/s speed= 138x    size=   17664KiB time=00:13:42.41 bitrate= 175.9kbits/s speed= 136x    size=   19200KiB time=00:14:51.29 bitrate= 176.5kbits/s speed= 136x    size=   20736KiB time=00:16:00.19 bitrate= 176.9kbits/s speed= 136x    size=   22016KiB time=00:17:09.89 bitrate= 175.1kbits/s speed= 136x    size=   23552KiB time=00:18:19.61 bitrate= 175.5kbits/s speed= 136x    size=   24832KiB time=00:19:21.27 bitrate= 175.2kbits/s speed= 136x    size=   26368KiB time=00:20:30.15 bitrate= 175.6kbits/s speed= 136x    size=   27904KiB time=00:21:38.62 bitrate= 176.0kbits/s speed= 136x    size=   29440KiB time=00:22:48.12 bitrate= 176.3kbits/s speed= 136x    size=   30720KiB time=00:23:56.07 bitrate= 175.2kbits/s speed= 136x    size=   32256KiB time=00:25:04.39 bitrate= 175.6kbits/s speed= 136x    size=   33536KiB time=00:26:13.01 bitrate= 174.6kbits/s speed= 136x    size=   35072KiB time=00:27:21.65 bitrate= 175.0kbits/s speed= 136x    size=   36608KiB time=00:28:30.48 bitrate= 175.3kbits/s speed= 136x    size=   37888KiB time=00:29:39.63 bitrate= 174.4kbits/s speed= 136x    size=   39424KiB time=00:30:48.39 bitrate= 174.7kbits/s speed= 136x    size=   40448KiB time=00:32:07.99 bitrate= 171.9kbits/s speed= 137x    [out#0/mp3 @ 0x13b707640] video:0KiB audio:40740KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000789%
+size=   40740KiB time=00:32:21.89 bitrate= 171.9kbits/s speed= 137x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Action Retro/Inside a $50,000 Unix Workstation from 1996.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6av01mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:11:23.87, start: 0.000000, bitrate: 10243 kb/s
+  Stream #0:0: Video: av1 (libdav1d) (Main), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:11:23.849000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:11:23.868000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Action Retro/Inside_a_50_000_Unix_Workstation_from_1996.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6av01mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:11:23.868000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:16.08 bitrate= 165.4kbits/s speed= 151x    size=    3072KiB time=00:02:34.54 bitrate= 162.8kbits/s speed= 153x    size=    4608KiB time=00:03:51.77 bitrate= 162.9kbits/s speed= 153x    size=    6144KiB time=00:05:10.59 bitrate= 162.1kbits/s speed= 154x    size=    7680KiB time=00:06:20.93 bitrate= 165.2kbits/s speed= 151x    size=    9216KiB time=00:07:40.47 bitrate= 164.0kbits/s speed= 152x    size=   10752KiB time=00:09:00.91 bitrate= 162.8kbits/s speed= 153x    size=   12288KiB time=00:10:19.37 bitrate= 162.5kbits/s speed= 153x    [out#0/mp3 @ 0x126730050] video:0KiB audio:13857KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002347%
+size=   13857KiB time=00:11:23.85 bitrate= 166.0kbits/s speed= 152x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Dave's Garage/How Passwords Work and How to Hack Them： From DES to ZIP.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:18:16.15, start: 0.000000, bitrate: 15554 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:18:16.128000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:18:16.148000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Dave's Garage/How_Passwords_Work_and_How_to_Hack_Them_From_DES_to_ZIP.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:18:16.148000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:06.15 bitrate= 190.2kbits/s speed= 131x    size=    3072KiB time=00:02:23.55 bitrate= 175.3kbits/s speed= 142x    size=    4608KiB time=00:03:41.43 bitrate= 170.5kbits/s speed= 146x    size=    6144KiB time=00:04:59.11 bitrate= 168.3kbits/s speed= 148x    size=    7936KiB time=00:06:16.56 bitrate= 172.6kbits/s speed= 149x    size=    9472KiB time=00:07:33.70 bitrate= 171.0kbits/s speed= 150x    size=   11008KiB time=00:08:51.00 bitrate= 169.8kbits/s speed= 150x    size=   12544KiB time=00:10:08.19 bitrate= 169.0kbits/s speed= 151x    size=   14336KiB time=00:11:25.39 bitrate= 171.3kbits/s speed= 151x    size=   15872KiB time=00:12:42.82 bitrate= 170.5kbits/s speed= 151x    size=   17408KiB time=00:14:00.03 bitrate= 169.8kbits/s speed= 151x    size=   18944KiB time=00:15:17.50 bitrate= 169.1kbits/s speed= 151x    size=   20736KiB time=00:16:34.95 bitrate= 170.7kbits/s speed= 152x    size=   22272KiB time=00:17:51.24 bitrate= 170.3kbits/s speed= 152x    [out#0/mp3 @ 0x13c005400] video:0KiB audio:22909KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001006%
+size=   22909KiB time=00:18:16.13 bitrate= 171.2kbits/s speed= 152x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Volos Projects/Will an ESP32 board with an external antenna have a stronger Wi-Fi signal？.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6av01mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:08:25.59, start: 0.000000, bitrate: 3895 kb/s
+  Stream #0:0: Video: av1 (libdav1d) (Main), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:08:25.560000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:08:25.588000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Volos Projects/Will_an_ESP32_board_with_an_external_antenna_have_a_stronger_Wi_Fi_signal_.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6av01mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:08:25.588000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:02.91 bitrate= 200.0kbits/s speed= 125x    size=    2816KiB time=00:02:02.26 bitrate= 188.7kbits/s speed= 121x    size=    4608KiB time=00:03:03.99 bitrate= 205.2kbits/s speed= 122x    size=    6144KiB time=00:04:05.64 bitrate= 204.9kbits/s speed= 122x    size=    7680KiB time=00:05:07.73 bitrate= 204.4kbits/s speed= 122x    size=    9472KiB time=00:06:08.81 bitrate= 210.4kbits/s speed= 122x    size=   11008KiB time=00:07:09.70 bitrate= 209.9kbits/s speed= 122x    size=   12544KiB time=00:08:11.40 bitrate= 209.1kbits/s speed= 122x    [out#0/mp3 @ 0x14072d8a0] video:0KiB audio:13125KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002478%
+size=   13125KiB time=00:08:25.57 bitrate= 212.7kbits/s speed= 122x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Electronoobs/I Built a $500 Microphone for Only $20 and It WORKS!.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:19:41.47, start: 0.000000, bitrate: 2771 kb/s
+  Stream #0:0: Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:19:41.440000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:19:41.468000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Electronoobs/I_Built_a_500_Microphone_for_Only_20_and_It_WORKS_.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:19:41.468000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:06.05 bitrate= 190.5kbits/s speed= 131x    size=    3072KiB time=00:02:10.63 bitrate= 192.6kbits/s speed= 129x    size=    4352KiB time=00:03:12.24 bitrate= 185.4kbits/s speed= 127x    size=    5888KiB time=00:04:13.99 bitrate= 189.9kbits/s speed= 126x    size=    7424KiB time=00:05:22.39 bitrate= 188.6kbits/s speed= 128x    size=    8960KiB time=00:06:27.34 bitrate= 189.5kbits/s speed= 128x    size=   10752KiB time=00:07:32.57 bitrate= 194.6kbits/s speed= 128x    size=   12032KiB time=00:08:36.99 bitrate= 190.7kbits/s speed= 128x    size=   13568KiB time=00:09:44.11 bitrate= 190.3kbits/s speed= 129x    size=   15104KiB time=00:10:47.21 bitrate= 191.2kbits/s speed= 128x    size=   16640KiB time=00:11:49.06 bitrate= 192.2kbits/s speed= 128x    size=   18176KiB time=00:12:54.63 bitrate= 192.2kbits/s speed= 128x    size=   19712KiB time=00:14:03.55 bitrate= 191.4kbits/s speed= 129x    size=   21248KiB time=00:15:11.91 bitrate= 190.9kbits/s speed= 129x    size=   22528KiB time=00:16:15.58 bitrate= 189.2kbits/s speed= 129x    size=   24064KiB time=00:17:23.57 bitrate= 188.9kbits/s speed= 129x    size=   25600KiB time=00:18:32.38 bitrate= 188.5kbits/s speed= 130x    [out#0/mp3 @ 0x14d62b070] video:0KiB audio:27265KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001178%
+size=   27265KiB time=00:19:41.44 bitrate= 189.1kbits/s speed= 130x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/3D Printer Academy/CAD and 3D printing will never be the same.....webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:03:40.85, start: 0.000000, bitrate: 1918 kb/s
+  Stream #0:0: Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:03:40.833000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:03:40.848000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/3D Printer Academy/CAD_and_3D_printing_will_never_be_the_same_.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:03:40.848000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:00.36 bitrate= 208.4kbits/s speed= 120x    size=    3328KiB time=00:02:00.55 bitrate= 226.1kbits/s speed= 119x    size=    4864KiB time=00:03:00.91 bitrate= 220.2kbits/s speed= 119x    [out#0/mp3 @ 0x13e6051e0] video:0KiB audio:6286KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005111%
+size=    6286KiB time=00:03:40.84 bitrate= 233.2kbits/s speed= 118x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/TWiT Tech Podcast Network/Untitled Linux Show 185.mkv':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6avc1mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 02:07:35.29, start: 0.000000, bitrate: 1833 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 02:07:35.266000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 02:07:35.288000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/TWiT Tech Podcast Network/Untitled_Linux_Show_185.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6avc1mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 02:07:35.288000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1280KiB time=00:01:08.09 bitrate= 154.0kbits/s speed= 135x    size=    2560KiB time=00:02:24.00 bitrate= 145.6kbits/s speed= 143x    size=    4096KiB time=00:03:40.03 bitrate= 152.5kbits/s speed= 145x    size=    5632KiB time=00:04:56.74 bitrate= 155.5kbits/s speed= 147x    size=    7424KiB time=00:06:13.49 bitrate= 162.8kbits/s speed= 148x    size=    8960KiB time=00:07:28.32 bitrate= 163.7kbits/s speed= 148x    size=   10496KiB time=00:08:43.01 bitrate= 164.4kbits/s speed= 148x    size=   12032KiB time=00:09:59.04 bitrate= 164.5kbits/s speed= 149x    size=   13824KiB time=00:11:14.35 bitrate= 167.9kbits/s speed= 149x    size=   15360KiB time=00:12:30.99 bitrate= 167.6kbits/s speed= 149x    size=   16640KiB time=00:13:40.42 bitrate= 166.2kbits/s speed= 148x    size=   18432KiB time=00:14:56.81 bitrate= 168.4kbits/s speed= 148x    size=   19968KiB time=00:16:12.22 bitrate= 168.3kbits/s speed= 148x    size=   21504KiB time=00:17:28.61 bitrate= 168.0kbits/s speed= 149x    size=   23040KiB time=00:18:43.78 bitrate= 168.0kbits/s speed= 149x    size=   24576KiB time=00:19:57.87 bitrate= 168.1kbits/s speed= 148x    size=   26112KiB time=00:21:15.63 bitrate= 167.7kbits/s speed= 149x    size=   27648KiB time=00:22:33.55 bitrate= 167.3kbits/s speed= 149x    size=   28928KiB time=00:23:42.84 bitrate= 166.6kbits/s speed= 149x    size=   30464KiB time=00:24:58.85 bitrate= 166.5kbits/s speed= 149x    size=   32000KiB time=00:26:14.43 bitrate= 166.5kbits/s speed= 149x    size=   33536KiB time=00:27:30.91 bitrate= 166.4kbits/s speed= 149x    size=   35072KiB time=00:28:47.04 bitrate= 166.4kbits/s speed= 149x    size=   36608KiB time=00:30:01.71 bitrate= 166.4kbits/s speed= 149x    size=   38400KiB time=00:31:16.87 bitrate= 167.6kbits/s speed= 149x    size=   39936KiB time=00:32:32.02 bitrate= 167.6kbits/s speed= 149x    size=   41472KiB time=00:33:47.69 bitrate= 167.5kbits/s speed= 149x    size=   43008KiB time=00:34:53.79 bitrate= 168.3kbits/s speed= 148x    size=   44544KiB time=00:36:07.95 bitrate= 168.3kbits/s speed= 148x    size=   46080KiB time=00:37:23.52 bitrate= 168.3kbits/s speed= 148x    size=   47616KiB time=00:38:38.16 bitrate= 168.3kbits/s speed= 148x    size=   49152KiB time=00:39:47.50 bitrate= 168.7kbits/s speed= 148x    size=   50688KiB time=00:41:01.59 bitrate= 168.7kbits/s speed= 148x    size=   52224KiB time=00:42:15.55 bitrate= 168.7kbits/s speed= 148x    size=   53760KiB time=00:43:30.94 bitrate= 168.7kbits/s speed= 148x    size=   55296KiB time=00:44:47.50 bitrate= 168.6kbits/s speed= 148x    size=   57088KiB time=00:46:04.03 bitrate= 169.2kbits/s speed= 148x    size=   58368KiB time=00:47:11.33 bitrate= 168.9kbits/s speed= 148x    size=   59904KiB time=00:48:25.42 bitrate= 168.9kbits/s speed= 148x    size=   61440KiB time=00:49:41.14 bitrate= 168.8kbits/s speed= 148x    size=   62976KiB time=00:50:58.49 bitrate= 168.7kbits/s speed= 148x    size=   64512KiB time=00:52:15.77 bitrate= 168.5kbits/s speed= 148x    size=   65792KiB time=00:53:32.31 bitrate= 167.8kbits/s speed= 148x    size=   67328KiB time=00:54:47.43 bitrate= 167.8kbits/s speed= 148x    size=   69120KiB time=00:56:02.76 bitrate= 168.4kbits/s speed= 148x    size=   70656KiB time=00:57:18.51 bitrate= 168.3kbits/s speed= 148x    size=   71936KiB time=00:58:26.86 bitrate= 168.0kbits/s speed= 148x    size=   73472KiB time=00:59:41.95 bitrate= 168.0kbits/s speed= 148x    size=   75264KiB time=01:00:56.64 bitrate= 168.6kbits/s speed= 148x    size=   76800KiB time=01:02:12.15 bitrate= 168.6kbits/s speed= 148x    size=   78592KiB time=01:03:27.27 bitrate= 169.1kbits/s speed= 148x    size=   80128KiB time=01:04:43.75 bitrate= 169.0kbits/s speed= 148x    size=   81408KiB time=01:05:50.11 bitrate= 168.8kbits/s speed= 148x    size=   83200KiB time=01:07:05.59 bitrate= 169.3kbits/s speed= 148x    size=   84736KiB time=01:08:21.84 bitrate= 169.2kbits/s speed= 148x    size=   86272KiB time=01:09:37.49 bitrate= 169.2kbits/s speed= 148x    size=   87808KiB time=01:10:54.31 bitrate= 169.1kbits/s speed= 148x    size=   89600KiB time=01:12:11.55 bitrate= 169.5kbits/s speed= 148x    size=   91136KiB time=01:13:26.98 bitrate= 169.4kbits/s speed= 148x    size=   92672KiB time=01:14:44.14 bitrate= 169.3kbits/s speed= 148x    size=   93952KiB time=01:16:02.86 bitrate= 168.7kbits/s speed= 148x    size=   95488KiB time=01:17:20.33 bitrate= 168.6kbits/s speed= 148x    size=   97280KiB time=01:18:36.67 bitrate= 169.0kbits/s speed= 148x    size=   98816KiB time=01:19:52.66 bitrate= 168.9kbits/s speed= 149x    size=  100352KiB time=01:21:08.76 bitrate= 168.8kbits/s speed= 149x    size=  101888KiB time=01:22:25.42 bitrate= 168.8kbits/s speed= 149x    size=  103680KiB time=01:23:41.23 bitrate= 169.2kbits/s speed= 149x    size=  105216KiB time=01:24:57.15 bitrate= 169.1kbits/s speed= 149x    size=  106752KiB time=01:26:13.99 bitrate= 169.0kbits/s speed= 149x    size=  108544KiB time=01:27:30.89 bitrate= 169.3kbits/s speed= 149x    size=  110080KiB time=01:28:48.03 bitrate= 169.3kbits/s speed= 149x    size=  111616KiB time=01:30:04.08 bitrate= 169.2kbits/s speed= 149x    size=  113152KiB time=01:31:21.03 bitrate= 169.1kbits/s speed= 149x    size=  114688KiB time=01:32:39.58 bitrate= 169.0kbits/s speed= 149x    size=  115968KiB time=01:33:58.06 bitrate= 168.5kbits/s speed= 149x    size=  117504KiB time=01:35:15.65 bitrate= 168.4kbits/s speed= 149x    size=  119040KiB time=01:36:29.98 bitrate= 168.4kbits/s speed= 149x    size=  120576KiB time=01:37:45.58 bitrate= 168.4kbits/s speed= 149x    size=  122112KiB time=01:39:03.17 bitrate= 168.3kbits/s speed= 149x    size=  123648KiB time=01:40:19.49 bitrate= 168.3kbits/s speed= 149x    size=  125440KiB time=01:41:36.48 bitrate= 168.6kbits/s speed= 149x    size=  126976KiB time=01:42:50.79 bitrate= 168.6kbits/s speed= 149x    size=  128256KiB time=01:44:05.83 bitrate= 168.2kbits/s speed= 149x    size=  129792KiB time=01:45:20.26 bitrate= 168.2kbits/s speed= 149x    size=  131584KiB time=01:46:36.55 bitrate= 168.5kbits/s speed= 149x    size=  133120KiB time=01:47:53.19 bitrate= 168.5kbits/s speed= 149x    size=  134656KiB time=01:49:09.41 bitrate= 168.4kbits/s speed= 149x    size=  136192KiB time=01:50:25.85 bitrate= 168.4kbits/s speed= 149x    size=  137728KiB time=01:51:43.35 bitrate= 168.3kbits/s speed= 149x    size=  139264KiB time=01:52:57.39 bitrate= 168.3kbits/s speed= 149x    size=  140800KiB time=01:54:13.73 bitrate= 168.3kbits/s speed= 149x    size=  142336KiB time=01:55:30.70 bitrate= 168.2kbits/s speed= 149x    size=  143872KiB time=01:56:47.88 bitrate= 168.2kbits/s speed= 149x    size=  145408KiB time=01:58:04.66 bitrate= 168.1kbits/s speed= 149x    size=  146944KiB time=01:59:20.59 bitrate= 168.1kbits/s speed= 149x    size=  148224KiB time=02:00:38.28 bitrate= 167.8kbits/s speed= 149x    size=  149760KiB time=02:01:55.25 bitrate= 167.7kbits/s speed= 150x    size=  151296KiB time=02:03:09.53 bitrate= 167.7kbits/s speed= 149x    size=  152832KiB time=02:04:25.73 bitrate= 167.7kbits/s speed= 150x    size=  154112KiB time=02:05:36.82 bitrate= 167.5kbits/s speed= 149x    size=  155648KiB time=02:06:47.26 bitrate= 167.6kbits/s speed= 149x    [out#0/mp3 @ 0x100b057a0] video:0KiB audio:156600KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000208%
+size=  156600KiB time=02:07:35.27 bitrate= 167.6kbits/s speed= 149x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Platima Tinkers/SBC Tier List - Waveshare RP2350-Plus Development Board Ranked.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:29:37.55, start: 0.000000, bitrate: 3573 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:29:37.500000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:29:37.548000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Platima Tinkers/SBC_Tier_List_Waveshare_RP2350_Plus_Development_Board_Ranked.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:29:37.548000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:11.74 bitrate= 175.4kbits/s speed= 143x    size=    3072KiB time=00:02:25.32 bitrate= 173.2kbits/s speed= 145x    size=    4608KiB time=00:03:38.79 bitrate= 172.5kbits/s speed= 145x    size=    6400KiB time=00:04:52.08 bitrate= 179.5kbits/s speed= 145x    size=    7936KiB time=00:06:06.36 bitrate= 177.4kbits/s speed= 145x    size=    9472KiB time=00:07:21.46 bitrate= 175.8kbits/s speed= 146x    size=   11008KiB time=00:08:35.69 bitrate= 174.9kbits/s speed= 146x    size=   12800KiB time=00:09:49.87 bitrate= 177.8kbits/s speed= 146x    size=   14336KiB time=00:11:03.05 bitrate= 177.1kbits/s speed= 146x    size=   16128KiB time=00:12:16.37 bitrate= 179.4kbits/s speed= 146x    size=   17664KiB time=00:13:30.24 bitrate= 178.6kbits/s speed= 146x    size=   19200KiB time=00:14:45.07 bitrate= 177.7kbits/s speed= 146x    size=   20736KiB time=00:16:00.27 bitrate= 176.9kbits/s speed= 146x    size=   22528KiB time=00:17:14.38 bitrate= 178.4kbits/s speed= 146x    size=   24064KiB time=00:18:29.86 bitrate= 177.6kbits/s speed= 147x    size=   25600KiB time=00:19:44.67 bitrate= 177.0kbits/s speed= 147x    size=   27392KiB time=00:20:58.25 bitrate= 178.3kbits/s speed= 147x    size=   28928KiB time=00:22:11.40 bitrate= 178.0kbits/s speed= 147x    size=   30464KiB time=00:23:25.80 bitrate= 177.5kbits/s speed= 147x    size=   32256KiB time=00:24:41.09 bitrate= 178.4kbits/s speed= 147x    size=   33792KiB time=00:25:54.34 bitrate= 178.1kbits/s speed= 147x    size=   35584KiB time=00:27:07.99 bitrate= 179.1kbits/s speed= 147x    size=   37120KiB time=00:28:21.67 bitrate= 178.7kbits/s speed= 147x    size=   38656KiB time=00:29:34.78 bitrate= 178.4kbits/s speed= 147x    [out#0/mp3 @ 0x14f7145f0] video:0KiB audio:38912KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000592%
+size=   38913KiB time=00:29:37.52 bitrate= 179.3kbits/s speed= 147x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Adrian's Digital Basement/CRT Archeology： Mystery Toshiba display (GBC MV-10A).webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 01:10:08.95, start: 0.000000, bitrate: 2738 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 59.94 fps, 59.94 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 01:10:08.921000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 01:10:08.948000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Adrian's Digital Basement/CRT_Archeology_Mystery_Toshiba_display_GBC_MV_10A_.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 01:10:08.948000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:05.02 bitrate= 193.5kbits/s speed= 129x    size=    3072KiB time=00:02:06.65 bitrate= 198.7kbits/s speed= 125x    size=    4608KiB time=00:03:10.61 bitrate= 198.0kbits/s speed= 126x    size=    6144KiB time=00:04:15.29 bitrate= 197.2kbits/s speed= 127x    size=    7680KiB time=00:05:20.35 bitrate= 196.4kbits/s speed= 127x    size=    9472KiB time=00:06:25.99 bitrate= 201.0kbits/s speed= 127x    size=   11008KiB time=00:07:31.18 bitrate= 199.9kbits/s speed= 128x    size=   12544KiB time=00:08:36.87 bitrate= 198.8kbits/s speed= 128x    size=   14080KiB time=00:09:46.90 bitrate= 196.5kbits/s speed= 129x    size=   15616KiB time=00:11:00.55 bitrate= 193.7kbits/s speed= 131x    size=   17152KiB time=00:12:12.91 bitrate= 191.7kbits/s speed= 132x    size=   18688KiB time=00:13:25.35 bitrate= 190.1kbits/s speed= 133x    size=   20480KiB time=00:14:38.47 bitrate= 191.0kbits/s speed= 134x    size=   22016KiB time=00:15:52.42 bitrate= 189.4kbits/s speed= 135x    size=   23296KiB time=00:17:02.93 bitrate= 186.6kbits/s speed= 135x    size=   25088KiB time=00:18:15.43 bitrate= 187.6kbits/s speed= 136x    size=   26368KiB time=00:19:25.71 bitrate= 185.3kbits/s speed= 136x    size=   28160KiB time=00:20:38.91 bitrate= 186.2kbits/s speed= 136x    size=   29696KiB time=00:21:52.56 bitrate= 185.3kbits/s speed= 137x    size=   31232KiB time=00:23:05.55 bitrate= 184.7kbits/s speed= 137x    size=   32768KiB time=00:24:19.03 bitrate= 184.0kbits/s speed= 138x    size=   34304KiB time=00:25:31.47 bitrate= 183.5kbits/s speed= 138x    size=   35840KiB time=00:26:46.32 bitrate= 182.8kbits/s speed= 138x    size=   37120KiB time=00:27:52.49 bitrate= 181.8kbits/s speed= 138x    size=   38656KiB time=00:28:57.89 bitrate= 182.2kbits/s speed= 138x    size=   40192KiB time=00:30:02.38 bitrate= 182.7kbits/s speed= 137x    size=   41984KiB time=00:31:07.23 bitrate= 184.2kbits/s speed= 137x    size=   43264KiB time=00:32:10.15 bitrate= 183.6kbits/s speed= 137x    size=   44800KiB time=00:33:14.69 bitrate= 184.0kbits/s speed= 136x    size=   46336KiB time=00:34:21.10 bitrate= 184.2kbits/s speed= 136x    size=   47872KiB time=00:35:27.17 bitrate= 184.4kbits/s speed= 136x    size=   49408KiB time=00:36:31.99 bitrate= 184.6kbits/s speed= 136x    size=   50944KiB time=00:37:36.72 bitrate= 184.9kbits/s speed= 136x    size=   52480KiB time=00:38:41.98 bitrate= 185.2kbits/s speed= 135x    size=   54016KiB time=00:39:47.83 bitrate= 185.3kbits/s speed= 135x    size=   55552KiB time=00:40:53.91 bitrate= 185.5kbits/s speed= 135x    size=   57088KiB time=00:42:00.77 bitrate= 185.5kbits/s speed= 135x    size=   58624KiB time=00:43:07.30 bitrate= 185.6kbits/s speed= 135x    size=   60160KiB time=00:44:11.93 bitrate= 185.8kbits/s speed= 135x    size=   61696KiB time=00:45:16.87 bitrate= 186.0kbits/s speed= 135x    size=   63232KiB time=00:46:22.37 bitrate= 186.2kbits/s speed= 134x    size=   64768KiB time=00:47:27.89 bitrate= 186.3kbits/s speed= 134x    size=   66304KiB time=00:48:29.50 bitrate= 186.7kbits/s speed= 134x    size=   67584KiB time=00:49:33.00 bitrate= 186.2kbits/s speed= 134x    size=   69120KiB time=00:50:37.30 bitrate= 186.4kbits/s speed= 134x    size=   70656KiB time=00:51:38.79 bitrate= 186.8kbits/s speed= 133x    size=   72192KiB time=00:52:44.64 bitrate= 186.9kbits/s speed= 133x    size=   73728KiB time=00:53:56.52 bitrate= 186.6kbits/s speed= 134x    size=   75264KiB time=00:55:09.84 bitrate= 186.3kbits/s speed= 134x    size=   76800KiB time=00:56:23.21 bitrate= 186.0kbits/s speed= 134x    size=   78336KiB time=00:57:37.25 bitrate= 185.6kbits/s speed= 134x    size=   79872KiB time=00:58:43.32 bitrate= 185.7kbits/s speed= 134x    size=   81408KiB time=00:59:48.65 bitrate= 185.8kbits/s speed= 134x    size=   82944KiB time=01:00:54.82 bitrate= 185.9kbits/s speed= 134x    size=   84224KiB time=01:01:52.47 bitrate= 185.9kbits/s speed= 134x    size=   85760KiB time=01:02:52.59 bitrate= 186.2kbits/s speed= 133x    size=   87296KiB time=01:03:58.25 bitrate= 186.3kbits/s speed= 133x    size=   88832KiB time=01:05:03.60 bitrate= 186.4kbits/s speed= 133x    size=   90368KiB time=01:06:09.27 bitrate= 186.5kbits/s speed= 133x    size=   91904KiB time=01:07:13.03 bitrate= 186.7kbits/s speed= 133x    size=   93440KiB time=01:08:16.90 bitrate= 186.8kbits/s speed= 133x    size=   94976KiB time=01:09:21.55 bitrate= 187.0kbits/s speed= 133x    [out#0/mp3 @ 0x147f2cb20] video:0KiB audio:96478KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000239%
+size=   96478KiB time=01:10:08.93 bitrate= 187.8kbits/s speed= 133x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Uni-Byte/Uni-Byte 0245 - Mailbag #33：  Another AliExpress shopping SPREE!.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:12:34.05, start: 0.000000, bitrate: 1525 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:12:34.020000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:12:34.048000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Uni-Byte/Uni_Byte_0245_Mailbag_33_Another_AliExpress_shopping_SPREE_.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:12:34.048000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:07.11 bitrate= 187.5kbits/s speed= 133x    size=    3072KiB time=00:02:14.62 bitrate= 186.9kbits/s speed= 134x    size=    4608KiB time=00:03:20.28 bitrate= 188.5kbits/s speed= 132x    size=    6144KiB time=00:04:22.51 bitrate= 191.7kbits/s speed= 130x    size=    7680KiB time=00:05:30.07 bitrate= 190.6kbits/s speed= 131x    size=    9216KiB time=00:06:40.08 bitrate= 188.7kbits/s speed= 132x    size=   10752KiB time=00:07:50.64 bitrate= 187.1kbits/s speed= 133x    size=   12288KiB time=00:08:57.99 bitrate= 187.1kbits/s speed= 133x    size=   14080KiB time=00:10:06.15 bitrate= 190.3kbits/s speed= 134x    size=   15616KiB time=00:11:14.81 bitrate= 189.6kbits/s speed= 134x    size=   17152KiB time=00:12:22.92 bitrate= 189.1kbits/s speed= 134x    [out#0/mp3 @ 0x1520056b0] video:0KiB audio:17536KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001314%
+size=   17536KiB time=00:12:34.02 bitrate= 190.5kbits/s speed= 134x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/StarTalk/The Science of Hypnosis with David Spiegel.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:46:07.35, start: 0.000000, bitrate: 14290 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:46:07.306000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:46:07.348000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/StarTalk/The_Science_of_Hypnosis_with_David_Spiegel.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:46:07.348000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:00:58.54 bitrate= 214.9kbits/s speed= 116x    size=    3072KiB time=00:02:12.72 bitrate= 189.6kbits/s speed= 132x    size=    4608KiB time=00:03:27.58 bitrate= 181.8kbits/s speed= 138x    size=    6144KiB time=00:04:43.37 bitrate= 177.6kbits/s speed= 141x    size=    7936KiB time=00:05:58.99 bitrate= 181.1kbits/s speed= 143x    size=    9472KiB time=00:07:12.22 bitrate= 179.5kbits/s speed= 143x    size=   11264KiB time=00:08:25.73 bitrate= 182.5kbits/s speed= 143x    size=   12800KiB time=00:09:32.35 bitrate= 183.2kbits/s speed= 142x    size=   14592KiB time=00:10:46.47 bitrate= 184.9kbits/s speed= 143x    size=   16384KiB time=00:11:59.83 bitrate= 186.5kbits/s speed= 143x    size=   17920KiB time=00:13:11.02 bitrate= 185.6kbits/s speed= 143x    size=   19712KiB time=00:14:25.03 bitrate= 186.7kbits/s speed= 143x    size=   21248KiB time=00:15:35.76 bitrate= 186.0kbits/s speed= 143x    size=   22784KiB time=00:16:51.19 bitrate= 184.6kbits/s speed= 143x    size=   24576KiB time=00:18:04.37 bitrate= 185.7kbits/s speed= 143x    size=   25856KiB time=00:19:11.14 bitrate= 184.0kbits/s speed= 143x    size=   27648KiB time=00:20:23.69 bitrate= 185.1kbits/s speed= 143x    size=   29440KiB time=00:21:36.65 bitrate= 186.0kbits/s speed= 143x    size=   31232KiB time=00:22:50.35 bitrate= 186.7kbits/s speed= 143x    size=   32768KiB time=00:24:03.72 bitrate= 185.9kbits/s speed= 143x    size=   34304KiB time=00:25:15.58 bitrate= 185.4kbits/s speed= 143x    size=   36096KiB time=00:26:27.51 bitrate= 186.3kbits/s speed= 143x    size=   37632KiB time=00:27:40.63 bitrate= 185.6kbits/s speed= 143x    size=   39168KiB time=00:28:49.03 bitrate= 185.6kbits/s speed= 143x    size=   40704KiB time=00:30:01.06 bitrate= 185.1kbits/s speed= 143x    size=   42496KiB time=00:31:13.15 bitrate= 185.9kbits/s speed= 143x    size=   44032KiB time=00:32:28.95 bitrate= 185.1kbits/s speed= 143x    size=   45824KiB time=00:33:43.15 bitrate= 185.5kbits/s speed= 143x    size=   47360KiB time=00:34:47.98 bitrate= 185.8kbits/s speed= 143x    size=   48896KiB time=00:36:00.91 bitrate= 185.4kbits/s speed= 143x    size=   50688KiB time=00:37:14.88 bitrate= 185.8kbits/s speed= 143x    size=   52224KiB time=00:38:29.55 bitrate= 185.2kbits/s speed= 143x    size=   54016KiB time=00:39:43.95 bitrate= 185.6kbits/s speed= 143x    size=   55552KiB time=00:40:58.20 bitrate= 185.1kbits/s speed= 143x    size=   57344KiB time=00:42:11.40 bitrate= 185.6kbits/s speed= 143x    size=   58880KiB time=00:43:25.85 bitrate= 185.1kbits/s speed= 143x    size=   60416KiB time=00:44:34.54 bitrate= 185.1kbits/s speed= 143x    size=   62208KiB time=00:45:48.55 bitrate= 185.4kbits/s speed= 143x    [out#0/mp3 @ 0x12102af20] video:0KiB audio:62713KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000367%
+size=   62713KiB time=00:46:07.32 bitrate= 185.6kbits/s speed= 143x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Michael Tunnell/COSMIC Alpha 5, KDE Plasma 6.3 beta, SteamOS beyond Steam Deck & more Linux news.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:33:29.77, start: 0.000000, bitrate: 747 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:33:29.733000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:33:29.768000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Michael Tunnell/COSMIC_Alpha_5_KDE_Plasma_6_3_beta_SteamOS_beyond_Steam_Deck_more_Linux_news.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:33:29.768000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:14.81 bitrate= 168.2kbits/s speed= 149x    size=    3072KiB time=00:02:28.39 bitrate= 169.6kbits/s speed= 147x    size=    4864KiB time=00:03:42.39 bitrate= 179.2kbits/s speed= 147x    size=    6656KiB time=00:04:57.84 bitrate= 183.1kbits/s speed= 148x    size=    8448KiB time=00:06:14.04 bitrate= 185.0kbits/s speed= 148x    size=   10240KiB time=00:07:28.59 bitrate= 187.0kbits/s speed= 148x    size=   11776KiB time=00:08:44.57 bitrate= 183.9kbits/s speed= 149x    size=   13568KiB time=00:10:00.75 bitrate= 185.0kbits/s speed= 149x    size=   15360KiB time=00:11:19.35 bitrate= 185.2kbits/s speed= 150x    size=   17152KiB time=00:12:36.19 bitrate= 185.8kbits/s speed= 150x    size=   18688KiB time=00:13:51.58 bitrate= 184.1kbits/s speed= 150x    size=   20480KiB time=00:15:08.04 bitrate= 184.8kbits/s speed= 150x    size=   22272KiB time=00:16:24.75 bitrate= 185.3kbits/s speed= 150x    size=   24064KiB time=00:17:40.06 bitrate= 186.0kbits/s speed= 150x    size=   25856KiB time=00:18:56.52 bitrate= 186.4kbits/s speed= 150x    size=   27392KiB time=00:20:12.84 bitrate= 185.0kbits/s speed= 150x    size=   29184KiB time=00:21:28.47 bitrate= 185.5kbits/s speed= 150x    size=   30976KiB time=00:22:44.26 bitrate= 186.0kbits/s speed= 150x    size=   32512KiB time=00:23:53.95 bitrate= 185.7kbits/s speed= 149x    size=   34304KiB time=00:25:09.36 bitrate= 186.2kbits/s speed= 149x    size=   36096KiB time=00:26:25.78 bitrate= 186.5kbits/s speed= 150x    size=   37632KiB time=00:27:42.12 bitrate= 185.5kbits/s speed= 150x    size=   39424KiB time=00:28:58.37 bitrate= 185.8kbits/s speed= 150x    size=   41216KiB time=00:30:14.50 bitrate= 186.1kbits/s speed= 150x    size=   42752KiB time=00:31:30.46 bitrate= 185.3kbits/s speed= 150x    size=   44544KiB time=00:32:46.39 bitrate= 185.6kbits/s speed= 150x    [out#0/mp3 @ 0x151e2d080] video:0KiB audio:45555KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000506%
+size=   45555KiB time=00:33:29.75 bitrate= 185.7kbits/s speed= 150x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/EDISON SCIENCE CORNER/Miniware TS80P Review： Compact Tool, Awesome performance.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:03:22.59, start: 0.000000, bitrate: 14446 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:03:22.566000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:03:22.588000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/EDISON SCIENCE CORNER/Miniware_TS80P_Review_Compact_Tool_Awesome_performance.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:03:22.588000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:05.07 bitrate= 193.4kbits/s speed= 129x    size=    3072KiB time=00:02:14.86 bitrate= 186.6kbits/s speed= 134x    [out#0/mp3 @ 0x13c005220] video:0KiB audio:4601KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.005009%
+size=    4601KiB time=00:03:22.57 bitrate= 186.1kbits/s speed= 136x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/ExplainingComputers/Raspberry Pi 500： Best Linux Keyboard PC？.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:23:22.63, start: 0.000000, bitrate: 1552 kb/s
+  Stream #0:0: Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:23:22.560000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:23:22.628000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/ExplainingComputers/Raspberry_Pi_500_Best_Linux_Keyboard_PC_.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:23:22.628000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:07.47 bitrate= 186.5kbits/s speed= 134x    size=    3072KiB time=00:02:17.62 bitrate= 182.9kbits/s speed= 137x    size=    4352KiB time=00:03:23.38 bitrate= 175.3kbits/s speed= 135x    size=    5888KiB time=00:04:33.46 bitrate= 176.4kbits/s speed= 136x    size=    7424KiB time=00:05:43.83 bitrate= 176.9kbits/s speed= 136x    size=    8960KiB time=00:06:54.31 bitrate= 177.2kbits/s speed= 137x    size=   10496KiB time=00:08:03.29 bitrate= 177.9kbits/s speed= 137x    size=   12032KiB time=00:09:11.95 bitrate= 178.6kbits/s speed= 137x    size=   13568KiB time=00:10:16.47 bitrate= 180.3kbits/s speed= 136x    size=   14848KiB time=00:11:19.80 bitrate= 178.9kbits/s speed= 135x    size=   16384KiB time=00:12:28.15 bitrate= 179.4kbits/s speed= 135x    size=   17920KiB time=00:13:36.96 bitrate= 179.7kbits/s speed= 135x    size=   19712KiB time=00:14:47.67 bitrate= 181.9kbits/s speed= 135x    size=   21248KiB time=00:15:57.48 bitrate= 181.8kbits/s speed= 136x    size=   22784KiB time=00:17:06.94 bitrate= 181.7kbits/s speed= 136x    size=   24320KiB time=00:18:15.53 bitrate= 181.9kbits/s speed= 136x    size=   25856KiB time=00:19:24.17 bitrate= 181.9kbits/s speed= 136x    size=   27392KiB time=00:20:33.48 bitrate= 181.9kbits/s speed= 136x    size=   28928KiB time=00:21:43.71 bitrate= 181.8kbits/s speed= 136x    size=   30464KiB time=00:22:55.18 bitrate= 181.5kbits/s speed= 136x    [out#0/mp3 @ 0x128708020] video:0KiB audio:30990KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001037%
+size=   30990KiB time=00:23:22.61 bitrate= 181.0kbits/s speed= 137x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/spidermaf/Building A 3D Printed  Bambu Mouse without the instructions.  Chill ASMR.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:26:10.27, start: 0.000000, bitrate: 12030 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x1920, SAR 1:1 DAR 2:1, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:26:10.233000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:26:10.268000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/spidermaf/Building_A_3D_Printed_Bambu_Mouse_without_the_instructions_Chill_ASMR.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:26:10.268000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1280KiB time=00:01:04.99 bitrate= 161.3kbits/s speed= 129x    size=    2816KiB time=00:02:11.40 bitrate= 175.6kbits/s speed= 130x    size=    4352KiB time=00:03:17.33 bitrate= 180.7kbits/s speed= 130x    size=    5888KiB time=00:04:22.61 bitrate= 183.7kbits/s speed= 130x    size=    7424KiB time=00:05:28.83 bitrate= 184.9kbits/s speed= 130x    size=    8704KiB time=00:06:34.03 bitrate= 181.0kbits/s speed= 130x    size=   10240KiB time=00:07:39.17 bitrate= 182.7kbits/s speed= 130x    size=   11776KiB time=00:08:43.32 bitrate= 184.3kbits/s speed= 130x    size=   13312KiB time=00:09:48.15 bitrate= 185.4kbits/s speed= 130x    size=   14592KiB time=00:10:53.33 bitrate= 183.0kbits/s speed= 130x    size=   16128KiB time=00:11:58.39 bitrate= 183.9kbits/s speed= 129x    size=   17664KiB time=00:13:04.13 bitrate= 184.5kbits/s speed= 130x    size=   18944KiB time=00:14:06.84 bitrate= 183.3kbits/s speed= 129x    size=   20480KiB time=00:15:12.82 bitrate= 183.8kbits/s speed= 129x    size=   22016KiB time=00:16:18.24 bitrate= 184.4kbits/s speed= 129x    size=   23552KiB time=00:17:22.13 bitrate= 185.1kbits/s speed= 129x    size=   24832KiB time=00:18:25.66 bitrate= 184.0kbits/s speed= 129x    size=   26368KiB time=00:19:29.16 bitrate= 184.8kbits/s speed= 129x    size=   27904KiB time=00:20:34.87 bitrate= 185.1kbits/s speed= 129x    size=   29440KiB time=00:21:40.78 bitrate= 185.4kbits/s speed= 129x    size=   30720KiB time=00:22:47.83 bitrate= 184.0kbits/s speed= 129x    size=   32512KiB time=00:23:52.61 bitrate= 185.9kbits/s speed= 129x    size=   33792KiB time=00:24:57.19 bitrate= 184.9kbits/s speed= 129x    size=   35328KiB time=00:26:01.75 bitrate= 185.3kbits/s speed= 129x    [out#0/mp3 @ 0x1440051e0] video:0KiB audio:35742KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000645%
+size=   35742KiB time=00:26:10.24 bitrate= 186.5kbits/s speed= 129x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Retro Recipes 🕹️ vintage tech + tv/Can I Fix My First Ever Computer？! ｜ 🕹️2UP.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:16:39.33, start: 0.000000, bitrate: 11831 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:16:39.280000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:16:39.328000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Retro Recipes 🕹️ vintage tech + tv/Can_I_Fix_My_First_Ever_Computer_2UP.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:16:39.328000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:01.11 bitrate= 205.9kbits/s speed= 121x    size=    3328KiB time=00:02:00.53 bitrate= 226.2kbits/s speed= 119x    size=    4864KiB time=00:03:00.82 bitrate= 220.4kbits/s speed= 119x    size=    6656KiB time=00:04:00.75 bitrate= 226.5kbits/s speed= 119x    size=    8448KiB time=00:05:00.10 bitrate= 230.6kbits/s speed= 119x    size=   10240KiB time=00:06:00.19 bitrate= 232.9kbits/s speed= 119x    size=   12032KiB time=00:07:01.59 bitrate= 233.8kbits/s speed= 119x    size=   13568KiB time=00:08:02.38 bitrate= 230.4kbits/s speed= 119x    size=   15104KiB time=00:09:07.68 bitrate= 225.9kbits/s speed= 121x    size=   16896KiB time=00:10:09.87 bitrate= 227.0kbits/s speed= 121x    size=   18688KiB time=00:11:11.91 bitrate= 227.8kbits/s speed= 121x    size=   20224KiB time=00:12:07.97 bitrate= 227.6kbits/s speed= 120x    size=   22016KiB time=00:13:06.91 bitrate= 229.2kbits/s speed= 120x    size=   23808KiB time=00:14:05.02 bitrate= 230.8kbits/s speed= 120x    size=   25600KiB time=00:15:03.39 bitrate= 232.1kbits/s speed= 119x    size=   27392KiB time=00:16:02.79 bitrate= 233.1kbits/s speed= 119x    [out#0/mp3 @ 0x137f20f20] video:0KiB audio:28634KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000805%
+size=   28635KiB time=00:16:39.30 bitrate= 234.7kbits/s speed= 119x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Rixtronix LAB/OpAmp OP3XAppC++koding KM406.mkv':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6avc1mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:01:00.53, start: 0.000000, bitrate: 497 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 18.89 fps, 18.89 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:01:00.512000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:01:00.528000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Rixtronix LAB/OpAmp_OP3XAppC_koding_KM406.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6avc1mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:01:00.528000000
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 0x15063a910] video:0KiB audio:472KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.068869%
+size=     473KiB time=00:01:00.50 bitrate=  64.0kbits/s speed= 206x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from './videos/Combo Class/Some ＂Prime Numbers＂ Are Not Fully Prime!.f616.mp4':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6mp41
+    creation_time   : 2025-01-12T17:21:03.000000Z
+  Duration: 00:10:30.03, start: 0.000000, bitrate: 3914 kb/s
+  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 3911 kb/s, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        creation_time   : 2025-01-12T17:21:03.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        vendor_id       : [0][0][0][0]
+Stream map '' matches no streams.
+To ignore this, add a trailing '?' to the map.
+Failed to set value 'a' for option 'map': Invalid argument
+Error parsing options for output file ./audios/Combo Class/Some_Prime_Numbers_Are_Not_Fully_Prime_f616.mp3.
+Error opening output files: Invalid argument
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Andreas Spiess/Why Microcontrollers are a good AI companion.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:20:28.91, start: 0.000000, bitrate: 1449 kb/s
+  Stream #0:0: Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:20:28.874000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:20:28.908000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Andreas Spiess/Why_Microcontrollers_are_a_good_AI_companion.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:20:28.908000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:16.15 bitrate= 165.2kbits/s speed= 151x    size=    3072KiB time=00:02:27.53 bitrate= 170.6kbits/s speed= 147x    size=    4864KiB time=00:03:43.78 bitrate= 178.1kbits/s speed= 148x    size=    6400KiB time=00:05:00.27 bitrate= 174.6kbits/s speed= 149x    size=    8192KiB time=00:06:17.19 bitrate= 177.9kbits/s speed= 150x    size=    9728KiB time=00:07:33.12 bitrate= 175.9kbits/s speed= 150x    size=   11520KiB time=00:08:49.39 bitrate= 178.3kbits/s speed= 150x    size=   13056KiB time=00:10:06.46 bitrate= 176.4kbits/s speed= 150x    size=   14848KiB time=00:11:21.53 bitrate= 178.5kbits/s speed= 150x    size=   16384KiB time=00:12:37.51 bitrate= 177.2kbits/s speed= 150x    size=   18176KiB time=00:13:54.79 bitrate= 178.4kbits/s speed= 150x    size=   19712KiB time=00:15:11.81 bitrate= 177.1kbits/s speed= 151x    size=   21504KiB time=00:16:27.53 bitrate= 178.4kbits/s speed= 151x    size=   23296KiB time=00:17:43.75 bitrate= 179.4kbits/s speed= 151x    size=   24832KiB time=00:19:00.34 bitrate= 178.4kbits/s speed= 151x    size=   26624KiB time=00:20:16.87 bitrate= 179.2kbits/s speed= 151x    [out#0/mp3 @ 0x122605670] video:0KiB audio:26928KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001193%
+size=   26928KiB time=00:20:28.89 bitrate= 179.5kbits/s speed= 151x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/ServeTheHome/Dell's Compact Workstation Answer.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:17:21.87, start: 0.000000, bitrate: 11359 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:17:21.840000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:17:21.868000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/ServeTheHome/Dell_s_Compact_Workstation_Answer.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:17:21.868000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:01.35 bitrate= 205.1kbits/s speed= 121x    size=    3072KiB time=00:02:04.08 bitrate= 202.8kbits/s speed= 123x    size=    4608KiB time=00:03:07.37 bitrate= 201.5kbits/s speed= 124x    size=    6400KiB time=00:04:10.63 bitrate= 209.2kbits/s speed= 124x    size=    7936KiB time=00:05:13.90 bitrate= 207.1kbits/s speed= 124x    size=    9472KiB time=00:06:17.09 bitrate= 205.8kbits/s speed= 124x    size=   11008KiB time=00:07:20.23 bitrate= 204.8kbits/s speed= 125x    size=   12800KiB time=00:08:23.47 bitrate= 208.3kbits/s speed= 125x    size=   14336KiB time=00:09:25.85 bitrate= 207.5kbits/s speed= 125x    size=   15872KiB time=00:10:28.73 bitrate= 206.8kbits/s speed= 125x    size=   17408KiB time=00:11:31.44 bitrate= 206.2kbits/s speed= 125x    size=   19200KiB time=00:12:34.20 bitrate= 208.5kbits/s speed= 125x    size=   20736KiB time=00:13:36.94 bitrate= 207.9kbits/s speed= 125x    size=   22272KiB time=00:14:39.96 bitrate= 207.3kbits/s speed= 125x    size=   24064KiB time=00:15:42.94 bitrate= 209.1kbits/s speed= 125x    size=   25600KiB time=00:16:45.87 bitrate= 208.5kbits/s speed= 125x    [out#0/mp3 @ 0x13c005200] video:0KiB audio:26675KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000864%
+size=   26675KiB time=00:17:21.85 bitrate= 209.7kbits/s speed= 125x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/RETRO is the new black (Wolfgang Kierdorf)/This is NOT a Commodore 1084 ... what is this？ #pcbway #commodore #amiga #c64 - HIGHSCREEN ST88.webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:14:13.15, start: 0.000000, bitrate: 1604 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:14:13.102000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:14:13.148000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/RETRO is the new black (Wolfgang Kierdorf)/This_is_NOT_a_Commodore_1084_what_is_this_pcbway_commodore_amiga_c64_HIGHSCREEN_ST88.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:14:13.148000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:00:58.85 bitrate= 213.8kbits/s speed= 117x    size=    3328KiB time=00:01:57.00 bitrate= 233.0kbits/s speed= 116x    size=    5120KiB time=00:02:54.24 bitrate= 240.7kbits/s speed= 115x    size=    6912KiB time=00:03:52.44 bitrate= 243.6kbits/s speed= 115x    size=    8704KiB time=00:04:50.69 bitrate= 245.3kbits/s speed= 115x    size=   10496KiB time=00:05:48.43 bitrate= 246.8kbits/s speed= 115x    size=   12288KiB time=00:06:46.47 bitrate= 247.7kbits/s speed= 115x    size=   13824KiB time=00:07:44.38 bitrate= 243.9kbits/s speed= 115x    size=   15616KiB time=00:08:42.53 bitrate= 244.8kbits/s speed= 115x    size=   17408KiB time=00:09:40.85 bitrate= 245.5kbits/s speed= 115x    size=   19200KiB time=00:10:39.10 bitrate= 246.1kbits/s speed= 115x    size=   20992KiB time=00:11:39.46 bitrate= 245.9kbits/s speed= 115x    size=   22528KiB time=00:12:54.03 bitrate= 238.4kbits/s speed= 118x    size=   23808KiB time=00:14:10.85 bitrate= 229.2kbits/s speed= 120x    [out#0/mp3 @ 0x11e722520] video:0KiB audio:24064KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000958%
+size=   24064KiB time=00:14:13.12 bitrate= 231.1kbits/s speed= 121x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/LRN2DIY/Every Drill Has THIS SECRET Safety Feature Built In.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6av01mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:08:52.45, start: 0.000000, bitrate: 5538 kb/s
+  Stream #0:0: Video: av1 (libdav1d) (Main), yuv420p(tv, bt709), 3840x2160, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:08:52.398000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:08:52.448000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/LRN2DIY/Every_Drill_Has_THIS_SECRET_Safety_Feature_Built_In.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6av01mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:08:52.448000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:03.51 bitrate= 198.1kbits/s speed= 126x    size=    3072KiB time=00:02:06.27 bitrate= 199.3kbits/s speed= 125x    size=    4608KiB time=00:03:09.55 bitrate= 199.1kbits/s speed= 125x    size=    6400KiB time=00:04:13.15 bitrate= 207.1kbits/s speed= 126x    size=    7936KiB time=00:05:17.64 bitrate= 204.7kbits/s speed= 126x    size=    9472KiB time=00:06:22.01 bitrate= 203.1kbits/s speed= 126x    size=   11264KiB time=00:07:25.18 bitrate= 207.3kbits/s speed= 126x    size=   13056KiB time=00:08:27.75 bitrate= 210.6kbits/s speed= 126x    [out#0/mp3 @ 0x13e72d5b0] video:0KiB audio:13687KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002376%
+size=   13687KiB time=00:08:52.42 bitrate= 210.6kbits/s speed= 126x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/Skylabs Audio/Did Collectors Ruin Our Vintage Stereo Hobby？.webm':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    ENCODER         : Lavf61.7.100
+  Duration: 00:16:00.57, start: 0.000000, bitrate: 2133 kb/s
+  Stream #0:0: Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 1k tbn (default)
+      Metadata:
+        HANDLER_NAME    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        VENDOR_ID       : [0][0][0][0]
+        DURATION        : 00:16:00.526000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:16:00.568000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/Skylabs Audio/Did_Collectors_Ruin_Our_Vintage_Stereo_Hobby_.mp3':
+  Metadata:
+    COMPATIBLE_BRANDS: iso6mp41
+    MAJOR_BRAND     : dash
+    MINOR_VERSION   : 0
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:16:00.568000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:14.02 bitrate= 170.0kbits/s speed= 147x    size=    3072KiB time=00:02:27.87 bitrate= 170.2kbits/s speed= 147x    size=    4864KiB time=00:03:42.58 bitrate= 179.0kbits/s speed= 147x    size=    6656KiB time=00:04:56.69 bitrate= 183.8kbits/s speed= 147x    size=    8192KiB time=00:06:07.61 bitrate= 182.6kbits/s speed= 146x    size=    9984KiB time=00:07:21.89 bitrate= 185.1kbits/s speed= 146x    size=   11776KiB time=00:08:35.33 bitrate= 187.2kbits/s speed= 146x    size=   13312KiB time=00:09:50.40 bitrate= 184.7kbits/s speed= 146x    size=   15104KiB time=00:11:05.07 bitrate= 186.0kbits/s speed= 146x    size=   16640KiB time=00:12:18.99 bitrate= 184.5kbits/s speed= 146x    size=   18432KiB time=00:13:32.38 bitrate= 185.9kbits/s speed= 146x    size=   19968KiB time=00:14:46.42 bitrate= 184.5kbits/s speed= 146x    size=   21760KiB time=00:15:58.95 bitrate= 185.9kbits/s speed= 146x    [out#0/mp3 @ 0x12bf08020] video:0KiB audio:21909KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001466%
+size=   21909KiB time=00:16:00.55 bitrate= 186.9kbits/s speed= 146x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/David Malawey/we must pause our goals if we wish to learn..webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:02:58.47, start: 0.000000, bitrate: 1733 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 1080x1920, SAR 1:1 DAR 9:16, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:02:58.433000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:02:58.468000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/David Malawey/we_must_pause_our_goals_if_we_wish_to_learn_.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:02:58.468000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1280KiB time=00:01:13.68 bitrate= 142.3kbits/s speed= 146x    size=    2816KiB time=00:02:31.80 bitrate= 152.0kbits/s speed= 150x    [out#0/mp3 @ 0x123f2fe70] video:0KiB audio:3417KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.006744%
+size=    3418KiB time=00:02:58.45 bitrate= 156.9kbits/s speed= 151x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from './videos/GreatScott!/The Coolest Speakers are TOO PRICEY？ Let's Change that! (DIY or Buy).webm':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:12:29.63, start: 0.000000, bitrate: 3119 kb/s
+  Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709), 2560x1440, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:12:29.599000000
+  Stream #0:1(eng): Audio: opus, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:12:29.628000000
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/GreatScott!/The_Coolest_Speakers_are_TOO_PRICEY_Let_s_Change_that_DIY_or_Buy_.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        DURATION        : 00:12:29.628000000
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:00:59.33 bitrate= 212.1kbits/s speed= 117x    size=    3072KiB time=00:02:08.86 bitrate= 195.3kbits/s speed= 128x    size=    4864KiB time=00:03:13.42 bitrate= 206.0kbits/s speed= 128x    size=    6400KiB time=00:04:16.95 bitrate= 204.0kbits/s speed= 127x    size=    8192KiB time=00:05:17.47 bitrate= 211.4kbits/s speed= 126x    size=    9984KiB time=00:06:14.79 bitrate= 218.2kbits/s speed= 124x    size=   11520KiB time=00:07:17.11 bitrate= 215.9kbits/s speed= 124x    size=   13312KiB time=00:08:23.93 bitrate= 216.4kbits/s speed= 125x    size=   15104KiB time=00:09:28.27 bitrate= 217.7kbits/s speed= 125x    size=   16640KiB time=00:10:32.47 bitrate= 215.5kbits/s speed= 125x    size=   18432KiB time=00:11:29.43 bitrate= 219.0kbits/s speed= 124x    [out#0/mp3 @ 0x149f2e470] video:0KiB audio:20308KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001135%
+size=   20308KiB time=00:12:29.61 bitrate= 221.9kbits/s speed= 124x    

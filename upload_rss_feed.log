@@ -1,0 +1,72 @@
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+./scripts/upload-rss-feed-to-s3.sh: line 77: validate_rss_feed: command not found
+Error: RSS feed validation failed.
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+Completed 21.2 KiB/21.2 KiB (115.0 KiB/s) with 1 file(s) remainingupload: ./rss.xml to s3://drfrancintosh.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+Completed 21.2 KiB/21.2 KiB (93.6 KiB/s) with 1 file(s) remainingupload: ./rss.xml to s3://drfrancintosh.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+Completed 21.2 KiB/21.2 KiB (105.5 KiB/s) with 1 file(s) remainingupload: ./rss.xml to s3://drfrancintosh.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!
+Generating RSS feed...
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+./scripts/upload-rss-feed-to-s3.sh: line 47: sha256sum: command not found
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+Completed 19.4 KiB/19.4 KiB (86.8 KiB/s) with 1 file(s) remainingupload: ./rss.xml to s3://drfrancintosh.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+Completed 19.2 KiB/19.2 KiB (96.2 KiB/s) with 1 file(s) remainingupload: ./rss.xml to s3://drfrancintosh.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!
+Generating RSS feed...
+RSS feed generated at ./rss.xml.
+Uploading RSS feed to S3...
+Completed 19.8 KiB/19.8 KiB (87.7 KiB/s) with 1 file(s) remainingupload: ./rss.xml to s3://drfrancintosh.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+RSS feed uploaded to: http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/rss.xml
+Podcast setup complete!

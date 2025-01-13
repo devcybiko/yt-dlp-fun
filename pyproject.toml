@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "yt-dlp-fun"
+version = "0.1.0"
+description = ""
+authors = ["Gregory Smith <greg@agilefrontiers.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+yt-dlp = "^2024.12.23"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
