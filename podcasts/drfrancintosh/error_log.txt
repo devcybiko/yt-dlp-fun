@@ -2712,4 +2712,47 @@ Output #0, mp3, to './audios/Jeff Geerling/Who_would_pay_120_for_a_Raspberry_Pi_
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    1536KiB time=00:01:22.88 bitrate= 151.8kbits/s speed= 164x    
+size=    1536KiB time=00:01:22.88 bitrate= 151.8kbits/s speed= 164x    size=    3328KiB time=00:02:46.76 bitrate= 163.5kbits/s speed= 165x    size=    5120KiB time=00:04:09.68 bitrate= 168.0kbits/s speed= 165x    size=    6656KiB time=00:05:32.24 bitrate= 164.1kbits/s speed= 164x    size=    8448KiB time=00:06:54.68 bitrate= 166.9kbits/s speed= 164x    size=   10240KiB time=00:08:17.88 bitrate= 168.5kbits/s speed= 164x    [out#0/mp3 @ 0x145e2ed00] video:0KiB audio:11860KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002791%
+size=   11860KiB time=00:09:30.10 bitrate= 170.4kbits/s speed= 164x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/More Fun Making It/DesTest Switch - AKA DesTestMax2 - A New C64 Diagnostic From Matt Desmond.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:22:42.82, start: 0.000000, bitrate: 2663 kb/s
+  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 2568 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 16k tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc. Created on: 01/12/2025.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 90 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to './audios/More Fun Making It/DesTest_Switch_AKA_DesTestMax2_A_New_C64_Diagnostic_From_Matt_Desmond.mp3':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libmp3lame
+size=    1536KiB time=00:01:24.60 bitrate= 148.7kbits/s speed= 168x    size=    3072KiB time=00:02:41.76 bitrate= 155.6kbits/s speed= 160x    size=    4864KiB time=00:04:05.62 bitrate= 162.2kbits/s speed= 162x    size=    6400KiB time=00:05:29.86 bitrate= 158.9kbits/s speed= 163x    size=    8192KiB time=00:06:54.08 bitrate= 162.1kbits/s speed= 164x    size=    9728KiB time=00:08:18.29 bitrate= 159.9kbits/s speed= 164x    size=   11520KiB time=00:09:41.86 bitrate= 162.2kbits/s speed= 165x    size=   13056KiB time=00:11:06.34 bitrate= 160.5kbits/s speed= 165x    size=   14848KiB time=00:12:31.08 bitrate= 161.9kbits/s speed= 165x    size=   16384KiB time=00:13:55.92 bitrate= 160.6kbits/s speed= 166x    size=   18176KiB time=00:15:19.68 bitrate= 161.9kbits/s speed= 166x    size=   19712KiB time=00:16:44.02 bitrate= 160.8kbits/s speed= 166x    size=   21248KiB time=00:18:09.12 bitrate= 159.8kbits/s speed= 166x    size=   23040KiB time=00:19:33.41 bitrate= 160.8kbits/s speed= 166x    size=   24064KiB time=00:21:35.50 bitrate= 152.2kbits/s speed= 171x    [out#0/mp3 @ 0x114e04a20] video:0KiB audio:25631KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001276%
+size=   25631KiB time=00:22:42.82 bitrate= 154.1kbits/s speed= 171x    
