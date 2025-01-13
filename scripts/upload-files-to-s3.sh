@@ -41,23 +41,11 @@ if ! command -v aws &> /dev/null; then
   exit 1
 fi
 
-# Validate artwork file
-if [[ ! -f "$artwork_file" ]]; then
-  echo "Error: $artwork_file not found. Please check variables.env."
-  exit 1
-fi
-
-# Upload artwork file
-echo "Uploading artwork to S3..."
-aws s3 cp "$artwork_file" "s3://${s3_bucket}/${s3_folder}/artwork.jpg" --profile "$aws_profile" || {
-  echo "Error: Failed to upload artwork.jpg"
-  exit 1
-}
-
 # Upload audio files to S3 without ACLs
 upload_files_to_s3() {
   echo "Uploading audio files to S3..."
   find "$audio_dir" -type f -name "*.mp3" | while IFS= read -r file; do
+    echo $file
     file_name=$(basename "$file")
     s3_path="${s3_folder}/${file_name}"
 
@@ -74,21 +62,14 @@ upload_files_to_s3() {
       continue
     fi
 
-    # Upload the file to S3
-    # echo "Uploading $file_name to ${s3_path}..."
-    # if ! aws s3 cp "$file" "s3://${s3_bucket}/${s3_path}" --profile "$aws_profile"; then
-    #   echo "Error: Failed to upload $file_name" >&2
-    #   exit 1
-    # fi
+    Upload the file to S3
+    echo "Uploading $file_name to ${s3_path}..."
+    if ! aws s3 cp "$file" "s3://${s3_bucket}/${s3_path}" --profile "$aws_profile"; then
+      echo "Error: Failed to upload $file_name" >&2
+      exit 1
+    fi
   done
 }
-
-# Log output
-exec > >(tee -a "$log_file") 2>&1
-
-# Main execution
-upload_files_to_s3
-echo "File Upload complete!"
 
 # Log output
 exec > >(tee -a "$log_file") 2>&1
