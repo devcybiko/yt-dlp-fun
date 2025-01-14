@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Source the environment variables
+if [[ ! -f "variables.env" ]]; then
+  echo "Error: variables.env file not found. Please create it before running this script."
+  exit 1
+fi
+source "variables.env"
+
 # Define the target directory (current directory by default)
 TARGET_DIR="${1:-.}"
 

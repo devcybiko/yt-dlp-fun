@@ -21,6 +21,8 @@ handle_sigint() {
 }
 trap handle_sigint SIGINT
 
+mkdir -p "$video_dir"
+
 while IFS= read -r line || [[ -n "$line" ]]; do
   IFS=',' read -ra fields <<< "$line"
 
@@ -35,42 +37,34 @@ while IFS= read -r line || [[ -n "$line" ]]; do
   channel_id="${fields[0]}"    # First field
   channel_url="${fields[1]}"     # Second field
   channel_title="${fields[2]}"
+  channel_title="${channel_title//[^a-zA-Z0-9]/_}"
+
   [[ "$channel_id" == "Channel Id" ]] && continue
 
-#   echo "Channel ID: $channel_id"
-#   echo "Channel URL: $channel_url"
+  echo "Channel ID: $channel_id"
+  echo "Channel URL: $channel_url"
   echo "Channel Title: $channel_title"
 
-  feed="https://www.youtube.com/feeds/videos.xml?channel_id=$channel_id"
+  if [[ "$channel_id" == "" || "$channel_url" == "" || "$channel_title" == "" ]]; then
+    echo "Skipping ... Bad entry..."
+    continue
+  fi
 
-poetry >/dev/null run yt-dlp \
+  mkdir -p "$video_dir/$channel_title"
+
+  feed="https://www.youtube.com/feeds/videos.xml?channel_id=$channel_id"
+  echo "FEED: $feed"
+
+  yt-dlp \
     --dateafter now-7days \
     --download-archive "$archive_file" \
-    --output "$video_dir/%(channel)s/%(title)s.%(ext)s" \
+    --output "./$video_dir/$channel_title/%(title)s.%(ext)s" \
     --no-post-overwrites \
     --no-mtime \
     --remux-video mp4 \
-    --match-filter "duration <= $duration_threshold" \
+    --quiet \
+    --match-filter "duration <= $duration_min & duration <= $duration_max" \
     -- "$feed"
 
   echo "--------------------------"
 done < "$csv_file"
-
-# cat subscriptions.csv | grep -v "Channel Id" | grep -v "^#"| cut -d',' -f2 > subscriptions.txt
-# yesterday=$(date -v-1d +"%Y%m%d")
-# echo $yesterday
-# yesterday=20250101
-# yt-dlp --dateafter $yesterday --download-archive archive.txt -a subscriptions.txt --extract-audio --audio-format mp3
-# poetry run yt-dlp --dateafter $yesterday --download-archive archive.txt -a subscriptions.txt
-# poetry run yt-dlp --no-post-overwrites --no-mtime --dateafter now-1day --download-archive archive.txt -a subscriptions.txt
-# poetry run yt-dlp --dateafter now-1day --playlist-reverse --max-downloads 5 --download-archive archive.txt -a subscriptions.txt
-# poetry run yt-dlp --dateafter $yesterday --playlist-reverse --max-downloads 5 --download-archive archive.txt -a subscriptions.txt
-# poetry run yt-dlp \
-# --no-post-overwrites \
-# --no-mtime \
-# --dateafter now-1day \
-# --download-archive archive.txt \
-# -a subscriptions.txt \
-# -o "./new/%(title)s.%(ext)s" 
-
-# https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ

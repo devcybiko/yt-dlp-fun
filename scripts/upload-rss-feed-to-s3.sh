@@ -45,7 +45,7 @@ EOF
     # Add prefix to the title
     title="$prefix: $title"
 
-    url="${base_url}/${file_name}" # Public URL of the audio file
+    url="${base_url}/${subfolder_name}/${file_name}" # Public URL of the audio file
     file_size=$(stat -f "%z" "$file") # Get file size in bytes
     pub_date=$(stat -f "%Sm" -t "%a, %d %b %Y %H:%M:%S %z" "$file")
 

@@ -8,6 +8,7 @@ fi
 source "variables.env"
 
 # Create the output directory if it doesn't exist
+rm -rf "$audio_dir"
 mkdir -p "$audio_dir"
 
 # Clear the log file if it exists

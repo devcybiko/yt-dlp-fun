@@ -5,6 +5,8 @@
 ## TODO
 
 - don't process LIVE or overly long videos / audios
+- purging of audio/video folder
+- set a lower limit on videos downloaded (avoiding shorts)
 - set the # of days (currently hard-coded to 7 days prior)
 - manage purging of reviewed audios/videos
 - verify that duplicates do not occur
@@ -18,9 +20,8 @@
 
 ## Running
 
-- The scripts depend upon python3 and poetry. Installation is beyond the scope of this document
 - The scripts also depend upon the AWS CLI being installed and configured. Installation is beyond the scope of this document
-- `poetry lock && poetry install` # one time for set up
+- `brew install yt-dlp` # one time for set up
 - `source ./scripts/source.me`
     - sets environment vars, path
 - `cd podcasts/drfrancintosh`
@@ -72,7 +73,40 @@
     ]
 }
 ```
+## For SYNC capabilities
 
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "FullAccessForSelf",
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::YOUR_ACCOUNT_ID:user/YOUR_USER_NAME"
+      },
+      "Action": [
+        "s3:ListBucket",
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": [
+        "arn:aws:s3:::your-bucket-name",
+        "arn:aws:s3:::your-bucket-name/*"
+      ]
+    },
+    {
+      "Sid": "PublicReadForStaticWebsite",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::your-bucket-name/*"
+    }
+  ]
+}
+
+```
 ## Scripts
 
 - all.sh - run all the scripts

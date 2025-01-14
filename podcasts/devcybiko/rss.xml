@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Greg Smith's Personal Podcast</title>
+  <description>A collection of my favorite audio recordings.</description>
+  <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C</link>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 13 Jan 2025 23:46:44 -0500</lastBuildDate>
+  <author>Greg Smith</author>
+  <itunes:category text="Education"/>
+  <itunes:image href="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/artwork.jpg"/>
+  <itunes:explicit>no</itunes:explicit>
+  <item>
+    <title>Dr  Francintosh: The YouTube Personal Podcast</title>
+    <itunes:subtitle>Dr  Francintosh</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Dr__Francintosh/The_YouTube_Personal_Podcast.mp3</link>
+    <guid isPermaLink="false">b9a40d98163e426b3b6f56ab12f0336c6e1c67aad81230c9651572359930cd6b</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:01 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Dr__Francintosh/The_YouTube_Personal_Podcast.mp3" type="audio/mpeg" length="12954219"/>
+    <itunes:duration>0:11:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Weird History Food: How Kevin Hart Tried And Failed To Make Fast Food Healthy</title>
+    <itunes:subtitle>Weird History Food</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Weird_History_Food/How_Kevin_Hart_Tried_And_Failed_To_Make_Fast_Food_Healthy.mp3</link>
+    <guid isPermaLink="false">6156a2d19cb7eaef2bfe736edbd6127e2f99ead5c7c37b97f394a17a631c172a</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:05 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Weird_History_Food/How_Kevin_Hart_Tried_And_Failed_To_Make_Fast_Food_Healthy.mp3" type="audio/mpeg" length="16922451"/>
+    <itunes:duration>0:10:09</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Apple Explained: Why Apple Stopped Using Intel Chips</title>
+    <itunes:subtitle>Apple Explained</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Apple_Explained/Why_Apple_Stopped_Using_Intel_Chips.mp3</link>
+    <guid isPermaLink="false">e3dc697307bd97c7e195d4e3b70674cd365ef26b75163039c8fb6a1197a4b475</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:12 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Apple_Explained/Why_Apple_Stopped_Using_Intel_Chips.mp3" type="audio/mpeg" length="35738883"/>
+    <itunes:duration>0:27:57</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Al Franken: Dana Milbank on The Nutcase Republican House</title>
+    <itunes:subtitle>Al Franken</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Al_Franken/Dana_Milbank_on_The_Nutcase_Republican_House.mp3</link>
+    <guid isPermaLink="false">c6a1a3e230acc5483c25801f632bd6d03640329db6de525fee693bdf827db0bd</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:24 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Al_Franken/Dana_Milbank_on_The_Nutcase_Republican_House.mp3" type="audio/mpeg" length="55630395"/>
+    <itunes:duration>0:42:36</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Mother Jones: Meet the Mayor of GreenSky</title>
+    <itunes:subtitle>Mother Jones</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Mother_Jones/Meet_the_Mayor_of_GreenSky.mp3</link>
+    <guid isPermaLink="false">0ad71824c7fd0d34a28f409c5d57a9427cb30da360830cc5ec0190007a33b366</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:25 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Mother_Jones/Meet_the_Mayor_of_GreenSky.mp3" type="audio/mpeg" length="3037439"/>
+    <itunes:duration>0:01:47</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>MindYourDecisions: 7 Outside The Box Puzzles</title>
+    <itunes:subtitle>MindYourDecisions</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/MindYourDecisions/7_Outside_The_Box_Puzzles.mp3</link>
+    <guid isPermaLink="false">e29123b414a3c3d78017b2f118675279cef87b3f4948a68d676a55a81fd22e3e</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:28 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/MindYourDecisions/7_Outside_The_Box_Puzzles.mp3" type="audio/mpeg" length="14382215"/>
+    <itunes:duration>0:12:15</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Associated Press: Some Israeli soldiers are refusing to keep fighting in Gaza</title>
+    <itunes:subtitle>Associated Press</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Associated_Press/Some_Israeli_soldiers_are_refusing_to_keep_fighting_in_Gaza.mp3</link>
+    <guid isPermaLink="false">219b942bc5445dc1a17cacd07f2b110ddb11a5f019109cc09cefb2c405c992bc</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:29 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Associated_Press/Some_Israeli_soldiers_are_refusing_to_keep_fighting_in_Gaza.mp3" type="audio/mpeg" length="1635455"/>
+    <itunes:duration>0:01:32</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The History Guy  History Deserves to Be Remembered: The M6 Heavy Tank</title>
+    <itunes:subtitle>The History Guy  History Deserves to Be Remembered</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_History_Guy__History_Deserves_to_Be_Remembered/The_M6_Heavy_Tank.mp3</link>
+    <guid isPermaLink="false">482191875b566ada6fd68912dffa5ecfe63fe3199a29d2623a540f23df8b41c0</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:29 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_History_Guy__History_Deserves_to_Be_Remembered/The_M6_Heavy_Tank.mp3" type="audio/mpeg" length="1161215"/>
+    <itunes:duration>0:00:52</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Car Zombies : Should you drain the oil before removing the crank shaft pulley </title>
+    <itunes:subtitle>Car Zombies </itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Car_Zombies_/Should_you_drain_the_oil_before_removing_the_crank_shaft_pulley_.mp3</link>
+    <guid isPermaLink="false">945f543edd32386a37d66ee249f3d1797f310fdf115d52df41b03fb0eece00bb</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:30 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Car_Zombies_/Should_you_drain_the_oil_before_removing_the_crank_shaft_pulley_.mp3" type="audio/mpeg" length="1545311"/>
+    <itunes:duration>0:00:49</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>LetsTurnItUpWorld: We made a Big ROOKIE MISTAKE Winter Camping living in my camper van RV Life</title>
+    <itunes:subtitle>LetsTurnItUpWorld</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/LetsTurnItUpWorld/We_made_a_Big_ROOKIE_MISTAKE_Winter_Camping_living_in_my_camper_van_RV_Life.mp3</link>
+    <guid isPermaLink="false">e8d9c6b90737cc13e1d8010b5f23006c995e0a965aae130563d548eae09baaaa</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:39 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/LetsTurnItUpWorld/We_made_a_Big_ROOKIE_MISTAKE_Winter_Camping_living_in_my_camper_van_RV_Life.mp3" type="audio/mpeg" length="40597991"/>
+    <itunes:duration>0:30:03</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Sumsub: How Tech Tracks Your Every Move </title>
+    <itunes:subtitle>Sumsub</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Sumsub/How_Tech_Tracks_Your_Every_Move_.mp3</link>
+    <guid isPermaLink="false">9616735c277bc96e575e0361840758007be5c0f7fabc41e13238305ef0aba8de</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:43 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Sumsub/How_Tech_Tracks_Your_Every_Move_.mp3" type="audio/mpeg" length="23133047"/>
+    <itunes:duration>0:12:27</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Go Groomer: Trim a Fluffy Dog s Head step by step</title>
+    <itunes:subtitle>Go Groomer</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Go_Groomer/Trim_a_Fluffy_Dog_s_Head_step_by_step.mp3</link>
+    <guid isPermaLink="false">978d9827734bbdab1c22a4dbd208fa3d6442ed3aee11662683a00f89c81d037c</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:48 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Go_Groomer/Trim_a_Fluffy_Dog_s_Head_step_by_step.mp3" type="audio/mpeg" length="22324919"/>
+    <itunes:duration>0:17:08</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Oscar Owen Magic: Ant Man Magic Trick Tutorial </title>
+    <itunes:subtitle>Oscar Owen Magic</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Oscar_Owen_Magic/Ant_Man_Magic_Trick_Tutorial_.mp3</link>
+    <guid isPermaLink="false">3d22693fb931ff34162f9c6ba03e06946bc4d86e4d6683a3dcc22e5148af854d</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:48 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Oscar_Owen_Magic/Ant_Man_Magic_Trick_Tutorial_.mp3" type="audio/mpeg" length="1414127"/>
+    <itunes:duration>0:00:56</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Way of the Wrench: VPIN How to install a big budget playfield monitor</title>
+    <itunes:subtitle>Way of the Wrench</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Way_of_the_Wrench/VPIN_How_to_install_a_big_budget_playfield_monitor.mp3</link>
+    <guid isPermaLink="false">b32b6ea224307de49f4e2186747db1f339741d4ed3442d218beb3f343776c79f</guid>
+    <pubDate>Mon, 13 Jan 2025 23:09:59 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Way_of_the_Wrench/VPIN_How_to_install_a_big_budget_playfield_monitor.mp3" type="audio/mpeg" length="51951263"/>
+    <itunes:duration>0:29:05</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Kevin Stratvert: The End of Tutorials This Free AI Changes How You Learn Software Forever Google AI Studio</title>
+    <itunes:subtitle>Kevin Stratvert</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Kevin_Stratvert/The_End_of_Tutorials_This_Free_AI_Changes_How_You_Learn_Software_Forever_Google_AI_Studio.mp3</link>
+    <guid isPermaLink="false">f96a3347a61f332462f7503f070b8996cab2096199d04a1235c8985fb7302265</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:01 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Kevin_Stratvert/The_End_of_Tutorials_This_Free_AI_Changes_How_You_Learn_Software_Forever_Google_AI_Studio.mp3" type="audio/mpeg" length="13056867"/>
+    <itunes:duration>0:10:18</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Adam Mockler: MAGA Mike Caught in DISGUSTING Act</title>
+    <itunes:subtitle>Adam Mockler</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Adam_Mockler/MAGA_Mike_Caught_in_DISGUSTING_Act.mp3</link>
+    <guid isPermaLink="false">bb18095cabd5d53ba39e8c6bc3e4eb6f959390bc85ae5c94b4ef8b941b996515</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:05 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Adam_Mockler/MAGA_Mike_Caught_in_DISGUSTING_Act.mp3" type="audio/mpeg" length="19702751"/>
+    <itunes:duration>0:15:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>David Pakman Show: They want a deportation hotline Trump abandons key promise 1 13 25 TDPS Podcast</title>
+    <itunes:subtitle>David Pakman Show</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/David_Pakman_Show/They_want_a_deportation_hotline_Trump_abandons_key_promise_1_13_25_TDPS_Podcast.mp3</link>
+    <guid isPermaLink="false">aaa423005da1b9c08438f97080ddf192ca35bc16d276ceb45b5daa08c5b01061</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:22 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/David_Pakman_Show/They_want_a_deportation_hotline_Trump_abandons_key_promise_1_13_25_TDPS_Podcast.mp3" type="audio/mpeg" length="75620783"/>
+    <itunes:duration>0:58:34</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>LegalEagle: Trump Criminally Sentenced</title>
+    <itunes:subtitle>LegalEagle</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/LegalEagle/Trump_Criminally_Sentenced.mp3</link>
+    <guid isPermaLink="false">4ae1bf05501431f689de3cab34275f919b9722106bb22bf91817dcdb8f2e4a6c</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:27 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/LegalEagle/Trump_Criminally_Sentenced.mp3" type="audio/mpeg" length="20754887"/>
+    <itunes:duration>0:14:37</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Steven Taputoro: Quick and EASY Card Trick magic cardtrick fyp shorts</title>
+    <itunes:subtitle>Steven Taputoro</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Steven_Taputoro/Quick_and_EASY_Card_Trick_magic_cardtrick_fyp_shorts.mp3</link>
+    <guid isPermaLink="false">1f0d4cec4c56dfff823e681e1e4358b46ea38c7c715dfbba877238ace6b06b8b</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:27 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Steven_Taputoro/Quick_and_EASY_Card_Trick_magic_cardtrick_fyp_shorts.mp3" type="audio/mpeg" length="1622255"/>
+    <itunes:duration>0:01:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Reactions: tempering chocolate is chemical engineering</title>
+    <itunes:subtitle>Reactions</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Reactions/tempering_chocolate_is_chemical_engineering.mp3</link>
+    <guid isPermaLink="false">457e9ae65cd814c62b469ac82ef9d9e49ae0eea37a8a2aa296528739c5e8caaa</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:28 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Reactions/tempering_chocolate_is_chemical_engineering.mp3" type="audio/mpeg" length="1348175"/>
+    <itunes:duration>0:00:59</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The AI Advantage: Next Gen Uncensored AI is HERE </title>
+    <itunes:subtitle>The AI Advantage</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_AI_Advantage/Next_Gen_Uncensored_AI_is_HERE_.mp3</link>
+    <guid isPermaLink="false">b754ef4b66c3cee24a0d2129a3b1e2966afce75cd3fa6a482bbb6b6a72a98479</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:28 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_AI_Advantage/Next_Gen_Uncensored_AI_is_HERE_.mp3" type="audio/mpeg" length="776615"/>
+    <itunes:duration>0:00:26</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Adamant IT: No POST on Sundays Chillblast with a check list of minor issues 429</title>
+    <itunes:subtitle>Adamant IT</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Adamant_IT/No_POST_on_Sundays_Chillblast_with_a_check_list_of_minor_issues_429.mp3</link>
+    <guid isPermaLink="false">312211eafd98973e4f023137c015ce9297dd834dea0406db5c62eb4913c68de3</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:35 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Adamant_IT/No_POST_on_Sundays_Chillblast_with_a_check_list_of_minor_issues_429.mp3" type="audio/mpeg" length="33031539"/>
+    <itunes:duration>0:26:02</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Today I Found Out: Nazi Germany s Utterly Bonkers Wooden Manned Missile</title>
+    <itunes:subtitle>Today I Found Out</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Today_I_Found_Out/Nazi_Germany_s_Utterly_Bonkers_Wooden_Manned_Missile.mp3</link>
+    <guid isPermaLink="false">7637c53b933657a8e0ecdae17bad0a86d99eeb42c44ac182e5d7511c96fca59c</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:39 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Today_I_Found_Out/Nazi_Germany_s_Utterly_Bonkers_Wooden_Manned_Missile.mp3" type="audio/mpeg" length="19952783"/>
+    <itunes:duration>0:13:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Jesse Dollemore: Florida Cop Smashes Patrol Car into Citizen WHILE WATCHING P RN </title>
+    <itunes:subtitle>Jesse Dollemore</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Jesse_Dollemore/Florida_Cop_Smashes_Patrol_Car_into_Citizen_WHILE_WATCHING_P_RN_.mp3</link>
+    <guid isPermaLink="false">ffae8bcd3d8944e4209ca779a5c4839f3c33b5b38703a51fcfe6135d1f58f7b1</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:42 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Jesse_Dollemore/Florida_Cop_Smashes_Patrol_Car_into_Citizen_WHILE_WATCHING_P_RN_.mp3" type="audio/mpeg" length="13396271"/>
+    <itunes:duration>0:10:53</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Becca Farsace: The best things I saw at CES 2025</title>
+    <itunes:subtitle>Becca Farsace</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Becca_Farsace/The_best_things_I_saw_at_CES_2025.mp3</link>
+    <guid isPermaLink="false">5fe53bc61ce0146da1a37a07e48928de9c33f9c1b9b8662ef80b940d9baef14f</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:46 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Becca_Farsace/The_best_things_I_saw_at_CES_2025.mp3" type="audio/mpeg" length="15180335"/>
+    <itunes:duration>0:09:04</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Vik Veer   ENT Surgeon: Demystifying Loop Gain in Sleep Apnoea and UARS My Perspective</title>
+    <itunes:subtitle>Vik Veer   ENT Surgeon</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Vik_Veer___ENT_Surgeon/Demystifying_Loop_Gain_in_Sleep_Apnoea_and_UARS_My_Perspective.mp3</link>
+    <guid isPermaLink="false">74e767892b19f907b555390f172e226f63ab6d2604917847e21654e241de9897</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:48 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Vik_Veer___ENT_Surgeon/Demystifying_Loop_Gain_in_Sleep_Apnoea_and_UARS_My_Perspective.mp3" type="audio/mpeg" length="9298703"/>
+    <itunes:duration>0:10:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Sunny Lenarduzzi: Watch me Create a 10k Month Business in 10 Minutes with AI </title>
+    <itunes:subtitle>Sunny Lenarduzzi</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Sunny_Lenarduzzi/Watch_me_Create_a_10k_Month_Business_in_10_Minutes_with_AI_.mp3</link>
+    <guid isPermaLink="false">c059bd848950b2ccf1400d05461f12991e478fe70f26313eaa52952b4ad683aa</guid>
+    <pubDate>Mon, 13 Jan 2025 23:10:58 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Sunny_Lenarduzzi/Watch_me_Create_a_10k_Month_Business_in_10_Minutes_with_AI_.mp3" type="audio/mpeg" length="44578899"/>
+    <itunes:duration>0:27:57</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The Pet Food Puzzle Guy: Life Stage Pet Food or Not It s Confusing </title>
+    <itunes:subtitle>The Pet Food Puzzle Guy</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Pet_Food_Puzzle_Guy/Life_Stage_Pet_Food_or_Not_It_s_Confusing_.mp3</link>
+    <guid isPermaLink="false">e76e59893e7815feaf801581d22078592e01d0886dd9fe1ab7ea0b91f7242ee3</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:01 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Pet_Food_Puzzle_Guy/Life_Stage_Pet_Food_or_Not_It_s_Confusing_.mp3" type="audio/mpeg" length="13271159"/>
+    <itunes:duration>0:10:33</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>CNN: Mike Johnson suggests wildfire aid for California could come with strings attached</title>
+    <itunes:subtitle>CNN</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CNN/Mike_Johnson_suggests_wildfire_aid_for_California_could_come_with_strings_attached.mp3</link>
+    <guid isPermaLink="false">6fb939f2e4c2e4c17a416c04bf7f7e811e6046b12fadc8dca7571d913b9e789e</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:04 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CNN/Mike_Johnson_suggests_wildfire_aid_for_California_could_come_with_strings_attached.mp3" type="audio/mpeg" length="11471903"/>
+    <itunes:duration>0:09:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>CheapRVliving: Why This Retired Postal Worker Chose Minivan Life RARE High Top Minivan </title>
+    <itunes:subtitle>CheapRVliving</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CheapRVliving/Why_This_Retired_Postal_Worker_Chose_Minivan_Life_RARE_High_Top_Minivan_.mp3</link>
+    <guid isPermaLink="false">7d34a37177c23da899ca5e9572f2afa364949fa3f3b7ee94ce99229a95a31828</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:07 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/CheapRVliving/Why_This_Retired_Postal_Worker_Chose_Minivan_Life_RARE_High_Top_Minivan_.mp3" type="audio/mpeg" length="14266299"/>
+    <itunes:duration>0:13:02</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Brandermill Local Radio: What s Happening in Chesterfield Jan 7 2025</title>
+    <itunes:subtitle>Brandermill Local Radio</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Brandermill_Local_Radio/What_s_Happening_in_Chesterfield_Jan_7_2025.mp3</link>
+    <guid isPermaLink="false">b24ef9366a726532b4d20a5b2521643c707488d5b4b3483095ad7456eaa1f90c</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:08 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Brandermill_Local_Radio/What_s_Happening_in_Chesterfield_Jan_7_2025.mp3" type="audio/mpeg" length="5633235"/>
+    <itunes:duration>0:03:21</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Vox: One reason movies are so dark now</title>
+    <itunes:subtitle>Vox</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Vox/One_reason_movies_are_so_dark_now.mp3</link>
+    <guid isPermaLink="false">701bc0beb4351c1f647534686dcc5f3e7c42d57dc02252f05b89f0d13b1876bd</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:09 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Vox/One_reason_movies_are_so_dark_now.mp3" type="audio/mpeg" length="1562351"/>
+    <itunes:duration>0:00:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Jackpot Judo: New Year s Eve Jackpots With the Judo Family </title>
+    <itunes:subtitle>Jackpot Judo</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Jackpot_Judo/New_Year_s_Eve_Jackpots_With_the_Judo_Family_.mp3</link>
+    <guid isPermaLink="false">6acf3834353f93440a311095d3995fe5b46df2ebfc0ece09c8483e0f563b58ed</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:16 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Jackpot_Judo/New_Year_s_Eve_Jackpots_With_the_Judo_Family_.mp3" type="audio/mpeg" length="31643015"/>
+    <itunes:duration>0:25:39</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Theoretically Media: New AI Video Models Big Updates from Hailuo Runway Adobe Krea </title>
+    <itunes:subtitle>Theoretically Media</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Theoretically_Media/New_AI_Video_Models_Big_Updates_from_Hailuo_Runway_Adobe_Krea_.mp3</link>
+    <guid isPermaLink="false">cd2e3830f215b55e02acca92784d8ef44abd5303b7b30d51c9c4516137ac3f32</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:19 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Theoretically_Media/New_AI_Video_Models_Big_Updates_from_Hailuo_Runway_Adobe_Krea_.mp3" type="audio/mpeg" length="15335687"/>
+    <itunes:duration>0:10:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Computerphile: Computer Timescales Mapped onto Human Timescales Computerphile</title>
+    <itunes:subtitle>Computerphile</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Computerphile/Computer_Timescales_Mapped_onto_Human_Timescales_Computerphile.mp3</link>
+    <guid isPermaLink="false">8f1ea714aaca5ebdd8625a2546d4b03258758d7fdab4963aaecb7ae621fd0d82</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:26 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Computerphile/Computer_Timescales_Mapped_onto_Human_Timescales_Computerphile.mp3" type="audio/mpeg" length="37384203"/>
+    <itunes:duration>0:28:40</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>ArjanCodes: Remove Emotion from Feedback</title>
+    <itunes:subtitle>ArjanCodes</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/ArjanCodes/Remove_Emotion_from_Feedback.mp3</link>
+    <guid isPermaLink="false">032acc5e3753b888ca7dcba7d3b4f504410dcbffe4fb3a324354cd04d3cf0c34</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:27 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/ArjanCodes/Remove_Emotion_from_Feedback.mp3" type="audio/mpeg" length="483695"/>
+    <itunes:duration>0:00:23</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Fireship: 17 weird new tech products at CES 2025 you need right now </title>
+    <itunes:subtitle>Fireship</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Fireship/17_weird_new_tech_products_at_CES_2025_you_need_right_now_.mp3</link>
+    <guid isPermaLink="false">ffbed0fa1ab6ff7698f97ab065fffe57bcaee6a11533e246c915f536f5e58bb0</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:28 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Fireship/17_weird_new_tech_products_at_CES_2025_you_need_right_now_.mp3" type="audio/mpeg" length="7158819"/>
+    <itunes:duration>0:05:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>MSNBC: Hegseth s accusers tried to reach out to Republican Senators they were declined</title>
+    <itunes:subtitle>MSNBC</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/MSNBC/Hegseth_s_accusers_tried_to_reach_out_to_Republican_Senators_they_were_declined.mp3</link>
+    <guid isPermaLink="false">b224a1178d63d722c45b9f093ce2070fb29897f5fe8ad79d6458737da96c4878</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:30 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/MSNBC/Hegseth_s_accusers_tried_to_reach_out_to_Republican_Senators_they_were_declined.mp3" type="audio/mpeg" length="9008735"/>
+    <itunes:duration>0:08:00</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The Lincoln Project: Trump Fought the Law and the Law Won</title>
+    <itunes:subtitle>The Lincoln Project</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Lincoln_Project/Trump_Fought_the_Law_and_the_Law_Won.mp3</link>
+    <guid isPermaLink="false">32121c80db28040f507635040ddb521e43853fa870909d4b2acd51f69e92db95</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:32 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Lincoln_Project/Trump_Fought_the_Law_and_the_Law_Won.mp3" type="audio/mpeg" length="7724975"/>
+    <itunes:duration>0:06:05</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Two Minute Papers: DeepMind s Veo2 AI The New King Is Here </title>
+    <itunes:subtitle>Two Minute Papers</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Two_Minute_Papers/DeepMind_s_Veo2_AI_The_New_King_Is_Here_.mp3</link>
+    <guid isPermaLink="false">ede334f6aae7015b7dfcf462fad895e4ff40fc725d03e242c3f9b63bdc94e48d</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:34 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Two_Minute_Papers/DeepMind_s_Veo2_AI_The_New_King_Is_Here_.mp3" type="audio/mpeg" length="8102211"/>
+    <itunes:duration>0:06:29</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The Action Lab: Poisson s Spot on The Darkest Ball In The World</title>
+    <itunes:subtitle>The Action Lab</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Action_Lab/Poisson_s_Spot_on_The_Darkest_Ball_In_The_World.mp3</link>
+    <guid isPermaLink="false">d275d5919f6df71cb5277a810a17c3c154c40200dedd603044a77e819043131a</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:37 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Action_Lab/Poisson_s_Spot_on_The_Darkest_Ball_In_The_World.mp3" type="audio/mpeg" length="13649111"/>
+    <itunes:duration>0:08:07</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The Art Of Storytelling: AI Will NEVER Produce Cinema</title>
+    <itunes:subtitle>The Art Of Storytelling</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Art_Of_Storytelling/AI_Will_NEVER_Produce_Cinema.mp3</link>
+    <guid isPermaLink="false">4463d6a6020d02ed353a44e998109a436dd4483655d128cc7eee89e866888b24</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:40 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Art_Of_Storytelling/AI_Will_NEVER_Produce_Cinema.mp3" type="audio/mpeg" length="15672003"/>
+    <itunes:duration>0:10:59</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Brian Tyler Cohen: Elon Musk to BUY TikTok </title>
+    <itunes:subtitle>Brian Tyler Cohen</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Brian_Tyler_Cohen/Elon_Musk_to_BUY_TikTok_.mp3</link>
+    <guid isPermaLink="false">69d9b4cfec44526042898a01b930315a8d48e7dbd699f2197f6b4b7e961d6561</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:40 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Brian_Tyler_Cohen/Elon_Musk_to_BUY_TikTok_.mp3" type="audio/mpeg" length="1350383"/>
+    <itunes:duration>0:00:39</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Be Smart: This video is half a moment long</title>
+    <itunes:subtitle>Be Smart</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Be_Smart/This_video_is_half_a_moment_long.mp3</link>
+    <guid isPermaLink="false">ff65a18a98e8623f0871dc80156da3497fdc522494e827c566a43792b00874cc</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:40 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Be_Smart/This_video_is_half_a_moment_long.mp3" type="audio/mpeg" length="1100255"/>
+    <itunes:duration>0:00:45</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title> Dan Monroe   Movies: Whatever Happened to SUPERMAN The MOVIE </title>
+    <itunes:subtitle> Dan Monroe   Movies</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/_Dan_Monroe___Movies/Whatever_Happened_to_SUPERMAN_The_MOVIE_.mp3</link>
+    <guid isPermaLink="false">183dc7e9b5627ee7e5f80251c5ac330faa53298236db51a1ad2a4649715328eb</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:49 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/_Dan_Monroe___Movies/Whatever_Happened_to_SUPERMAN_The_MOVIE_.mp3" type="audio/mpeg" length="43018875"/>
+    <itunes:duration>0:30:28</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Professor Gerdes Explains    : WOW CHINA TURNS AWAY SANCTIONED RUSSIAN SHADOW OIL SHIPS </title>
+    <itunes:subtitle>Professor Gerdes Explains    </itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Professor_Gerdes_Explains____/WOW_CHINA_TURNS_AWAY_SANCTIONED_RUSSIAN_SHADOW_OIL_SHIPS_.mp3</link>
+    <guid isPermaLink="false">3b40783d40208845a7cd9436a2cfd24af2e514c2a2220bedddb9397f205206d1</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:53 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Professor_Gerdes_Explains____/WOW_CHINA_TURNS_AWAY_SANCTIONED_RUSSIAN_SHADOW_OIL_SHIPS_.mp3" type="audio/mpeg" length="16061159"/>
+    <itunes:duration>0:11:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>The Critical Drinker: Production Hell Jaws</title>
+    <itunes:subtitle>The Critical Drinker</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Critical_Drinker/Production_Hell_Jaws.mp3</link>
+    <guid isPermaLink="false">e2c66ab918065ad0dcde06f1e34043d2928de54ef295b97b1d5eddd27be4ce46</guid>
+    <pubDate>Mon, 13 Jan 2025 23:11:56 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/The_Critical_Drinker/Production_Hell_Jaws.mp3" type="audio/mpeg" length="14778719"/>
+    <itunes:duration>0:10:36</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
+    <title>Mr Trek: My Starship Enterprise model will be 40ft long </title>
+    <itunes:subtitle>Mr Trek</itunes:subtitle>
+    <link>http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Mr_Trek/My_Starship_Enterprise_model_will_be_40ft_long_.mp3</link>
+    <guid isPermaLink="false">c59b3fb323498bedcc86d3636c54c7f8fcd0d4780ec2bad097751d4de308dfdb</guid>
+    <pubDate>Mon, 13 Jan 2025 23:12:00 -0500</pubDate>
+    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/devcybiko-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Mr_Trek/My_Starship_Enterprise_model_will_be_40ft_long_.mp3" type="audio/mpeg" length="19282487"/>
+    <itunes:duration>0:10:37</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+</channel>
+</rss>
