@@ -56,13 +56,12 @@ upload_files_to_s3() {
       continue
     fi
 
-    # Check if duration exceeds 60 minutes (3600 seconds)
-    if (( $(echo "$duration > $duration_threshold" | bc -l) )); then
-      echo "Deleting $file as it exceeds 60 minutes (Duration: ${duration}s)."
-      rm -f "$file"
-      continue
-    fi
-
+    # Check if duration is outside the range of duration_min and duration_max
+        if (( $(echo "$duration < $duration_min" | bc -l) || $(echo "$duration > $duration_max" | bc -l) )); then
+          echo "Deleting $file as it is outside the allowed duration range (${duration_min}s - ${duration_max}s). (Duration: ${duration}s)."
+          rm -f "$file"
+          continue
+        fi
   done
   aws s3 sync "$audio_dir" "s3://${s3_bucket}/${s3_folder}/${file_name}" --delete
 

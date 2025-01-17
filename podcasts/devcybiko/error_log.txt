@@ -38,8 +38,8 @@ Output #0, mp3, to 'audios/Dr__Francintosh/The_YouTube_Personal_Podcast.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:57.32 bitrate= 143.0kbits/s speed= 232x    size=    4352KiB time=00:03:59.48 bitrate= 148.9kbits/s speed= 237x    size=    6656KiB time=00:06:01.59 bitrate= 150.8kbits/s speed= 239x    size=    8960KiB time=00:08:03.75 bitrate= 151.7kbits/s speed= 239x    size=   11008KiB time=00:10:03.94 bitrate= 149.3kbits/s speed= 239x    [out#0/mp3 @ 0x11e6053c0] video:0KiB audio:12650KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002617%
-size=   12651KiB time=00:11:16.62 bitrate= 153.2kbits/s speed= 237x    
+size=    2048KiB time=00:01:58.13 bitrate= 142.0kbits/s speed= 234x    size=    4352KiB time=00:04:03.03 bitrate= 146.7kbits/s speed= 241x    size=    6656KiB time=00:06:06.60 bitrate= 148.7kbits/s speed= 242x    size=    8960KiB time=00:08:11.12 bitrate= 149.5kbits/s speed= 243x    size=   11264KiB time=00:10:16.11 bitrate= 149.8kbits/s speed= 244x    [out#0/mp3 @ 0x14a105ba0] video:0KiB audio:12650KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002617%
+size=   12651KiB time=00:11:16.62 bitrate= 153.2kbits/s speed= 242x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -80,92 +80,8 @@ Output #0, mp3, to 'audios/Weird_History_Food/How_Kevin_Hart_Tried_And_Failed_To
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2560KiB time=00:01:37.95 bitrate= 214.1kbits/s speed= 195x    size=    5120KiB time=00:03:15.00 bitrate= 215.1kbits/s speed= 194x    size=    7936KiB time=00:04:52.01 bitrate= 222.6kbits/s speed= 193x    size=   10496KiB time=00:06:31.18 bitrate= 219.8kbits/s speed= 194x    size=   13056KiB time=00:08:09.17 bitrate= 218.6kbits/s speed= 194x    size=   15872KiB time=00:09:47.04 bitrate= 221.5kbits/s speed= 194x    [out#0/mp3 @ 0x146f0c790] video:0KiB audio:16526KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002003%
-size=   16526KiB time=00:10:09.06 bitrate= 222.3kbits/s speed= 194x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Apple_Explained/Why Apple Stopped Using Intel Chips.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:27:57.44, start: 0.000000, bitrate: 653 kb/s
-  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 1920x1080, 529 kb/s, SAR 1:1 DAR 16:9, 60 fps, 60 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 113 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Apple_Explained/Why_Apple_Stopped_Using_Intel_Chips.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:02:00.51 bitrate= 156.6kbits/s speed= 239x    size=    4608KiB time=00:03:41.93 bitrate= 170.1kbits/s speed= 220x    size=    7168KiB time=00:05:25.56 bitrate= 180.4kbits/s speed= 215x    size=    9472KiB time=00:07:09.20 bitrate= 180.8kbits/s speed= 213x    size=   11776KiB time=00:08:52.88 bitrate= 181.0kbits/s speed= 211x    size=   14080KiB time=00:10:44.16 bitrate= 179.1kbits/s speed= 213x    size=   16384KiB time=00:12:37.06 bitrate= 177.3kbits/s speed= 214x    size=   18688KiB time=00:14:33.96 bitrate= 175.2kbits/s speed= 217x    size=   20992KiB time=00:16:34.59 bitrate= 172.9kbits/s speed= 219x    size=   23296KiB time=00:18:31.18 bitrate= 171.7kbits/s speed= 220x    size=   25600KiB time=00:20:25.54 bitrate= 171.1kbits/s speed= 221x    size=   27904KiB time=00:22:22.35 bitrate= 170.3kbits/s speed= 222x    size=   30208KiB time=00:24:17.57 bitrate= 169.8kbits/s speed= 222x    size=   32768KiB time=00:26:11.26 bitrate= 170.8kbits/s speed= 222x    [out#0/mp3 @ 0x136f0c760] video:0KiB audio:34901KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000949%
-size=   34901KiB time=00:27:57.44 bitrate= 170.4kbits/s speed= 223x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Al_Franken/Dana Milbank on The Nutcase Republican House.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:42:36.06, start: 0.000000, bitrate: 1630 kb/s
-  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 3840x2160, 1502 kb/s, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 120 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Al_Franken/Dana_Milbank_on_The_Nutcase_Republican_House.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:48.68 bitrate= 173.7kbits/s speed= 215x    size=    4352KiB time=00:03:43.56 bitrate= 159.5kbits/s speed= 221x    size=    6400KiB time=00:05:37.28 bitrate= 155.4kbits/s speed= 223x    size=    8448KiB time=00:07:29.86 bitrate= 153.8kbits/s speed= 223x    size=   11008KiB time=00:09:12.56 bitrate= 163.2kbits/s speed= 219x    size=   13312KiB time=00:10:58.16 bitrate= 165.7kbits/s speed= 217x    size=   15616KiB time=00:12:46.13 bitrate= 167.0kbits/s speed= 217x    size=   17920KiB time=00:14:32.64 bitrate= 168.2kbits/s speed= 216x    size=   20480KiB time=00:16:19.11 bitrate= 171.4kbits/s speed= 215x    size=   22784KiB time=00:18:06.84 bitrate= 171.7kbits/s speed= 215x    size=   25088KiB time=00:19:52.92 bitrate= 172.3kbits/s speed= 215x    size=   27392KiB time=00:21:41.67 bitrate= 172.4kbits/s speed= 215x    size=   29696KiB time=00:23:28.76 bitrate= 172.7kbits/s speed= 215x    size=   32000KiB time=00:25:16.35 bitrate= 172.9kbits/s speed= 214x    size=   34304KiB time=00:27:03.65 bitrate= 173.1kbits/s speed= 214x    size=   36864KiB time=00:28:52.35 bitrate= 174.3kbits/s speed= 214x    size=   39168KiB time=00:30:39.29 bitrate= 174.4kbits/s speed= 214x    size=   41472KiB time=00:32:27.10 bitrate= 174.5kbits/s speed= 214x    size=   43776KiB time=00:34:15.05 bitrate= 174.5kbits/s speed= 214x    size=   45824KiB time=00:36:02.45 bitrate= 173.6kbits/s speed= 214x    size=   48384KiB time=00:37:50.55 bitrate= 174.6kbits/s speed= 214x    size=   50432KiB time=00:39:36.96 bitrate= 173.8kbits/s speed= 214x    size=   52736KiB time=00:41:24.58 bitrate= 173.9kbits/s speed= 214x    [out#0/mp3 @ 0x155f0c740] video:0KiB audio:54326KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000609%
-size=   54327KiB time=00:42:36.06 bitrate= 174.1kbits/s speed= 214x    
+size=    2560KiB time=00:01:39.68 bitrate= 210.4kbits/s speed= 197x    size=    5120KiB time=00:03:18.36 bitrate= 211.4kbits/s speed= 196x    size=    7936KiB time=00:04:56.38 bitrate= 219.3kbits/s speed= 196x    size=   10496KiB time=00:06:35.57 bitrate= 217.4kbits/s speed= 196x    size=   13312KiB time=00:08:15.27 bitrate= 220.2kbits/s speed= 196x    size=   15872KiB time=00:09:53.98 bitrate= 218.9kbits/s speed= 196x    [out#0/mp3 @ 0x15bf0c790] video:0KiB audio:16526KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002003%
+size=   16526KiB time=00:10:09.06 bitrate= 222.3kbits/s speed= 196x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -206,8 +122,8 @@ Output #0, mp3, to 'audios/Mother_Jones/Meet_the_Mayor_of_GreenSky.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:27.08 bitrate= 216.7kbits/s speed= 172x    [out#0/mp3 @ 0x13ef091e0] video:0KiB audio:2966KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.011030%
-size=    2966KiB time=00:01:47.08 bitrate= 226.9kbits/s speed= 175x    
+size=    2304KiB time=00:01:28.54 bitrate= 213.2kbits/s speed= 175x    [out#0/mp3 @ 0x12e62ff00] video:0KiB audio:2966KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.011030%
+size=    2966KiB time=00:01:47.08 bitrate= 226.9kbits/s speed= 179x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -248,8 +164,8 @@ Output #0, mp3, to 'audios/MindYourDecisions/7_Outside_The_Box_Puzzles.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:47.91 bitrate= 155.5kbits/s speed= 214x    size=    4096KiB time=00:03:34.92 bitrate= 156.1kbits/s speed= 213x    size=    6144KiB time=00:05:22.71 bitrate= 156.0kbits/s speed= 213x    size=    7936KiB time=00:07:09.12 bitrate= 151.5kbits/s speed= 212x    size=    9984KiB time=00:08:54.92 bitrate= 152.9kbits/s speed= 212x    size=   12032KiB time=00:10:43.37 bitrate= 153.2kbits/s speed= 212x    [out#0/mp3 @ 0x12ef09210] video:0KiB audio:14045KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002329%
-size=   14045KiB time=00:12:15.82 bitrate= 156.4kbits/s speed= 212x    
+size=    2048KiB time=00:01:47.74 bitrate= 155.7kbits/s speed= 213x    size=    4096KiB time=00:03:35.98 bitrate= 155.4kbits/s speed= 214x    size=    6144KiB time=00:05:23.93 bitrate= 155.4kbits/s speed= 214x    size=    8192KiB time=00:07:12.58 bitrate= 155.1kbits/s speed= 214x    size=   10240KiB time=00:09:01.42 bitrate= 154.9kbits/s speed= 214x    size=   12288KiB time=00:10:49.71 bitrate= 154.9kbits/s speed= 214x    [out#0/mp3 @ 0x13d630c90] video:0KiB audio:14045KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002329%
+size=   14045KiB time=00:12:15.82 bitrate= 156.4kbits/s speed= 214x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -290,8 +206,8 @@ Output #0, mp3, to 'audios/Associated_Press/Some_Israeli_soldiers_are_refusing_t
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x14a005d10] video:0KiB audio:1597KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.020488%
-size=    1597KiB time=00:01:32.84 bitrate= 140.9kbits/s speed= 210x    
+[out#0/mp3 @ 0x13f707000] video:0KiB audio:1597KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.020488%
+size=    1597KiB time=00:01:32.84 bitrate= 140.9kbits/s speed= 223x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -332,8 +248,8 @@ Output #0, mp3, to 'audios/The_History_Guy__History_Deserves_to_Be_Remembered/Th
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x137f091d0] video:0KiB audio:1134KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.028857%
-size=    1134KiB time=00:00:52.94 bitrate= 175.5kbits/s speed= 188x    
+[out#0/mp3 @ 0x12ee32e20] video:0KiB audio:1134KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.028857%
+size=    1134KiB time=00:00:52.94 bitrate= 175.5kbits/s speed= 195x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -374,8 +290,8 @@ Output #0, mp3, to 'audios/Car_Zombies_/Should_you_drain_the_oil_before_removing
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x13b7092b0] video:0KiB audio:1509KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.021683%
-size=    1509KiB time=00:00:49.58 bitrate= 249.3kbits/s speed= 152x    
+[out#0/mp3 @ 0x12de30d10] video:0KiB audio:1509KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.021683%
+size=    1509KiB time=00:00:49.58 bitrate= 249.3kbits/s speed= 158x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -387,51 +303,9 @@ ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   libswscale      8.  3.100 /  8.  3.100
   libswresample   5.  3.100 /  5.  3.100
   libpostproc    58.  3.100 / 58.  3.100
-[in#0 @ 0x11f706600] Error opening input: Invalid data found when processing input
+[in#0 @ 0x158706600] Error opening input: Invalid data found when processing input
 Error opening input file videos/.DS_Store.
 Error opening input files: Invalid data found when processing input
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/LetsTurnItUpWorld/We made a Big ROOKIE MISTAKE Winter Camping (living in my camper van) - RV Life.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:30:03.54, start: 0.000000, bitrate: 4394 kb/s
-  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 4275 kb/s, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc. Created on: 01/13/2025.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 111 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/LetsTurnItUpWorld/We_made_a_Big_ROOKIE_MISTAKE_Winter_Camping_living_in_my_camper_van_RV_Life.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:34.49 bitrate= 199.7kbits/s speed= 187x    size=    4608KiB time=00:03:08.91 bitrate= 199.8kbits/s speed= 187x    size=    6912KiB time=00:05:01.30 bitrate= 187.9kbits/s speed= 199x    size=    8960KiB time=00:06:55.52 bitrate= 176.6kbits/s speed= 206x    size=   11264KiB time=00:08:54.87 bitrate= 172.5kbits/s speed= 212x    size=   13312KiB time=00:10:33.29 bitrate= 172.2kbits/s speed= 209x    size=   15616KiB time=00:12:12.46 bitrate= 174.7kbits/s speed= 207x    size=   17920KiB time=00:13:40.25 bitrate= 179.0kbits/s speed= 203x    size=   20224KiB time=00:15:04.25 bitrate= 183.2kbits/s speed= 199x    size=   22272KiB time=00:16:29.50 bitrate= 184.4kbits/s speed= 196x    size=   24576KiB time=00:18:02.04 bitrate= 186.1kbits/s speed= 195x    size=   26624KiB time=00:19:44.72 bitrate= 184.1kbits/s speed= 195x    size=   28928KiB time=00:21:18.29 bitrate= 185.4kbits/s speed= 195x    size=   31232KiB time=00:23:01.80 bitrate= 185.2kbits/s speed= 195x    size=   33280KiB time=00:24:44.45 bitrate= 183.7kbits/s speed= 196x    size=   35328KiB time=00:26:27.48 bitrate= 182.3kbits/s speed= 197x    size=   37376KiB time=00:28:13.30 bitrate= 180.8kbits/s speed= 197x    [out#0/mp3 @ 0x136f09280] video:0KiB audio:39646KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000825%
-size=   39646KiB time=00:30:03.54 bitrate= 180.1kbits/s speed= 199x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -472,8 +346,8 @@ Output #0, mp3, to 'audios/Sumsub/How_Tech_Tracks_Your_Every_Move_.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2560KiB time=00:01:25.20 bitrate= 246.1kbits/s speed= 169x    size=    5120KiB time=00:02:54.44 bitrate= 240.4kbits/s speed= 173x    size=    7680KiB time=00:04:23.09 bitrate= 239.1kbits/s speed= 174x    size=   10240KiB time=00:05:51.20 bitrate= 238.9kbits/s speed= 174x    size=   13056KiB time=00:07:17.38 bitrate= 244.5kbits/s speed= 173x    size=   15616KiB time=00:08:40.32 bitrate= 245.9kbits/s speed= 172x    size=   18176KiB time=00:10:03.82 bitrate= 246.6kbits/s speed= 171x    size=   20736KiB time=00:11:27.03 bitrate= 247.3kbits/s speed= 170x    [out#0/mp3 @ 0x156709200] video:0KiB audio:22591KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001448%
-size=   22591KiB time=00:12:27.94 bitrate= 247.4kbits/s speed= 170x    
+size=    2560KiB time=00:01:25.06 bitrate= 246.5kbits/s speed= 168x    size=    5120KiB time=00:02:53.84 bitrate= 241.3kbits/s speed= 172x    size=    7680KiB time=00:04:22.64 bitrate= 239.5kbits/s speed= 173x    size=   10240KiB time=00:05:51.68 bitrate= 238.5kbits/s speed= 174x    size=   13056KiB time=00:07:18.48 bitrate= 243.9kbits/s speed= 174x    size=   15616KiB time=00:08:41.88 bitrate= 245.1kbits/s speed= 172x    size=   18176KiB time=00:10:05.96 bitrate= 245.7kbits/s speed= 171x    size=   20736KiB time=00:11:29.48 bitrate= 246.4kbits/s speed= 171x    [out#0/mp3 @ 0x1220064e0] video:0KiB audio:22591KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001448%
+size=   22591KiB time=00:12:27.94 bitrate= 247.4kbits/s speed= 171x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -514,8 +388,8 @@ Output #0, mp3, to 'audios/Go_Groomer/Trim_a_Fluffy_Dog_s_Head_step_by_step.mp3'
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:49.73 bitrate= 172.0kbits/s speed= 217x    size=    4608KiB time=00:03:44.09 bitrate= 168.4kbits/s speed= 222x    size=    6912KiB time=00:05:36.34 bitrate= 168.3kbits/s speed= 222x    size=    9472KiB time=00:07:32.09 bitrate= 171.6kbits/s speed= 224x    size=   11776KiB time=00:09:11.50 bitrate= 174.9kbits/s speed= 218x    size=   14080KiB time=00:11:01.71 bitrate= 174.3kbits/s speed= 218x    size=   16384KiB time=00:12:57.82 bitrate= 172.6kbits/s speed= 220x    size=   18944KiB time=00:14:55.59 bitrate= 173.3kbits/s speed= 222x    size=   21248KiB time=00:16:49.85 bitrate= 172.4kbits/s speed= 222x    [out#0/mp3 @ 0x14b707590] video:0KiB audio:21801KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001501%
-size=   21802KiB time=00:17:08.84 bitrate= 173.6kbits/s speed= 222x    
+size=    2304KiB time=00:01:51.87 bitrate= 168.7kbits/s speed= 223x    size=    4608KiB time=00:03:49.97 bitrate= 164.1kbits/s speed= 229x    size=    7168KiB time=00:05:45.77 bitrate= 169.8kbits/s speed= 229x    size=    9728KiB time=00:07:45.10 bitrate= 171.3kbits/s speed= 231x    size=   12288KiB time=00:09:26.74 bitrate= 177.6kbits/s speed= 225x    size=   14592KiB time=00:11:25.71 bitrate= 174.3kbits/s speed= 227x    size=   17152KiB time=00:13:25.88 bitrate= 174.4kbits/s speed= 228x    size=   19456KiB time=00:15:24.80 bitrate= 172.3kbits/s speed= 229x    [out#0/mp3 @ 0x159707700] video:0KiB audio:21801KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001501%
+size=   21802KiB time=00:17:08.84 bitrate= 173.6kbits/s speed= 229x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -556,50 +430,8 @@ Output #0, mp3, to 'audios/Oscar_Owen_Magic/Ant_Man_Magic_Trick_Tutorial_.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x139908730] video:0KiB audio:1381KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.023695%
-size=    1381KiB time=00:00:56.20 bitrate= 201.3kbits/s speed= 192x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Way_of_the_Wrench/VPIN： How to install a big budget playfield monitor.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:29:05.70, start: 0.000000, bitrate: 2451 kb/s
-  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 2321 kb/s, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc. Created on: 01/13/2025.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 122 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Way_of_the_Wrench/VPIN_How_to_install_a_big_budget_playfield_monitor.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:30.53 bitrate= 185.3kbits/s speed= 179x    size=    4608KiB time=00:02:57.27 bitrate= 212.9kbits/s speed= 176x    size=    7168KiB time=00:04:23.02 bitrate= 223.3kbits/s speed= 174x    size=    9472KiB time=00:05:44.04 bitrate= 225.5kbits/s speed= 170x    size=   12032KiB time=00:07:06.12 bitrate= 231.3kbits/s speed= 169x    size=   14336KiB time=00:08:30.15 bitrate= 230.2kbits/s speed= 168x    size=   16896KiB time=00:09:53.31 bitrate= 233.3kbits/s speed= 168x    size=   19712KiB time=00:11:16.68 bitrate= 238.6kbits/s speed= 167x    size=   22272KiB time=00:12:38.74 bitrate= 240.5kbits/s speed= 167x    size=   24832KiB time=00:14:00.08 bitrate= 242.1kbits/s speed= 166x    size=   27392KiB time=00:15:24.84 bitrate= 242.6kbits/s speed= 167x    size=   29952KiB time=00:16:49.18 bitrate= 243.1kbits/s speed= 167x    size=   32512KiB time=00:18:12.84 bitrate= 243.7kbits/s speed= 167x    size=   35072KiB time=00:19:36.84 bitrate= 244.1kbits/s speed= 167x    size=   37632KiB time=00:20:57.87 bitrate= 245.1kbits/s speed= 166x    size=   39936KiB time=00:22:24.48 bitrate= 243.3kbits/s speed= 166x    size=   42240KiB time=00:23:59.38 bitrate= 240.4kbits/s speed= 168x    size=   44800KiB time=00:25:27.70 bitrate= 240.2kbits/s speed= 168x    size=   47104KiB time=00:26:58.52 bitrate= 238.4kbits/s speed= 169x    size=   49408KiB time=00:28:26.76 bitrate= 237.1kbits/s speed= 169x    [out#0/mp3 @ 0x154f09260] video:0KiB audio:50733KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000645%
-size=   50734KiB time=00:29:05.70 bitrate= 238.1kbits/s speed= 169x    
+[out#0/mp3 @ 0x144804940] video:0KiB audio:1381KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.023695%
+size=    1381KiB time=00:00:56.20 bitrate= 201.3kbits/s speed= 195x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -640,8 +472,8 @@ Output #0, mp3, to 'audios/Kevin_Stratvert/The_End_of_Tutorials_This_Free_AI_Cha
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:56.09 bitrate= 162.6kbits/s speed= 230x    size=    4864KiB time=00:03:52.71 bitrate= 171.2kbits/s speed= 231x    size=    7168KiB time=00:05:47.74 bitrate= 168.9kbits/s speed= 230x    size=    9472KiB time=00:07:47.04 bitrate= 166.1kbits/s speed= 232x    size=   11776KiB time=00:09:43.32 bitrate= 165.4kbits/s speed= 232x    [out#0/mp3 @ 0x13600c7b0] video:0KiB audio:12751KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002596%
-size=   12751KiB time=00:10:18.80 bitrate= 168.8kbits/s speed= 232x    
+size=    2304KiB time=00:01:55.32 bitrate= 163.7kbits/s speed= 230x    size=    4864KiB time=00:03:53.96 bitrate= 170.3kbits/s speed= 232x    size=    7168KiB time=00:05:52.44 bitrate= 166.6kbits/s speed= 233x    size=    9728KiB time=00:07:52.85 bitrate= 168.5kbits/s speed= 234x    size=   12032KiB time=00:09:51.94 bitrate= 166.5kbits/s speed= 235x    [out#0/mp3 @ 0x135f0bdf0] video:0KiB audio:12751KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002596%
+size=   12751KiB time=00:10:18.80 bitrate= 168.8kbits/s speed= 235x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -682,50 +514,8 @@ Output #0, mp3, to 'audios/Adam_Mockler/MAGA_Mike_Caught_in_DISGUSTING_Act.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:56.57 bitrate= 161.9kbits/s speed= 231x    size=    4608KiB time=00:03:51.41 bitrate= 163.1kbits/s speed= 229x    size=    7168KiB time=00:05:45.39 bitrate= 170.0kbits/s speed= 228x    size=    9472KiB time=00:07:44.86 bitrate= 166.9kbits/s speed= 230x    size=   12032KiB time=00:09:36.32 bitrate= 171.0kbits/s speed= 229x    size=   14336KiB time=00:11:34.30 bitrate= 169.1kbits/s speed= 229x    size=   16640KiB time=00:13:36.94 bitrate= 166.9kbits/s speed= 231x    size=   18688KiB time=00:15:41.04 bitrate= 162.7kbits/s speed= 233x    [out#0/mp3 @ 0x13d62f0e0] video:0KiB audio:19241KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001700%
-size=   19241KiB time=00:15:55.86 bitrate= 164.9kbits/s speed= 233x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/David_Pakman_Show/They want a deportation hotline, Trump abandons key promise 1⧸13⧸25 TDPS Podcast.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:58:34.30, start: 0.000000, bitrate: 2642 kb/s
-  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 2520 kb/s, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc. Created on: 01/13/2025.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 114 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/David_Pakman_Show/They_want_a_deportation_hotline_Trump_abandons_key_promise_1_13_25_TDPS_Podcast.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:43.71 bitrate= 161.8kbits/s speed= 205x    size=    4096KiB time=00:03:30.72 bitrate= 159.2kbits/s speed= 209x    size=    6400KiB time=00:05:15.96 bitrate= 165.9kbits/s speed= 209x    size=    8704KiB time=00:07:02.55 bitrate= 168.7kbits/s speed= 209x    size=   10752KiB time=00:08:46.68 bitrate= 167.2kbits/s speed= 209x    size=   13056KiB time=00:10:31.28 bitrate= 169.4kbits/s speed= 208x    size=   15104KiB time=00:12:17.24 bitrate= 167.8kbits/s speed= 209x    size=   17408KiB time=00:14:02.28 bitrate= 169.3kbits/s speed= 208x    size=   19456KiB time=00:15:46.95 bitrate= 168.3kbits/s speed= 208x    size=   21760KiB time=00:17:32.72 bitrate= 169.3kbits/s speed= 208x    size=   24064KiB time=00:19:14.76 bitrate= 170.7kbits/s speed= 208x    size=   26112KiB time=00:20:56.86 bitrate= 170.2kbits/s speed= 207x    size=   28416KiB time=00:22:41.43 bitrate= 171.0kbits/s speed= 207x    size=   30720KiB time=00:24:28.01 bitrate= 171.4kbits/s speed= 208x    size=   33024KiB time=00:26:11.69 bitrate= 172.1kbits/s speed= 207x    size=   35328KiB time=00:27:54.03 bitrate= 172.9kbits/s speed= 207x    size=   37376KiB time=00:29:40.49 bitrate= 172.0kbits/s speed= 207x    size=   39680KiB time=00:31:25.66 bitrate= 172.4kbits/s speed= 208x    size=   41728KiB time=00:33:07.28 bitrate= 172.0kbits/s speed= 207x    size=   44032KiB time=00:34:51.22 bitrate= 172.5kbits/s speed= 207x    size=   46080KiB time=00:36:34.04 bitrate= 172.1kbits/s speed= 207x    size=   48384KiB time=00:38:17.60 bitrate= 172.5kbits/s speed= 207x    size=   50432KiB time=00:40:01.85 bitrate= 172.0kbits/s speed= 207x    size=   52736KiB time=00:41:48.41 bitrate= 172.2kbits/s speed= 207x    size=   54784KiB time=00:43:30.32 bitrate= 171.9kbits/s speed= 207x    size=   57088KiB time=00:45:15.84 bitrate= 172.2kbits/s speed= 207x    size=   59392KiB time=00:47:00.17 bitrate= 172.5kbits/s speed= 207x    size=   61440KiB time=00:48:46.37 bitrate= 172.0kbits/s speed= 207x    size=   63744KiB time=00:50:30.87 bitrate= 172.3kbits/s speed= 207x    size=   65792KiB time=00:52:16.76 bitrate= 171.8kbits/s speed= 207x    size=   68096KiB time=00:54:05.79 bitrate= 171.9kbits/s speed= 207x    size=   70144KiB time=00:55:50.93 bitrate= 171.5kbits/s speed= 207x    size=   72448KiB time=00:57:35.55 bitrate= 171.8kbits/s speed= 207x    [out#0/mp3 @ 0x148f092a0] video:0KiB audio:73848KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000443%
-size=   73848KiB time=00:58:34.30 bitrate= 172.1kbits/s speed= 207x    
+size=    2304KiB time=00:01:59.60 bitrate= 157.8kbits/s speed= 237x    size=    4864KiB time=00:03:57.48 bitrate= 167.8kbits/s speed= 235x    size=    7424KiB time=00:05:54.75 bitrate= 171.4kbits/s speed= 234x    size=    9728KiB time=00:07:58.90 bitrate= 166.4kbits/s speed= 237x    size=   12288KiB time=00:09:56.16 bitrate= 168.9kbits/s speed= 236x    size=   14592KiB time=00:12:02.02 bitrate= 165.6kbits/s speed= 238x    size=   17152KiB time=00:14:09.03 bitrate= 165.5kbits/s speed= 240x    [out#0/mp3 @ 0x142e30540] video:0KiB audio:19241KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001700%
+size=   19241KiB time=00:15:55.86 bitrate= 164.9kbits/s speed= 241x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -766,8 +556,8 @@ Output #0, mp3, to 'audios/LegalEagle/Trump_Criminally_Sentenced.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:41.72 bitrate= 185.6kbits/s speed= 201x    size=    4608KiB time=00:03:31.88 bitrate= 178.2kbits/s speed= 210x    size=    6912KiB time=00:05:18.99 bitrate= 177.5kbits/s speed= 211x    size=    8960KiB time=00:07:04.76 bitrate= 172.8kbits/s speed= 210x    size=   11008KiB time=00:08:54.89 bitrate= 168.6kbits/s speed= 212x    size=   13312KiB time=00:10:27.27 bitrate= 173.9kbits/s speed= 207x    size=   16128KiB time=00:11:49.40 bitrate= 186.2kbits/s speed= 201x    size=   18432KiB time=00:13:18.80 bitrate= 189.0kbits/s speed= 198x    [out#0/mp3 @ 0x148005020] video:0KiB audio:20268KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001614%
-size=   20268KiB time=00:14:37.64 bitrate= 189.2kbits/s speed= 200x    
+size=    2304KiB time=00:01:45.24 bitrate= 179.3kbits/s speed= 208x    size=    4864KiB time=00:03:39.48 bitrate= 181.5kbits/s speed= 217x    size=    7168KiB time=00:05:35.64 bitrate= 174.9kbits/s speed= 222x    size=    9472KiB time=00:07:34.64 bitrate= 170.7kbits/s speed= 225x    size=   11776KiB time=00:09:34.01 bitrate= 168.1kbits/s speed= 227x    size=   14592KiB time=00:10:59.96 bitrate= 181.1kbits/s speed= 218x    size=   17152KiB time=00:12:26.36 bitrate= 188.3kbits/s speed= 211x    size=   19712KiB time=00:14:12.63 bitrate= 189.4kbits/s speed= 211x    [out#0/mp3 @ 0x1458064c0] video:0KiB audio:20268KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001614%
+size=   20268KiB time=00:14:37.64 bitrate= 189.2kbits/s speed= 212x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -808,8 +598,8 @@ Output #0, mp3, to 'audios/Steven_Taputoro/Quick_and_EASY_Card_Trick_magic_cardt
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x140908740] video:0KiB audio:1584KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.020655%
-size=    1584KiB time=00:01:16.96 bitrate= 168.6kbits/s speed= 225x    
+[out#0/mp3 @ 0x13df09200] video:0KiB audio:1584KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.020655%
+size=    1584KiB time=00:01:16.96 bitrate= 168.6kbits/s speed= 233x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -850,8 +640,100 @@ Output #0, mp3, to 'audios/Reactions/tempering_chocolate_is_chemical_engineering
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x15390b630] video:0KiB audio:1316KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.024855%
-size=    1317KiB time=00:00:59.82 bitrate= 180.3kbits/s speed= 209x    
+[out#0/mp3 @ 0x159809f70] video:0KiB audio:1316KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.024855%
+size=    1317KiB time=00:00:59.82 bitrate= 180.3kbits/s speed= 219x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/devcybiko/Pure Energy_ ST_TOS Every Episode - Widescreen.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2024-12-27T01:49:14.000000Z
+    encoder         : Google
+  Duration: 00:04:35.55, start: 0.000000, bitrate: 1322 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 1191 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        creation_time   : 2024-12-27T01:49:14.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 12/26/2024.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+      Metadata:
+        creation_time   : 2024-12-27T01:49:14.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 12/26/2024.
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'audios/devcybiko/Pure_Energy_ST_TOS_Every_Episode_Widescreen.mp3':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    TSSE            : Lavf61.7.100
+  Stream #0:0(und): Audio: mp3, 44100 Hz, stereo, fltp (default)
+      Metadata:
+        creation_time   : 2024-12-27T01:49:14.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 12/26/2024.
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libmp3lame
+size=    2560KiB time=00:01:29.47 bitrate= 234.4kbits/s speed= 177x    size=    5376KiB time=00:02:58.65 bitrate= 246.5kbits/s speed= 177x    size=    7936KiB time=00:04:28.01 bitrate= 242.6kbits/s speed= 177x    [out#0/mp3 @ 0x13df11a40] video:0KiB audio:8344KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004038%
+size=    8344KiB time=00:04:35.55 bitrate= 248.1kbits/s speed= 177x    
+ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/devcybiko/Pure Energy_ ST_TOS Every Episode - 4_3 Aspect.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2024-12-27T01:58:33.000000Z
+    encoder         : Google
+  Duration: 00:04:35.55, start: 0.000000, bitrate: 930 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 960x720 [SAR 1:1 DAR 4:3], 798 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        creation_time   : 2024-12-27T01:58:33.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 12/26/2024.
+        vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+      Metadata:
+        creation_time   : 2024-12-27T01:58:33.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 12/26/2024.
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'audios/devcybiko/Pure_Energy_ST_TOS_Every_Episode_4_3_Aspect.mp3':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    TSSE            : Lavf61.7.100
+  Stream #0:0(und): Audio: mp3, 44100 Hz, stereo, fltp (default)
+      Metadata:
+        creation_time   : 2024-12-27T01:58:33.000000Z
+        handler_name    : ISO Media file produced by Google Inc. Created on: 12/26/2024.
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libmp3lame
+size=    2560KiB time=00:01:29.52 bitrate= 234.3kbits/s speed= 177x    size=    5376KiB time=00:02:58.62 bitrate= 246.5kbits/s speed= 177x    size=    7936KiB time=00:04:27.83 bitrate= 242.7kbits/s speed= 177x    [out#0/mp3 @ 0x14f814200] video:0KiB audio:8344KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004038%
+size=    8344KiB time=00:04:35.55 bitrate= 248.1kbits/s speed= 177x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -892,8 +774,8 @@ Output #0, mp3, to 'audios/The_AI_Advantage/Next_Gen_Uncensored_AI_is_HERE_.mp3'
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x1587091e0] video:0KiB audio:758KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.043155%
-size=     758KiB time=00:00:26.32 bitrate= 236.0kbits/s speed= 175x    
+[out#0/mp3 @ 0x11d004320] video:0KiB audio:758KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.043155%
+size=     758KiB time=00:00:26.32 bitrate= 236.0kbits/s speed= 179x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -934,8 +816,8 @@ Output #0, mp3, to 'audios/Adamant_IT/No_POST_on_Sundays_Chillblast_with_a_check
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:42.20 bitrate= 184.7kbits/s speed= 202x    size=    4352KiB time=00:03:29.24 bitrate= 170.4kbits/s speed= 207x    size=    6656KiB time=00:05:14.21 bitrate= 173.5kbits/s speed= 207x    size=    8704KiB time=00:07:02.36 bitrate= 168.8kbits/s speed= 209x    size=   11008KiB time=00:08:50.12 bitrate= 170.1kbits/s speed= 210x    size=   13312KiB time=00:10:37.56 bitrate= 171.0kbits/s speed= 210x    size=   15360KiB time=00:12:24.77 bitrate= 168.9kbits/s speed= 211x    size=   17664KiB time=00:14:15.15 bitrate= 169.2kbits/s speed= 212x    size=   19968KiB time=00:16:02.50 bitrate= 170.0kbits/s speed= 212x    size=   22016KiB time=00:17:49.47 bitrate= 168.6kbits/s speed= 212x    size=   24320KiB time=00:19:38.28 bitrate= 169.1kbits/s speed= 212x    size=   26368KiB time=00:21:26.24 bitrate= 167.9kbits/s speed= 212x    size=   28672KiB time=00:23:13.49 bitrate= 168.6kbits/s speed= 212x    size=   30976KiB time=00:25:01.78 bitrate= 169.0kbits/s speed= 213x    [out#0/mp3 @ 0x14770c7a0] video:0KiB audio:32257KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001026%
-size=   32257KiB time=00:26:02.34 bitrate= 169.1kbits/s speed= 214x    
+size=    2304KiB time=00:01:43.16 bitrate= 183.0kbits/s speed= 204x    size=    4352KiB time=00:03:30.10 bitrate= 169.7kbits/s speed= 208x    size=    6656KiB time=00:05:16.73 bitrate= 172.1kbits/s speed= 210x    size=    8960KiB time=00:07:06.36 bitrate= 172.2kbits/s speed= 212x    size=   11008KiB time=00:08:54.56 bitrate= 168.7kbits/s speed= 212x    size=   13312KiB time=00:10:43.04 bitrate= 169.6kbits/s speed= 213x    size=   15616KiB time=00:12:33.51 bitrate= 169.8kbits/s speed= 213x    size=   17920KiB time=00:14:23.38 bitrate= 170.0kbits/s speed= 214x    size=   20224KiB time=00:16:12.68 bitrate= 170.3kbits/s speed= 214x    size=   22272KiB time=00:18:02.50 bitrate= 168.5kbits/s speed= 215x    size=   24576KiB time=00:19:53.38 bitrate= 168.7kbits/s speed= 215x    size=   26880KiB time=00:21:42.17 bitrate= 169.1kbits/s speed= 215x    size=   29184KiB time=00:23:31.04 bitrate= 169.4kbits/s speed= 215x    size=   31488KiB time=00:25:18.53 bitrate= 169.9kbits/s speed= 215x    [out#0/mp3 @ 0x138e304b0] video:0KiB audio:32257KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001026%
+size=   32257KiB time=00:26:02.34 bitrate= 169.1kbits/s speed= 216x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -976,8 +858,8 @@ Output #0, mp3, to 'audios/Today_I_Found_Out/Nazi_Germany_s_Utterly_Bonkers_Wood
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:36.82 bitrate= 194.9kbits/s speed= 192x    size=    4608KiB time=00:03:12.56 bitrate= 196.0kbits/s speed= 191x    size=    6912KiB time=00:04:53.09 bitrate= 193.2kbits/s speed= 194x    size=    9472KiB time=00:06:31.61 bitrate= 198.1kbits/s speed= 194x    size=   11776KiB time=00:08:07.54 bitrate= 197.9kbits/s speed= 193x    size=   14336KiB time=00:09:47.09 bitrate= 200.0kbits/s speed= 194x    size=   16640KiB time=00:11:26.12 bitrate= 198.7kbits/s speed= 194x    size=   18944KiB time=00:13:05.04 bitrate= 197.7kbits/s speed= 194x    [out#0/mp3 @ 0x12e805250] video:0KiB audio:19485KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001679%
-size=   19485KiB time=00:13:16.30 bitrate= 200.5kbits/s speed= 194x    
+size=    2304KiB time=00:01:39.48 bitrate= 189.7kbits/s speed= 199x    size=    4864KiB time=00:03:19.56 bitrate= 199.7kbits/s speed= 198x    size=    7168KiB time=00:05:02.84 bitrate= 193.9kbits/s speed= 200x    size=    9728KiB time=00:06:42.68 bitrate= 197.9kbits/s speed= 200x    size=   12288KiB time=00:08:21.53 bitrate= 200.7kbits/s speed= 199x    size=   14592KiB time=00:10:03.10 bitrate= 198.2kbits/s speed= 199x    size=   17152KiB time=00:11:44.19 bitrate= 199.5kbits/s speed= 199x    [out#0/mp3 @ 0x14fe30ce0] video:0KiB audio:19485KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001679%
+size=   19485KiB time=00:13:16.30 bitrate= 200.5kbits/s speed= 199x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1018,8 +900,8 @@ Output #0, mp3, to 'audios/Jesse_Dollemore/Florida_Cop_Smashes_Patrol_Car_into_C
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:54.08 bitrate= 165.4kbits/s speed= 226x    size=    4352KiB time=00:03:49.54 bitrate= 155.3kbits/s speed= 227x    size=    6656KiB time=00:05:45.34 bitrate= 157.9kbits/s speed= 228x    size=    9216KiB time=00:07:40.68 bitrate= 163.9kbits/s speed= 228x    size=   11520KiB time=00:09:26.31 bitrate= 166.6kbits/s speed= 224x    [out#0/mp3 @ 0x14cf082a0] video:0KiB audio:13082KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002501%
-size=   13082KiB time=00:10:53.48 bitrate= 164.0kbits/s speed= 229x    
+size=    2304KiB time=00:01:59.74 bitrate= 157.6kbits/s speed= 237x    size=    4608KiB time=00:04:00.48 bitrate= 157.0kbits/s speed= 238x    size=    7168KiB time=00:06:01.78 bitrate= 162.3kbits/s speed= 239x    size=    9472KiB time=00:08:01.78 bitrate= 161.1kbits/s speed= 238x    size=   12032KiB time=00:09:54.29 bitrate= 165.9kbits/s speed= 235x    [out#0/mp3 @ 0x158707000] video:0KiB audio:13082KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002501%
+size=   13082KiB time=00:10:53.48 bitrate= 164.0kbits/s speed= 240x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1060,8 +942,8 @@ Output #0, mp3, to 'audios/Becca_Farsace/The_best_things_I_saw_at_CES_2025.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:28.35 bitrate= 213.6kbits/s speed= 175x    size=    4864KiB time=00:03:00.39 bitrate= 220.9kbits/s speed= 179x    size=    7168KiB time=00:04:31.25 bitrate= 216.5kbits/s speed= 179x    size=    9472KiB time=00:05:54.96 bitrate= 218.6kbits/s speed= 176x    size=   11776KiB time=00:07:18.80 bitrate= 219.8kbits/s speed= 174x    size=   14336KiB time=00:08:49.28 bitrate= 221.9kbits/s speed= 175x    [out#0/mp3 @ 0x121634bc0] video:0KiB audio:14824KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002207%
-size=   14825KiB time=00:09:04.70 bitrate= 223.0kbits/s speed= 175x    
+size=    2304KiB time=00:01:29.62 bitrate= 210.6kbits/s speed= 179x    size=    4864KiB time=00:03:03.41 bitrate= 217.2kbits/s speed= 182x    size=    7424KiB time=00:04:35.45 bitrate= 220.8kbits/s speed= 182x    size=    9728KiB time=00:06:02.16 bitrate= 220.0kbits/s speed= 180x    size=   12288KiB time=00:07:30.96 bitrate= 223.2kbits/s speed= 179x    size=   14592KiB time=00:09:02.88 bitrate= 220.2kbits/s speed= 179x    [out#0/mp3 @ 0x11de04450] video:0KiB audio:14824KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002207%
+size=   14825KiB time=00:09:04.70 bitrate= 223.0kbits/s speed= 180x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1102,8 +984,8 @@ Output #0, mp3, to 'audios/Vik_Veer___ENT_Surgeon/Demystifying_Loop_Gain_in_Slee
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    1792KiB time=00:02:06.56 bitrate= 116.0kbits/s speed= 251x    size=    3584KiB time=00:04:17.55 bitrate= 114.0kbits/s speed= 255x    size=    5376KiB time=00:06:29.09 bitrate= 113.2kbits/s speed= 257x    size=    7424KiB time=00:08:40.23 bitrate= 116.9kbits/s speed= 258x    [out#0/mp3 @ 0x12fe05210] video:0KiB audio:9080KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.003603%
-size=    9081KiB time=00:10:43.80 bitrate= 115.5kbits/s speed= 260x    
+size=    1792KiB time=00:02:11.84 bitrate= 111.3kbits/s speed= 261x    size=    3840KiB time=00:04:26.33 bitrate= 118.1kbits/s speed= 264x    size=    5632KiB time=00:06:39.92 bitrate= 115.4kbits/s speed= 265x    size=    7424KiB time=00:08:53.88 bitrate= 113.9kbits/s speed= 265x    [out#0/mp3 @ 0x136630ce0] video:0KiB audio:9080KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.003603%
+size=    9081KiB time=00:10:43.80 bitrate= 115.5kbits/s speed= 267x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1144,8 +1026,8 @@ Output #0, mp3, to 'audios/Sunny_Lenarduzzi/Watch_me_Create_a_10k_Month_Business
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:24.89 bitrate= 197.6kbits/s speed= 168x    size=    4352KiB time=00:02:50.19 bitrate= 209.5kbits/s speed= 168x    size=    6656KiB time=00:04:16.83 bitrate= 212.3kbits/s speed= 170x    size=    8704KiB time=00:05:43.16 bitrate= 207.8kbits/s speed= 170x    size=   11008KiB time=00:07:06.22 bitrate= 211.6kbits/s speed= 169x    size=   13056KiB time=00:08:30.24 bitrate= 209.6kbits/s speed= 169x    size=   15360KiB time=00:09:56.69 bitrate= 210.9kbits/s speed= 169x    size=   17408KiB time=00:11:22.35 bitrate= 209.0kbits/s speed= 169x    size=   19712KiB time=00:12:47.86 bitrate= 210.3kbits/s speed= 169x    size=   22016KiB time=00:14:14.02 bitrate= 211.2kbits/s speed= 169x    size=   24064KiB time=00:15:37.42 bitrate= 210.3kbits/s speed= 169x    size=   26368KiB time=00:17:03.17 bitrate= 211.1kbits/s speed= 169x    size=   28416KiB time=00:18:28.08 bitrate= 210.1kbits/s speed= 169x    size=   30720KiB time=00:19:54.24 bitrate= 210.7kbits/s speed= 169x    size=   33024KiB time=00:21:19.44 bitrate= 211.4kbits/s speed= 169x    size=   35072KiB time=00:22:44.21 bitrate= 210.6kbits/s speed= 169x    size=   37376KiB time=00:24:09.46 bitrate= 211.2kbits/s speed= 169x    size=   39680KiB time=00:25:34.78 bitrate= 211.8kbits/s speed= 169x    size=   41984KiB time=00:27:01.18 bitrate= 212.1kbits/s speed= 169x    [out#0/mp3 @ 0x10d604740] video:0KiB audio:43534KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000760%
-size=   43534KiB time=00:27:57.90 bitrate= 212.5kbits/s speed= 169x    
+size=    2304KiB time=00:01:26.81 bitrate= 217.4kbits/s speed= 172x    size=    4608KiB time=00:02:53.91 bitrate= 217.1kbits/s speed= 172x    size=    6656KiB time=00:04:22.49 bitrate= 207.7kbits/s speed= 173x    size=    8960KiB time=00:05:51.41 bitrate= 208.9kbits/s speed= 174x    size=   11264KiB time=00:07:20.48 bitrate= 209.5kbits/s speed= 174x    size=   13568KiB time=00:08:48.53 bitrate= 210.3kbits/s speed= 174x    size=   15872KiB time=00:10:16.37 bitrate= 210.9kbits/s speed= 174x    size=   17920KiB time=00:11:43.49 bitrate= 208.7kbits/s speed= 174x    size=   20224KiB time=00:13:10.25 bitrate= 209.6kbits/s speed= 174x    size=   22528KiB time=00:14:38.14 bitrate= 210.2kbits/s speed= 174x    size=   24832KiB time=00:16:05.38 bitrate= 210.7kbits/s speed= 174x    size=   27136KiB time=00:17:32.24 bitrate= 211.3kbits/s speed= 174x    size=   29184KiB time=00:18:59.26 bitrate= 209.9kbits/s speed= 174x    size=   31488KiB time=00:20:26.48 bitrate= 210.3kbits/s speed= 174x    size=   33792KiB time=00:21:53.76 bitrate= 210.7kbits/s speed= 173x    size=   36096KiB time=00:23:19.97 bitrate= 211.2kbits/s speed= 173x    size=   38400KiB time=00:24:46.16 bitrate= 211.7kbits/s speed= 173x    size=   40704KiB time=00:26:13.16 bitrate= 212.0kbits/s speed= 173x    size=   43008KiB time=00:27:38.84 bitrate= 212.4kbits/s speed= 173x    [out#0/mp3 @ 0x14fe2ffb0] video:0KiB audio:43534KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000760%
+size=   43534KiB time=00:27:57.90 bitrate= 212.5kbits/s speed= 173x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1186,8 +1068,8 @@ Output #0, mp3, to 'audios/The_Pet_Food_Puzzle_Guy/Life_Stage_Pet_Food_or_Not_It
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:24.77 bitrate= 222.6kbits/s speed= 168x    size=    4352KiB time=00:03:25.52 bitrate= 173.5kbits/s speed= 203x    size=    6656KiB time=00:05:24.39 bitrate= 168.1kbits/s speed= 214x    size=    8704KiB time=00:07:23.74 bitrate= 160.7kbits/s speed= 220x    size=   11008KiB time=00:09:22.04 bitrate= 160.4kbits/s speed= 223x    [out#0/mp3 @ 0x128f05050] video:0KiB audio:12960KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002524%
-size=   12960KiB time=00:10:33.62 bitrate= 167.6kbits/s speed= 217x    
+size=    2304KiB time=00:01:26.09 bitrate= 219.2kbits/s speed= 172x    size=    4608KiB time=00:03:26.98 bitrate= 182.4kbits/s speed= 206x    size=    6656KiB time=00:05:28.49 bitrate= 166.0kbits/s speed= 218x    size=    8960KiB time=00:07:30.32 bitrate= 163.0kbits/s speed= 224x    size=   11008KiB time=00:09:32.36 bitrate= 157.6kbits/s speed= 228x    [out#0/mp3 @ 0x13bf05010] video:0KiB audio:12960KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002524%
+size=   12960KiB time=00:10:33.62 bitrate= 167.6kbits/s speed= 222x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1228,8 +1110,8 @@ Output #0, mp3, to 'audios/CNN/Mike_Johnson_suggests_wildfire_aid_for_California
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:55.73 bitrate= 145.0kbits/s speed= 229x    size=    4608KiB time=00:03:51.48 bitrate= 163.1kbits/s speed= 229x    size=    6656KiB time=00:05:46.64 bitrate= 157.3kbits/s speed= 229x    size=    9216KiB time=00:07:45.84 bitrate= 162.1kbits/s speed= 231x    [out#0/mp3 @ 0x157f09270] video:0KiB audio:11203KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002920%
-size=   11203KiB time=00:09:22.74 bitrate= 163.1kbits/s speed= 230x    
+size=    2304KiB time=00:01:56.45 bitrate= 162.1kbits/s speed= 232x    size=    4608KiB time=00:03:55.44 bitrate= 160.3kbits/s speed= 234x    size=    6912KiB time=00:05:53.43 bitrate= 160.2kbits/s speed= 234x    size=    9216KiB time=00:07:55.23 bitrate= 158.9kbits/s speed= 236x    [out#0/mp3 @ 0x13f004ed0] video:0KiB audio:11203KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002920%
+size=   11203KiB time=00:09:22.74 bitrate= 163.1kbits/s speed= 236x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1270,8 +1152,8 @@ Output #0, mp3, to 'audios/CheapRVliving/Why_This_Retired_Postal_Worker_Chose_Mi
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:57.05 bitrate= 143.3kbits/s speed= 234x    size=    4096KiB time=00:03:53.07 bitrate= 144.0kbits/s speed= 233x    size=    6144KiB time=00:05:51.70 bitrate= 143.1kbits/s speed= 234x    size=    8192KiB time=00:07:49.49 bitrate= 142.9kbits/s speed= 233x    size=   10240KiB time=00:09:47.45 bitrate= 142.8kbits/s speed= 233x    size=   12544KiB time=00:11:45.39 bitrate= 145.7kbits/s speed= 234x    [out#0/mp3 @ 0x137f09700] video:0KiB audio:13932KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002376%
-size=   13932KiB time=00:13:02.56 bitrate= 145.8kbits/s speed= 234x    
+size=    2048KiB time=00:02:04.40 bitrate= 134.9kbits/s speed= 246x    size=    4352KiB time=00:04:08.31 bitrate= 143.6kbits/s speed= 246x    size=    6400KiB time=00:06:12.92 bitrate= 140.6kbits/s speed= 246x    size=    8704KiB time=00:08:18.65 bitrate= 143.0kbits/s speed= 247x    size=   11008KiB time=00:10:23.40 bitrate= 144.7kbits/s speed= 247x    size=   13056KiB time=00:12:27.51 bitrate= 143.1kbits/s speed= 247x    [out#0/mp3 @ 0x11ff08fd0] video:0KiB audio:13932KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002376%
+size=   13932KiB time=00:13:02.56 bitrate= 145.8kbits/s speed= 247x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1312,8 +1194,8 @@ Output #0, mp3, to 'audios/Brandermill_Local_Radio/What_s_Happening_in_Chesterfi
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:29.62 bitrate= 210.6kbits/s speed= 177x    size=    4864KiB time=00:02:59.04 bitrate= 222.5kbits/s speed= 178x    [out#0/mp3 @ 0x125907b30] video:0KiB audio:5501KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.006018%
-size=    5501KiB time=00:03:21.36 bitrate= 223.8kbits/s speed= 178x    
+size=    2560KiB time=00:01:31.80 bitrate= 228.4kbits/s speed= 182x    size=    4864KiB time=00:03:05.07 bitrate= 215.3kbits/s speed= 184x    [out#0/mp3 @ 0x1277085f0] video:0KiB audio:5501KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.006018%
+size=    5501KiB time=00:03:21.36 bitrate= 223.8kbits/s speed= 185x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1354,50 +1236,8 @@ Output #0, mp3, to 'audios/Vox/One_reason_movies_are_so_dark_now.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x139a04100] video:0KiB audio:1525KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.021447%
-size=    1526KiB time=00:00:58.00 bitrate= 215.5kbits/s speed= 173x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Jackpot_Judo/New Year's Eve Jackpots With the Judo Family!.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:25:38.96, start: 0.000000, bitrate: 5271 kb/s
-  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 5166 kb/s, SAR 1:1 DAR 16:9, 29.97 fps, 29.97 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc. Created on: 01/13/2025.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 97 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Jackpot_Judo/New_Year_s_Eve_Jackpots_With_the_Judo_Family_.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:48.53 bitrate= 154.6kbits/s speed= 215x    size=    4096KiB time=00:03:37.06 bitrate= 154.6kbits/s speed= 215x    size=    6400KiB time=00:05:31.47 bitrate= 158.2kbits/s speed= 219x    size=    8448KiB time=00:07:20.72 bitrate= 157.0kbits/s speed= 218x    size=   10752KiB time=00:09:07.64 bitrate= 160.8kbits/s speed= 217x    size=   13056KiB time=00:10:43.71 bitrate= 166.2kbits/s speed= 212x    size=   15104KiB time=00:12:32.67 bitrate= 164.4kbits/s speed= 213x    size=   17408KiB time=00:14:24.72 bitrate= 164.9kbits/s speed= 214x    size=   19712KiB time=00:16:18.58 bitrate= 165.0kbits/s speed= 215x    size=   22016KiB time=00:18:12.68 bitrate= 165.1kbits/s speed= 216x    size=   24064KiB time=00:20:02.31 bitrate= 164.0kbits/s speed= 217x    size=   26112KiB time=00:21:52.37 bitrate= 163.0kbits/s speed= 217x    size=   28160KiB time=00:23:43.11 bitrate= 162.1kbits/s speed= 217x    size=   30464KiB time=00:25:29.04 bitrate= 163.2kbits/s speed= 216x    [out#0/mp3 @ 0x14f732db0] video:0KiB audio:30901KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001059%
-size=   30901KiB time=00:25:38.96 bitrate= 164.5kbits/s speed= 216x    
+[out#0/mp3 @ 0x130e2f3e0] video:0KiB audio:1525KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.021447%
+size=    1526KiB time=00:00:58.00 bitrate= 215.5kbits/s speed= 185x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1438,92 +1278,8 @@ Output #0, mp3, to 'audios/Theoretically_Media/New_AI_Video_Models_Big_Updates_f
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2560KiB time=00:01:52.71 bitrate= 186.1kbits/s speed= 223x    size=    5120KiB time=00:03:44.26 bitrate= 187.0kbits/s speed= 222x    size=    7424KiB time=00:05:34.56 bitrate= 181.8kbits/s speed= 222x    size=    9984KiB time=00:07:27.05 bitrate= 182.9kbits/s speed= 222x    size=   12544KiB time=00:09:18.87 bitrate= 183.9kbits/s speed= 222x    [out#0/mp3 @ 0x1550232a0] video:0KiB audio:14976KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002184%
-size=   14976KiB time=00:10:55.84 bitrate= 187.1kbits/s speed= 221x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Computerphile/Computer Timescales Mapped onto Human Timescales - Computerphile.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:28:40.80, start: 0.000000, bitrate: 1408 kb/s
-  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 1920x1080, 1292 kb/s, SAR 1:1 DAR 16:9, 50 fps, 50 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 108 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Computerphile/Computer_Timescales_Mapped_onto_Human_Timescales_Computerphile.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:53.26 bitrate= 166.6kbits/s speed= 225x    size=    4608KiB time=00:03:45.39 bitrate= 167.5kbits/s speed= 224x    size=    7168KiB time=00:05:38.84 bitrate= 173.3kbits/s speed= 224x    size=    9472KiB time=00:07:31.88 bitrate= 171.7kbits/s speed= 224x    size=   11776KiB time=00:09:23.33 bitrate= 171.2kbits/s speed= 224x    size=   14336KiB time=00:11:16.01 bitrate= 173.7kbits/s speed= 224x    size=   16640KiB time=00:13:09.60 bitrate= 172.6kbits/s speed= 224x    size=   19200KiB time=00:15:03.82 bitrate= 174.0kbits/s speed= 224x    size=   21504KiB time=00:16:57.20 bitrate= 173.2kbits/s speed= 224x    size=   24064KiB time=00:18:51.75 bitrate= 174.2kbits/s speed= 224x    size=   26368KiB time=00:20:45.58 bitrate= 173.4kbits/s speed= 225x    size=   28672KiB time=00:22:37.80 bitrate= 173.0kbits/s speed= 224x    size=   31232KiB time=00:24:31.73 bitrate= 173.8kbits/s speed= 224x    size=   33536KiB time=00:26:24.72 bitrate= 173.4kbits/s speed= 225x    size=   36096KiB time=00:28:15.10 bitrate= 174.4kbits/s speed= 224x    [out#0/mp3 @ 0x141708260] video:0KiB audio:36508KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000907%
-size=   36508KiB time=00:28:40.80 bitrate= 173.8kbits/s speed= 225x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/ArjanCodes/Remove Emotion from Feedback.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:00:23.50, start: 0.000000, bitrate: 1976 kb/s
-  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1080x1920, 1872 kb/s, SAR 1:1 DAR 9:16, 30 fps, 30 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc. Created on: 01/13/2025.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 98 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/ArjanCodes/Remove_Emotion_from_Feedback.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomiso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x15b905540] video:0KiB audio:472KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.069307%
-size=     472KiB time=00:00:23.50 bitrate= 164.7kbits/s speed= 226x    
+size=    2560KiB time=00:01:57.17 bitrate= 179.0kbits/s speed= 232x    size=    5120KiB time=00:03:53.55 bitrate= 179.6kbits/s speed= 231x    size=    7936KiB time=00:05:50.09 bitrate= 185.7kbits/s speed= 231x    size=   10496KiB time=00:07:47.76 bitrate= 183.8kbits/s speed= 232x    size=   13312KiB time=00:09:44.14 bitrate= 186.7kbits/s speed= 232x    [out#0/mp3 @ 0x12d005010] video:0KiB audio:14976KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002184%
+size=   14976KiB time=00:10:55.84 bitrate= 187.1kbits/s speed= 231x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1564,8 +1320,8 @@ Output #0, mp3, to 'audios/Fireship/17_weird_new_tech_products_at_CES_2025_you_n
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:52.13 bitrate= 168.3kbits/s speed= 222x    size=    4864KiB time=00:03:47.36 bitrate= 175.3kbits/s speed= 225x    [out#0/mp3 @ 0x122e04720] video:0KiB audio:6991KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004736%
-size=    6991KiB time=00:05:24.46 bitrate= 176.5kbits/s speed= 225x    
+size=    2304KiB time=00:01:54.12 bitrate= 165.4kbits/s speed= 226x    size=    4864KiB time=00:03:49.92 bitrate= 173.3kbits/s speed= 228x    [out#0/mp3 @ 0x130708160] video:0KiB audio:6991KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004736%
+size=    6991KiB time=00:05:24.46 bitrate= 176.5kbits/s speed= 228x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1606,8 +1362,8 @@ Output #0, mp3, to 'audios/MSNBC/Hegseth_s_accusers_tried_to_reach_out_to_Republ
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:51.46 bitrate= 150.5kbits/s speed= 221x    size=    4096KiB time=00:03:32.81 bitrate= 157.7kbits/s speed= 211x    size=    6144KiB time=00:05:29.28 bitrate= 152.8kbits/s speed= 218x    size=    8192KiB time=00:07:20.93 bitrate= 152.2kbits/s speed= 219x    [out#0/mp3 @ 0x146f07bd0] video:0KiB audio:8797KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.003719%
-size=    8798KiB time=00:08:00.26 bitrate= 150.1kbits/s speed= 223x    
+size=    2048KiB time=00:01:53.60 bitrate= 147.7kbits/s speed= 225x    size=    4352KiB time=00:03:48.53 bitrate= 156.0kbits/s speed= 226x    size=    6400KiB time=00:05:47.79 bitrate= 150.7kbits/s speed= 230x    size=    8704KiB time=00:07:46.97 bitrate= 152.7kbits/s speed= 231x    [out#0/mp3 @ 0x14d805010] video:0KiB audio:8797KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.003719%
+size=    8798KiB time=00:08:00.26 bitrate= 150.1kbits/s speed= 235x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1648,8 +1404,8 @@ Output #0, mp3, to 'audios/The_Lincoln_Project/Trump_Fought_the_Law_and_the_Law_
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:44.50 bitrate= 180.6kbits/s speed= 207x    size=    4352KiB time=00:03:36.84 bitrate= 164.4kbits/s speed= 215x    size=    6656KiB time=00:05:28.32 bitrate= 166.1kbits/s speed= 218x    [out#0/mp3 @ 0x1427091d0] video:0KiB audio:7544KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004337%
-size=    7544KiB time=00:06:05.58 bitrate= 169.0kbits/s speed= 218x    
+size=    2304KiB time=00:01:44.91 bitrate= 179.9kbits/s speed= 210x    size=    4608KiB time=00:03:39.84 bitrate= 171.7kbits/s speed= 219x    size=    6912KiB time=00:05:34.80 bitrate= 169.1kbits/s speed= 222x    [out#0/mp3 @ 0x14d7085a0] video:0KiB audio:7544KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004337%
+size=    7544KiB time=00:06:05.58 bitrate= 169.0kbits/s speed= 222x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1690,8 +1446,8 @@ Output #0, mp3, to 'audios/Two_Minute_Papers/DeepMind_s_Veo2_AI_The_New_King_Is_
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:51.15 bitrate= 150.9kbits/s speed= 221x    size=    4352KiB time=00:03:45.36 bitrate= 158.2kbits/s speed= 224x    size=    6656KiB time=00:05:40.04 bitrate= 160.4kbits/s speed= 225x    [out#0/mp3 @ 0x15370c750] video:0KiB audio:7912KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004184%
-size=    7912KiB time=00:06:29.76 bitrate= 166.3kbits/s speed= 225x    
+size=    2304KiB time=00:01:59.40 bitrate= 158.1kbits/s speed= 236x    size=    4608KiB time=00:03:59.36 bitrate= 157.7kbits/s speed= 237x    size=    7168KiB time=00:05:58.47 bitrate= 163.8kbits/s speed= 237x    [out#0/mp3 @ 0x135f0c750] video:0KiB audio:7912KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.004184%
+size=    7912KiB time=00:06:29.76 bitrate= 166.3kbits/s speed= 237x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1732,8 +1488,8 @@ Output #0, mp3, to 'audios/The_Action_Lab/Poisson_s_Spot_on_The_Darkest_Ball_In_
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:33.94 bitrate= 200.9kbits/s speed= 186x    size=    4864KiB time=00:03:07.54 bitrate= 212.5kbits/s speed= 186x    size=    7168KiB time=00:04:35.38 bitrate= 213.2kbits/s speed= 182x    size=    9728KiB time=00:06:06.60 bitrate= 217.4kbits/s speed= 182x    size=   12288KiB time=00:07:33.03 bitrate= 222.2kbits/s speed= 180x    [out#0/mp3 @ 0x12a007990] video:0KiB audio:13329KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002454%
-size=   13329KiB time=00:08:07.66 bitrate= 223.9kbits/s speed= 179x    
+size=    2304KiB time=00:01:36.89 bitrate= 194.8kbits/s speed= 192x    size=    4864KiB time=00:03:12.65 bitrate= 206.8kbits/s speed= 191x    size=    7424KiB time=00:04:42.24 bitrate= 215.5kbits/s speed= 186x    size=    9984KiB time=00:06:16.16 bitrate= 217.4kbits/s speed= 186x    size=   12544KiB time=00:07:44.02 bitrate= 221.5kbits/s speed= 184x    [out#0/mp3 @ 0x120f081c0] video:0KiB audio:13329KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002454%
+size=   13329KiB time=00:08:07.66 bitrate= 223.9kbits/s speed= 183x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1774,8 +1530,8 @@ Output #0, mp3, to 'audios/The_Art_Of_Storytelling/AI_Will_NEVER_Produce_Cinema.
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2560KiB time=00:01:50.21 bitrate= 190.3kbits/s speed= 220x    size=    5120KiB time=00:03:42.20 bitrate= 188.8kbits/s speed= 221x    size=    7680KiB time=00:05:30.63 bitrate= 190.3kbits/s speed= 219x    size=   10240KiB time=00:07:22.28 bitrate= 189.7kbits/s speed= 219x    size=   12800KiB time=00:09:13.68 bitrate= 189.4kbits/s speed= 220x    [out#0/mp3 @ 0x12b604140] video:0KiB audio:15304KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002163%
-size=   15305KiB time=00:10:59.00 bitrate= 190.3kbits/s speed= 219x    
+size=    2560KiB time=00:01:54.34 bitrate= 183.4kbits/s speed= 228x    size=    5376KiB time=00:03:49.90 bitrate= 191.6kbits/s speed= 229x    size=    7936KiB time=00:05:45.32 bitrate= 188.3kbits/s speed= 229x    size=   10752KiB time=00:07:41.72 bitrate= 190.8kbits/s speed= 229x    size=   13312KiB time=00:09:38.31 bitrate= 188.6kbits/s speed= 229x    [out#0/mp3 @ 0x1338078e0] video:0KiB audio:15304KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002163%
+size=   15305KiB time=00:10:59.00 bitrate= 190.3kbits/s speed= 230x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1816,8 +1572,8 @@ Output #0, mp3, to 'audios/Brian_Tyler_Cohen/Elon_Musk_to_BUY_TikTok_.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x12d8043c0] video:0KiB audio:1318KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.024814%
-size=    1319KiB time=00:00:39.90 bitrate= 270.7kbits/s speed= 147x    
+[out#0/mp3 @ 0x15a6309d0] video:0KiB audio:1318KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.024814%
+size=    1319KiB time=00:00:39.90 bitrate= 270.7kbits/s speed= 156x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1858,50 +1614,8 @@ Output #0, mp3, to 'audios/Be_Smart/This_video_is_half_a_moment_long.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-[out#0/mp3 @ 0x12762fe60] video:0KiB audio:1074KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.030457%
-size=    1074KiB time=00:00:45.06 bitrate= 195.3kbits/s speed= 190x    
-ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
-  built with Apple clang version 16.0.0 (clang-1600.0.26.4)
-  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
-  libavutil      59. 39.100 / 59. 39.100
-  libavcodec     61. 19.100 / 61. 19.100
-  libavformat    61.  7.100 / 61.  7.100
-  libavdevice    61.  3.100 / 61.  3.100
-  libavfilter    10.  4.100 / 10.  4.100
-  libswscale      8.  3.100 /  8.  3.100
-  libswresample   5.  3.100 /  5.  3.100
-  libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/_Dan_Monroe___Movies/Whatever Happened to SUPERMAN The MOVIE？.mp4':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    encoder         : Lavf61.7.100
-  Duration: 00:30:28.14, start: 0.000000, bitrate: 2610 kb/s
-  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 3840x2160, 2484 kb/s, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 16k tbn (default)
-      Metadata:
-        handler_name    : ISO Media file produced by Google Inc.
-        vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 121 kb/s (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-Stream mapping:
-  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
-Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/_Dan_Monroe___Movies/Whatever_Happened_to_SUPERMAN_The_MOVIE_.mp3':
-  Metadata:
-    major_brand     : isom
-    minor_version   : 512
-    compatible_brands: isomav01iso2mp41
-    TSSE            : Lavf61.7.100
-  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
-      Metadata:
-        handler_name    : SoundHandler
-        vendor_id       : [0][0][0][0]
-        encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:31.61 bitrate= 206.0kbits/s speed= 183x    size=    4608KiB time=00:03:09.22 bitrate= 199.5kbits/s speed= 188x    size=    7168KiB time=00:04:51.65 bitrate= 201.3kbits/s speed= 193x    size=    9472KiB time=00:06:39.77 bitrate= 194.1kbits/s speed= 198x    size=   11776KiB time=00:08:33.22 bitrate= 188.0kbits/s speed= 204x    size=   14080KiB time=00:10:22.28 bitrate= 185.4kbits/s speed= 206x    size=   16640KiB time=00:12:11.48 bitrate= 186.4kbits/s speed= 207x    size=   18944KiB time=00:13:58.66 bitrate= 185.0kbits/s speed= 208x    size=   21248KiB time=00:15:46.40 bitrate= 183.9kbits/s speed= 208x    size=   23808KiB time=00:17:31.18 bitrate= 185.5kbits/s speed= 208x    size=   26112KiB time=00:19:20.43 bitrate= 184.3kbits/s speed= 209x    size=   28672KiB time=00:21:06.12 bitrate= 185.5kbits/s speed= 209x    size=   30976KiB time=00:22:49.04 bitrate= 185.4kbits/s speed= 209x    size=   33536KiB time=00:24:31.20 bitrate= 186.7kbits/s speed= 208x    size=   35840KiB time=00:26:22.30 bitrate= 185.6kbits/s speed= 209x    size=   38400KiB time=00:28:12.58 bitrate= 185.9kbits/s speed= 210x    size=   40960KiB time=00:29:48.00 bitrate= 187.7kbits/s speed= 208x    [out#0/mp3 @ 0x141631410] video:0KiB audio:42010KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000788%
-size=   42011KiB time=00:30:28.14 bitrate= 188.3kbits/s speed= 208x    
+[out#0/mp3 @ 0x145707f20] video:0KiB audio:1074KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.030457%
+size=    1074KiB time=00:00:45.06 bitrate= 195.3kbits/s speed= 193x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1942,8 +1656,8 @@ Output #0, mp3, to 'audios/Professor_Gerdes_Explains____/WOW_CHINA_TURNS_AWAY_SA
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:01:40.83 bitrate= 166.4kbits/s speed= 200x    size=    4352KiB time=00:03:20.72 bitrate= 177.6kbits/s speed= 199x    size=    6656KiB time=00:05:00.08 bitrate= 181.7kbits/s speed= 198x    size=    8960KiB time=00:06:40.52 bitrate= 183.3kbits/s speed= 198x    size=   11264KiB time=00:08:19.37 bitrate= 184.8kbits/s speed= 198x    size=   13568KiB time=00:10:05.19 bitrate= 183.7kbits/s speed= 200x    [out#0/mp3 @ 0x130907bd0] video:0KiB audio:15684KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002086%
-size=   15685KiB time=00:11:42.62 bitrate= 182.9kbits/s speed= 201x    
+size=    2304KiB time=00:01:44.48 bitrate= 180.6kbits/s speed= 207x    size=    4608KiB time=00:03:27.32 bitrate= 182.1kbits/s speed= 205x    size=    6912KiB time=00:05:11.19 bitrate= 182.0kbits/s speed= 205x    size=    9472KiB time=00:06:54.27 bitrate= 187.3kbits/s speed= 205x    size=   11776KiB time=00:08:36.82 bitrate= 186.7kbits/s speed= 205x    size=   14080KiB time=00:10:26.43 bitrate= 184.1kbits/s speed= 207x    [out#0/mp3 @ 0x13ee32e30] video:0KiB audio:15684KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002086%
+size=   15685KiB time=00:11:42.62 bitrate= 182.9kbits/s speed= 208x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -1984,8 +1698,8 @@ Output #0, mp3, to 'audios/The_Critical_Drinker/Production_Hell_Jaws.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:49.76 bitrate= 172.0kbits/s speed= 217x    size=    4864KiB time=00:03:42.12 bitrate= 179.4kbits/s speed= 220x    size=    7424KiB time=00:05:34.23 bitrate= 182.0kbits/s speed= 221x    size=    9984KiB time=00:07:24.65 bitrate= 183.9kbits/s speed= 220x    size=   12288KiB time=00:09:12.03 bitrate= 182.4kbits/s speed= 219x    [out#0/mp3 @ 0x151704170] video:0KiB audio:14432KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002267%
-size=   14432KiB time=00:10:36.76 bitrate= 185.7kbits/s speed= 219x    
+size=    2304KiB time=00:01:54.58 bitrate= 164.7kbits/s speed= 227x    size=    5120KiB time=00:03:50.14 bitrate= 182.2kbits/s speed= 228x    size=    7680KiB time=00:05:45.48 bitrate= 182.1kbits/s speed= 228x    size=   10240KiB time=00:07:41.12 bitrate= 181.9kbits/s speed= 228x    size=   13056KiB time=00:09:36.32 bitrate= 185.6kbits/s speed= 228x    [out#0/mp3 @ 0x14f709220] video:0KiB audio:14432KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002267%
+size=   14432KiB time=00:10:36.76 bitrate= 185.7kbits/s speed= 228x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -2026,5 +1740,5 @@ Output #0, mp3, to 'audios/Mr_Trek/My_Starship_Enterprise_model_will_be_40ft_lon
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:24.96 bitrate= 222.1kbits/s speed= 168x    size=    4608KiB time=00:02:42.96 bitrate= 231.6kbits/s speed= 161x    size=    6912KiB time=00:04:00.15 bitrate= 235.8kbits/s speed= 159x    size=    9216KiB time=00:05:17.74 bitrate= 237.6kbits/s speed= 157x    size=   11776KiB time=00:06:36.17 bitrate= 243.5kbits/s speed= 157x    size=   14080KiB time=00:07:53.40 bitrate= 243.6kbits/s speed= 156x    size=   16384KiB time=00:09:10.66 bitrate= 243.7kbits/s speed= 156x    size=   18688KiB time=00:10:28.40 bitrate= 243.6kbits/s speed= 156x    [out#0/mp3 @ 0x131e2f950] video:0KiB audio:18830KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001737%
-size=   18831KiB time=00:10:37.40 bitrate= 242.0kbits/s speed= 157x    
+size=    2304KiB time=00:01:28.28 bitrate= 213.8kbits/s speed= 175x    size=    4864KiB time=00:02:49.08 bitrate= 235.7kbits/s speed= 167x    size=    7168KiB time=00:04:09.96 bitrate= 234.9kbits/s speed= 165x    size=    9728KiB time=00:05:31.16 bitrate= 240.6kbits/s speed= 164x    size=   12288KiB time=00:06:52.47 bitrate= 244.0kbits/s speed= 163x    size=   14592KiB time=00:08:13.83 bitrate= 242.1kbits/s speed= 163x    size=   16896KiB time=00:09:33.94 bitrate= 241.2kbits/s speed= 163x    [out#0/mp3 @ 0x14a630ca0] video:0KiB audio:18830KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001737%
+size=   18831KiB time=00:10:37.40 bitrate= 242.0kbits/s speed= 163x    

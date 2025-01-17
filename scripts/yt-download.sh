@@ -68,3 +68,6 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 
   echo "--------------------------"
 done < "$csv_file"
+
+# Remove empty directories
+find "$SOURCE" -type d -empty -delete

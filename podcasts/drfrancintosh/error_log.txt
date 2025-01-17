@@ -9,25 +9,25 @@ ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   libswscale      8.  3.100 /  8.  3.100
   libswresample   5.  3.100 /  5.  3.100
   libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Low Level/ive never seen anything like this..mp4':
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Electronoobs/Microphone capsule for DIY.mp4':
   Metadata:
     major_brand     : isom
     minor_version   : 512
     compatible_brands: isomav01iso2mp41
     encoder         : Lavf61.7.100
-  Duration: 00:16:42.28, start: 0.000000, bitrate: 1043 kb/s
-  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 1920x1080, 908 kb/s, SAR 1:1 DAR 16:9, 60 fps, 60 tbr, 16k tbn (default)
+  Duration: 00:00:59.26, start: 0.000000, bitrate: 657 kb/s
+  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, smpte170m/bt470bg/bt709), 720x1280, 529 kb/s, SAR 1:1 DAR 9:16, 30 fps, 30 tbr, 16k tbn (default)
       Metadata:
         handler_name    : ISO Media file produced by Google Inc.
         vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 124 kb/s (default)
+  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 120 kb/s (default)
       Metadata:
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
 Stream mapping:
   Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
 Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Low Level/ive_never_seen_anything_like_this_.mp3':
+Output #0, mp3, to 'audios/Electronoobs/Microphone_capsule_for_DIY.mp3':
   Metadata:
     major_brand     : isom
     minor_version   : 512
@@ -38,8 +38,8 @@ Output #0, mp3, to 'audios/Low Level/ive_never_seen_anything_like_this_.mp3':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:37.49 bitrate= 193.6kbits/s speed= 193x    size=    4608KiB time=00:03:22.20 bitrate= 186.7kbits/s speed= 200x    size=    7168KiB time=00:05:07.68 bitrate= 190.8kbits/s speed= 203x    size=    9472KiB time=00:06:53.57 bitrate= 187.6kbits/s speed= 205x    size=   11776KiB time=00:08:40.32 bitrate= 185.4kbits/s speed= 206x    size=   14080KiB time=00:10:26.48 bitrate= 184.1kbits/s speed= 207x    size=   16640KiB time=00:12:15.82 bitrate= 185.3kbits/s speed= 208x    size=   18944KiB time=00:14:03.84 bitrate= 183.9kbits/s speed= 209x    size=   21248KiB time=00:15:52.85 bitrate= 182.7kbits/s speed= 210x    [out#0/mp3 @ 0x13400bc30] video:0KiB audio:22379KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001479%
-size=   22379KiB time=00:16:42.28 bitrate= 182.9kbits/s speed= 210x    
+[out#0/mp3 @ 0x13070c740] video:0KiB audio:1391KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.023799%
+size=    1391KiB time=00:00:59.26 bitrate= 192.3kbits/s speed= 193x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -51,37 +51,37 @@ ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   libswscale      8.  3.100 /  8.  3.100
   libswresample   5.  3.100 /  5.  3.100
   libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Chandler Klüser/Nova GBS Control Pro.mp4':
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/TWiT_Tech_Podcast_Network/Smart Home Devices at CES 2025.mp4':
   Metadata:
     major_brand     : isom
     minor_version   : 512
-    compatible_brands: isomiso2avc1mp41
+    compatible_brands: isomiso2mp41
     encoder         : Lavf61.7.100
-  Duration: 00:02:11.50, start: 0.000000, bitrate: 387 kb/s
-  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 284 kb/s, 24 fps, 24 tbr, 16k tbn (default)
+  Duration: 00:01:22.96, start: 0.000000, bitrate: 944 kb/s
+  Stream #0:0[0x1](eng): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1080x1920, 828 kb/s, SAR 1:1 DAR 9:16, 30 fps, 30 tbr, 16k tbn (default)
       Metadata:
-        handler_name    : ISO Media file produced by Google Inc.
+        handler_name    : VideoHandler
         vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 97 kb/s (default)
+  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 108 kb/s (default)
       Metadata:
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
 Stream mapping:
   Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
 Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Chandler Klüser/Nova_GBS_Control_Pro.mp3':
+Output #0, mp3, to 'audios/TWiT_Tech_Podcast_Network/Smart_Home_Devices_at_CES_2025.mp3':
   Metadata:
     major_brand     : isom
     minor_version   : 512
-    compatible_brands: isomiso2avc1mp41
+    compatible_brands: isomiso2mp41
     TSSE            : Lavf61.7.100
   Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
       Metadata:
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2048KiB time=00:02:05.26 bitrate= 133.9kbits/s speed= 249x    [out#0/mp3 @ 0x125f0de40] video:0KiB audio:2203KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.015025%
-size=    2204KiB time=00:02:11.50 bitrate= 137.3kbits/s speed= 250x    
+[out#0/mp3 @ 0x156808720] video:0KiB audio:1662KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.019682%
+size=    1662KiB time=00:01:22.96 bitrate= 164.2kbits/s speed= 227x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -93,23 +93,37 @@ ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   libswscale      8.  3.100 /  8.  3.100
   libswresample   5.  3.100 /  5.  3.100
   libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/The 8-Bit Guy/How the ISEPIC cartridge works.f616.mp4':
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/DigiKey/Tool for Interactive Projection Mapping #creativecoding #processing #projectionmapping #MakerUpdate.mp4':
   Metadata:
-    major_brand     : dash
-    minor_version   : 0
-    compatible_brands: iso6mp41
-    creation_time   : 2025-01-13T22:04:00.000000Z
-  Duration: 00:08:08.23, start: 0.000000, bitrate: 2254 kb/s
-  Stream #0:0[0x1](und): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1920x1080, 2251 kb/s, 30 fps, 30 tbr, 1k tbn (default)
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:58.88, start: 0.000000, bitrate: 2016 kb/s
+  Stream #0:0[0x1](eng): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1080x1920, 1898 kb/s, SAR 1:1 DAR 9:16, 23.98 fps, 23.98 tbr, 16k tbn (default)
       Metadata:
-        creation_time   : 2025-01-13T22:04:00.000000Z
-        handler_name    : ISO Media file produced by Google Inc. Created on: 01/13/2025.
+        handler_name    : VideoHandler
         vendor_id       : [0][0][0][0]
-Stream map '' matches no streams.
-To ignore this, add a trailing '?' to the map.
-Failed to set value 'a' for option 'map': Invalid argument
-Error parsing options for output file audios/The 8-Bit Guy/How_the_ISEPIC_cartridge_works_f616.mp3.
-Error opening output files: Invalid argument
+  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 113 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'audios/DigiKey/Tool_for_Interactive_Projection_Mapping_creativecoding_processing_projectionmapping_MakerUpdate.mp3':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    TSSE            : Lavf61.7.100
+  Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 0x125f09250] video:0KiB audio:1528KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.021416%
+size=    1528KiB time=00:00:58.88 bitrate= 212.6kbits/s speed= 184x    
 ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   built with Apple clang version 16.0.0 (clang-1600.0.26.4)
   configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/7.1_4 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
@@ -121,37 +135,34 @@ ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers
   libswscale      8.  3.100 /  8.  3.100
   libswresample   5.  3.100 /  5.  3.100
   libpostproc    58.  3.100 / 58.  3.100
-Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/Simple Ideas/I Regret Not Learning These 18 Plastic Bottle Lifehacks At Age 40.mp4':
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'videos/How_2_Pixel/2024 Xlights Sequences now FOR SALE!!!.mp4':
   Metadata:
     major_brand     : isom
     minor_version   : 512
-    compatible_brands: isomav01iso2mp41
+    compatible_brands: isomiso2mp41
     encoder         : Lavf61.7.100
-  Duration: 00:11:31.42, start: 0.000000, bitrate: 1800 kb/s
-  Stream #0:0[0x1](und): Video: av1 (libdav1d) (Main) (av01 / 0x31307661), yuv420p(tv, bt709), 1920x1080, 1663 kb/s, SAR 1:1 DAR 16:9, 59.94 fps, 59.94 tbr, 16k tbn (default)
+  Duration: 00:00:40.96, start: 0.000000, bitrate: 1831 kb/s
+  Stream #0:0[0x1](eng): Video: vp9 (Profile 0) (vp09 / 0x39307076), yuv420p(tv, bt709), 1080x1920, 1672 kb/s, SAR 1:1 DAR 9:16, 30 fps, 30 tbr, 16k tbn (default)
       Metadata:
-        handler_name    : ISO Media file produced by Google Inc.
+        handler_name    : VideoHandler
         vendor_id       : [0][0][0][0]
-  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 126 kb/s (default)
+  Stream #0:1[0x2](eng): Audio: opus (Opus / 0x7375704F), 48000 Hz, stereo, fltp, 152 kb/s (default)
       Metadata:
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
 Stream mapping:
   Stream #0:1 -> #0:0 (opus (native) -> mp3 (libmp3lame))
 Press [q] to stop, [?] for help
-Output #0, mp3, to 'audios/Simple Ideas/I_Regret_Not_Learning_These_18_Plastic_Bottle_Lifehacks_At_Age_40.mp3':
+Output #0, mp3, to 'audios/How_2_Pixel/2024_Xlights_Sequences_now_FOR_SALE_.mp3':
   Metadata:
     major_brand     : isom
     minor_version   : 512
-    compatible_brands: isomav01iso2mp41
+    compatible_brands: isomiso2mp41
     TSSE            : Lavf61.7.100
   Stream #0:0(eng): Audio: mp3, 48000 Hz, stereo, fltp (default)
       Metadata:
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 libmp3lame
-size=    2304KiB time=00:01:24.92 bitrate= 222.3kbits/s speed= 168x    size=    4608KiB time=00:02:51.92 bitrate= 219.6kbits/s speed= 170x    size=    7168KiB time=00:04:19.54 bitrate= 226.2kbits/s speed= 171x    size=    9472KiB time=00:05:44.19 bitrate= 225.4kbits/s speed= 170x    size=   11776KiB time=00:07:11.69 bitrate= 223.5kbits/s speed= 171x    size=   14336KiB time=00:08:38.04 bitrate= 226.7kbits/s speed= 171x    size=   16640KiB time=00:10:04.18 bitrate= 225.6kbits/s speed= 171x    [out#0/mp3 @ 0x144807ec0] Error writing trailer: Immediate exit requested
-[out#0/mp3 @ 0x144807ec0] Error closing file: Immediate exit requested
-[out#0/mp3 @ 0x144807ec0] video:0KiB audio:17980KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
-size=   17920KiB time=00:10:44.12 bitrate= 227.9kbits/s speed= 171x    
-Exiting normally, received signal 15.
+[out#0/mp3 @ 0x1207091e0] video:0KiB audio:1426KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.022936%
+size=    1427KiB time=00:00:40.96 bitrate= 285.3kbits/s speed= 153x    
