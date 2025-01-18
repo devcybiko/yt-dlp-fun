@@ -5,50 +5,10 @@
   <description>A collection of my favorite audio recordings.</description>
   <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C</link>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Jan 2025 09:54:08 -0500</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jan 2025 10:20:31 -0500</lastBuildDate>
   <author>Dr Francintosh</author>
   <itunes:category text="Education"/>
   <itunes:image href="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/artwork.jpg"/>
   <itunes:explicit>no</itunes:explicit>
-  <item>
-    <title>Electronoobs: Microphone capsule for DIY</title>
-    <itunes:subtitle>Electronoobs</itunes:subtitle>
-    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Electronoobs/Microphone_capsule_for_DIY.mp3</link>
-    <guid isPermaLink="false">77af8d24dfdba8eb12b311f90bfc2458d9cd461d1d13d7d144e427057f1f181f</guid>
-    <pubDate>Fri, 17 Jan 2025 09:54:03 -0500</pubDate>
-    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/Electronoobs/Microphone_capsule_for_DIY.mp3" type="audio/mpeg" length="1424787"/>
-    <itunes:duration>0:00:59</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-  <item>
-    <title>TWiT Tech Podcast Network: Smart Home Devices at CES 2025</title>
-    <itunes:subtitle>TWiT Tech Podcast Network</itunes:subtitle>
-    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/TWiT_Tech_Podcast_Network/Smart_Home_Devices_at_CES_2025.mp3</link>
-    <guid isPermaLink="false">0b3c62bf511143a9a29fedc2675b3da1bc1ab23708889882616f27801a17e27f</guid>
-    <pubDate>Fri, 17 Jan 2025 09:54:04 -0500</pubDate>
-    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/TWiT_Tech_Podcast_Network/Smart_Home_Devices_at_CES_2025.mp3" type="audio/mpeg" length="1702367"/>
-    <itunes:duration>0:01:22</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-  <item>
-    <title>DigiKey: Tool for Interactive Projection Mapping creativecoding processing projectionmapping MakerUpdate</title>
-    <itunes:subtitle>DigiKey</itunes:subtitle>
-    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/DigiKey/Tool_for_Interactive_Projection_Mapping_creativecoding_processing_projectionmapping_MakerUpdate.mp3</link>
-    <guid isPermaLink="false">a150e1a776a98495b6e6501156a15951b8720a738fc806348b67c79aab4c9b6d</guid>
-    <pubDate>Fri, 17 Jan 2025 09:54:04 -0500</pubDate>
-    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/DigiKey/Tool_for_Interactive_Projection_Mapping_creativecoding_processing_projectionmapping_MakerUpdate.mp3" type="audio/mpeg" length="1564607"/>
-    <itunes:duration>0:00:58</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-  <item>
-    <title>How 2 Pixel: 2024 Xlights Sequences now FOR SALE </title>
-    <itunes:subtitle>How 2 Pixel</itunes:subtitle>
-    <link>http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/How_2_Pixel/2024_Xlights_Sequences_now_FOR_SALE_.mp3</link>
-    <guid isPermaLink="false">41ef0341a6892857fe9c256ef4791a810a74c9f2f8c65a094d8a8b0ce556d1e1</guid>
-    <pubDate>Fri, 17 Jan 2025 09:54:05 -0500</pubDate>
-    <enclosure url="http://drfrancintosh.com.s3.amazonaws.com/drfrancintosh-podcast-B67733EC-C767-4C97-A985-5898FE91CB0C/How_2_Pixel/2024_Xlights_Sequences_now_FOR_SALE_.mp3" type="audio/mpeg" length="1460927"/>
-    <itunes:duration>0:00:40</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
 </channel>
 </rss>

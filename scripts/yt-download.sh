@@ -70,4 +70,4 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 done < "$csv_file"
 
 # Remove empty directories
-find "$SOURCE" -type d -empty -delete
+find "$video_dir" -type d -empty -delete
